@@ -1,0 +1,12 @@
+ewolff:
+  name: Eberhard Wolff
+  bio: Eberhard Wolff arbeitet als freiberuflicher Architekt und Berater. Außerdem ist er ist Java Champion und Leiter des Technologie-Beirat der adesso AG. Sein technologischer Schwerpunkt liegt auf Spring, NoSQL und Cloud.
+anierbeck:
+  name: Achiem Nierbeck
+  bio: Achim Nierbeck arbeitet als IT-Consultant bei Codecentric in Karlsruhe. Er ist Member der Apache Software Foundation, PMC und Commiter im Projekt "Apache Karaf". Wenn er nicht in seiner Freizeit an einer der Projekte Apache Karaf oder Pax Web arbeitet, veröffentlicht er Artikel für das Java Magazin. Er ist unter anderem Co-Autor des Buches "Apache Karaf Cookbook.
+areelsen:
+  name: Alexander Reelsen
+  bio: Alexander Reelsen ist Software Engineer bei elasticsearch. Nach mehreren Jahren im Bereich der JVM basierten Webentwicklung mit Fokus auf leicht zu wartenden und zu entwickelnden Frameworks wie dem Play Framework oder Dropwizard liegt sein Fokus aktuell im Bereich Information Retrieval.
+tbiermann:
+  name: Tobias Biermann
+  bio: Tobias Biermann studierte Diplom-Informatik und hat mittlerweile 17 Jahre Berufserfahrung in der Softwareentwicklung. Er ist "Certified Professional for Software Architecture" (iSAQB) und arbeitet bei Booxware als Softwarearchitekt. Seine fachlichen Schwer punkte sind Softwarearchitektur, Webapplikationen, Systemintegration und Services (RESTful, SOA, …).
