@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<h3>{{ site.title }}</h3>
+
+{% for post in site.tags.events %}
+  {% capture currentyear %} Veranstaltungen {{post.date | date: "%Y"}}{% endcapture %}
+  {% if currentyear != year %}
+    {% unless forloop.first %}{% endunless %}
+    <h3>{{ currentyear }}</h3>
+    {% capture year %}{{currentyear}}{% endcapture %}
+  {% endif %}
+    <a href="{{ post.url }}">{{ post.date | date: "%-d. %B " }} - {{ post.title }}</a><br>
+{% endfor %}

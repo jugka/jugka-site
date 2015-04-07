@@ -1,18 +1,20 @@
-name: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+name: JUG Karlsruhe
+description: JUg Karlsruhe
 
-url: http://brianmaierjr.github.com/long-haul
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
 markdown: redcarpet
-pygments: true
 paginate: 5
 
 navigation:
  - title: Home
    url: /index.html
- - title: About
+ - title: Veranstaltungen
+   url: /events
+ - title: Hall of Fame
+   url: /speakers
+ - title: Über uns
    url: /about
- - title: Contact
+ - title: Kontakt
    url: /contact

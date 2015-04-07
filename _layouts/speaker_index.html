@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<h1>{{site.title}}</h1>
+
+{% assign speaker = site.data.speakers[page.speaker] %}
+
+<h3>{{ speaker.name }}</h3>
+<p>{{ speaker.bio }}</p>
+
+{% assign index = true %}
+
+            {% for post in site.posts %}
+              {% if post.speakers contains page.speaker %}
+
+                {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+                {% unless year == this_year %}
+                  {% assign year = this_year %}
+                  <h2>{{ year }}</h2>
+                  <a href="{{ post.url }}">{{ post.title }}</a>
+                {% endunless %}
+
+                {% assign content = post.content %}
+              {% endif %}
+{% endfor %}

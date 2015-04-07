@@ -4,4 +4,17 @@ hs-karlsruhe-m202:
   longitude: 8.390573
   name: Hochschule Karlsruhe
   room: Raum M-202
-  addresse: Moltkestr. 30, 76133 Karlsruhe
+  address: Moltkestr. 30, 
+  postcode: 76133 Karlsruhe
+synyx:
+  latitude: 49.005186
+  longitude: 8.385172
+  name: Synyx GmbH & Co. KG
+  address: Gartenstraße 67
+  postcode: 76135 Karlsruhe
+uni-ka-hs101:
+  latitude: 49.013685
+  longitude: 8.419475
+  name: KIT Karlsruhe
+  address: Am Fasanengarten 5
+  postcode: 76131 Karlsruhe

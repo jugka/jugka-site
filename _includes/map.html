@@ -1,0 +1,23 @@
+
+{% assign location = site.data.locations[page.location] %}
+<h4>Location</h4>
+
+{{ location.name }}, Raumnummer: {{ location.room }} <br>
+{{ location.address }} <br>
+{{ location.postcode }}
+
+<div id="map" style="width: 400px; height: 400px"></div>
+<script>
+
+    var map = L.map('map').setView([{{ location.latitude }}, {{ location.longitude }}], 17);
+
+    L.tileLayer('https://{s}.tiles.mapbox.com/v3/{id}/{z}/{x}/{y}.png', {
+      maxZoom: 18,
+      attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+        '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+        'Imagery © <a href="http://mapbox.com">Mapbox</a>',
+      id: 'examples.map-i875mjb7'
+    }).addTo(map);
+
+    L.marker([{{ location.latitude }}, {{ location.longitude }}]).addTo(map);
+</script>

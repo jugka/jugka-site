@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<h4>Hall of Fame</h4>
+{% assign hallOfFame = page.['hallOfFame'] %}
+
+{% for speaker in hallOfFame %}
+
+{% assign speakerShortName = speaker[0] %}
+{% assign numberOfTalks = speaker[1] %}
+
+{% assign speakerName = site.data.speakers[speakerShortName].name %}
+
+<a href="/speakers/{{ speakerShortName }}">{{ speakerName }}</a><br>
+{% endfor %}

@@ -1,0 +1,5 @@
+{% for pageSpeaker in page.speakers %}
+{% assign speaker = site.data.speakers[pageSpeaker] %}
+<h5>{{ speaker.name }}</h5>
+<p>{{ speaker.bio }}</p>
+{% endfor %}
