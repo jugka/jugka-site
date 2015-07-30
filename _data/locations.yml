@@ -18,3 +18,9 @@ uni-ka-hs101:
   name: KIT Karlsruhe
   address: Am Fasanengarten 5
   postcode: 76131 Karlsruhe
+tefabrik:
+  latitude: 49.012412
+  longitude: 8.425444
+  name: Technologie Fabrik Karlsruhe
+  address: Haid-und-Neu-Straße 7
+  postcode: 76131 Karlsruhe
