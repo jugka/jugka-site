@@ -24,3 +24,9 @@ tefabrik:
   name: Technologie Fabrik Karlsruhe
   address: Haid-und-Neu-Straße 7
   postcode: 76131 Karlsruhe
+netpioneer:
+  latitude: 49.003832
+  longitude: 8.420375
+  name: Netpioneer
+  address: Ludwig-Erhard-Allee 20
+  postcode: 76131 Karlsruhe
