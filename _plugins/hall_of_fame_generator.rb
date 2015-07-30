@@ -55,8 +55,6 @@ module Jekyll
             hallOfFame[speaker] += 1            
           end unless post_speakers.nil?
         end
-        puts hallOfFame
-        puts 'fhi'
         self.write_hall_of_fame_index(File.join(dir), hallOfFame)
       # Throw an exception if the layout couldn't be found.
       else
