@@ -2,7 +2,8 @@
 {% assign location = site.data.locations[page.location] %}
 <h4>Location</h4>
 
-{{ location.name }}, Raumnummer: {{ location.room }} <br>
+{{ location.name }}{% if defined?(location.room) %} , Raumnummer: {{ location.room }} {% endif %} 
+<br>
 {{ location.address }} <br>
 {{ location.postcode }}
 
