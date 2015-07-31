@@ -8,7 +8,6 @@ speakers:
  - sschreier
  - skoelsch
 location: hs-karlsruhe-m202
-enableLocation: true
 ---
 
 Microservices zeichnen sich insbesondere durch ihre Eigenständigkeit aus: Die Services sind so lose gekoppelt wie möglich. Damit bietet eine Microservices-Architektur den idealen Rahmen für den Einsatz unterschiedlicher Technologien, die jeweils genau zum zu lösenden Problem und dem Skillset der Entwickler passen. In einem solchen Umfeld lassen sich die Vorteile einer modernen Sprache wie Clojure voll ausnutzen: Knapper und präziser Code, Parallelverarbeitung und direkter Support für asynchrone Programmierung.

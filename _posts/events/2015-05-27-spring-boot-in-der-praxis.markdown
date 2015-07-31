@@ -6,7 +6,6 @@ tags: events
 speakers:
  - mdoninger
 location: netpioneer
-enableLocation: true
 ---
 
 Um die Entwicklung von Spring-basierten Anwendungen zu vereinfachen, wurde Spring Boot ins Leben gerufen. Mittlerweile bei Version 1.2 angelangt, unterstützt Spring Boot etliche Frameworks und Anwendungen, wie bspw. die gängigen Java-EE-APIs, RabbitMQ, Elasticsearch und natürlich die übrigen Spring-Projekte.

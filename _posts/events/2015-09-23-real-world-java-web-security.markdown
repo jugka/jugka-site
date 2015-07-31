@@ -6,7 +6,6 @@ tags: events
 speakers:
  - dschadow
 location: hs-karlsruhe-m202
-enableLocation: true
 ---
 
 In einer perfekten Welt sind alle Java-Frameworks sicher und können nicht falsch verwendet werden. Die Java-Plattform fängt die verbleibenden Programmierfehler ab, am Ende entsteht zwangsläufig eine sichere Webanwendung... In der Realität enthalten Frameworks - wie jede andere Software eben auch - Fehler und können falsch verwendet werden; die Java-Plattform kann nicht alle Nachlässigkeiten und Programmierfehler der Entwickler (vollständig) abfangen. Gleichzeitig führen stets wichtige neue Features und der allgegenwärtige Zeitmangel dazu, dass die Sicherheit bei der Entwicklung einer Webanwendung nur eine Nebenrolle spielt.

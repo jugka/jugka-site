@@ -6,7 +6,6 @@ tags: events
 speakers:
  - jroessler
 location: tefabrik
-enableLocation: true
 ---
 
 Wer hat den Teufelskreis aus Testing und Debugging noch nicht erlebt: In zwei Wochen ist Release-Date und die Tester finden täglich neue Fehler. Jeder Fehler führt zu einer Änderung im Programm. Und jede Änderung kann selbst wieder Fehler verursachen und muss deshalb getestet werden...

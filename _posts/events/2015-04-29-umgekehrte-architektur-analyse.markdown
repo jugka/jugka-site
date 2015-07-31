@@ -6,7 +6,6 @@ tags: events
 speakers:
   - jarrasz
   - cmennerich
-enableLocation: true
 location: synyx
 ---
 
