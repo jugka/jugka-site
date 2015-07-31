@@ -34,3 +34,7 @@ mdoninger:
     name: Manuel Doninge
     bio: Manuel Doninger lebt in Karlsruhe und arbeitet als freiberuflicher Softwareentwickler mit Schwerpunkt auf Java EE und Spring-Anwendungen. Daneben trägt er gelegentlich mit Contributions zu verschiedenen Open-Source-Projekten bei (wie bspw. Spring Boot).
     avatar: dummy-avatar.png
+sruppert:
+    name: Sven Ruppert
+    bio: Sven Ruppert has been coding Java since 1996. He is a Fellow for reply in Munich. In his free time he regularly contributes to German IT periodicals, including Java Magazin, Eclipse Magazin, and Entwickler Magazin, as well as tech portals such as JAXenter.de
+    avatar: dummy-avatar.png
