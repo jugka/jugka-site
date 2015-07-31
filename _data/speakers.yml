@@ -42,3 +42,15 @@ dschadow:
     name: Dominik Schadow
     bio: Dominik Schadow hat über 10 Jahre Erfahrung in der Java-Entwicklung und arbeitet als Senior Consultant beim IT-Beratungsunternehmen bridgingIT. Er ist spezialisiert auf die Architektur und Entwicklung von Java Enterprise Applikationen, Enterprise Application Integration und die sichere Softwareentwicklung mit Java. Daneben ist er regelmäßiger Speaker auf verschiedenen Konferenzen rund um die Themen Java und sichere Softwareentwicklung, Buchautor und Autor zahlreicher Fachartikel. In seiner Freizeit leitet er das Open-Source-Projekt JCrypTool, mit dem Anwender für die Kryptografie begeistert werden und ihre eigenen Krypto-Plug-ins entwickeln können.
     avatar: dummy-avatar.png
+skoelsch: 
+    name: Simon Kölsch
+    bio: Simon Kölsch arbeitet als Consultant bei der innoQ mit dem Schwerpunkt Web-Architektur und Security. Begeistern kann er sich für Lösungen die über den klassischen "Enterprise-Monolithen" hinaus gehen. In seiner Freizeit druckt er Dinge aus Plastik.
+    avatar: dummy-avatar.png
+sschreier: 
+    name: Silvia Schreier
+    bio: Silvia Schreier arbeitet als Consultant bei der innoQ Deutschland GmbH im Bereich REST-konforme Webanwendungen und NoSQL-Datenbanken. Sie beschäftigt sich seit 10 Jahren mit funktionalen Programmiersprachen und setzt diese immer häufiger in (polyglotten) Projekten ein.
+    avatar: dummy-avatar.png
+pschirmacher: 
+    name: Philipp Schirmacher
+    bio: Philipp Schirmacher arbeitet als Senior Consultant bei innoQ. Sein Schwerpunkt liegt auf der Entwicklung von Java-Applikationen in agilen Teams. Darüber hinaus interessiert er sich insbesondere für moderne Programmiersprachen wie Clojure und Scala.
+    avatar: dummy-avatar.png
