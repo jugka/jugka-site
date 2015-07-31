@@ -38,3 +38,7 @@ sruppert:
     name: Sven Ruppert
     bio: Sven Ruppert has been coding Java since 1996. He is a Fellow for reply in Munich. In his free time he regularly contributes to German IT periodicals, including Java Magazin, Eclipse Magazin, and Entwickler Magazin, as well as tech portals such as JAXenter.de
     avatar: dummy-avatar.png
+dschadow:
+    name: Dominik Schadow
+    bio: Dominik Schadow hat über 10 Jahre Erfahrung in der Java-Entwicklung und arbeitet als Senior Consultant beim IT-Beratungsunternehmen bridgingIT. Er ist spezialisiert auf die Architektur und Entwicklung von Java Enterprise Applikationen, Enterprise Application Integration und die sichere Softwareentwicklung mit Java. Daneben ist er regelmäßiger Speaker auf verschiedenen Konferenzen rund um die Themen Java und sichere Softwareentwicklung, Buchautor und Autor zahlreicher Fachartikel. In seiner Freizeit leitet er das Open-Source-Projekt JCrypTool, mit dem Anwender für die Kryptografie begeistert werden und ihre eigenen Krypto-Plug-ins entwickeln können.
+    avatar: dummy-avatar.png
