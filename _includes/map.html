@@ -1,5 +1,6 @@
 
 {% assign location = site.data.locations[page.location] %}
+{% if defined?(location) %}
 <h4>Location</h4>
 
 {{ location.name }}{% if defined?(location.room) %} , Raumnummer: {{ location.room }} {% endif %} 
@@ -22,3 +23,4 @@
 
     L.marker([{{ location.latitude }}, {{ location.longitude }}]).addTo(map);
 </script>
+{% endif %} 
