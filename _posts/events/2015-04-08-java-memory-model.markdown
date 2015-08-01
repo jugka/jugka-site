@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Java-Memory-Model: Was Entwickler wirklich wissen sollten"
-date:   2015-11-25 19:15:00
+date:   2015-04-08 19:15:00
 tags: events
 speakers: 
  - hschmidt
