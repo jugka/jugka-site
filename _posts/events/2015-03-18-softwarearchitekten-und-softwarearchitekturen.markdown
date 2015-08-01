@@ -5,6 +5,7 @@ date:   2015-03-18 19:15:00
 tags: events
 speakers: 
  - tbiermann
+location: hs-karlsruhe-m202
 ---
 
 Softwarearchitekturen und die Rolle Softwarearchitekt sind immer wieder gefallene Begriffe im Bereich der Softwareentwicklung. Dieser Vortrag setzt sich mit diesen Begriffen auseinander. Zuerst möchte ich die Rolle des Softwarearchitekten diskutieren.
