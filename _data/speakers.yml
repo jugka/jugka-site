@@ -58,3 +58,7 @@ nrauch:
     name: Nicole Rauch
     bio: Nicole Rauch ist freiberufliche Softwareentwicklerin und Softwareentwicklungscoach mit umfangreichem Hintergrund in Compilerbau und formalen Verifikationsmethoden. In den letzten Jahren konzentrierte sie sich auf die Sanierung von Legacy Code Applikationen. Unabhängig davon ist die funktionale Programmierung ihre heimliche Liebe. Neben ihrer Entwicklertätigkeit wirkte sie an der Ausrichtung mehrerer selbstorganisierter Konferenzen und an der Initiierung der Softwerkskammer, einer deutschlandweiten User Community zum Thema Software Craftsmanship, sowie ihrer Karlsruher Regionalgruppe mit. In ihrer Freizeit ist sie an der Entwicklung der Softwerkskammer-Webplattform, einem node.js Projekt, beteiligt.
     avatar: dummy-avatar.png
+hschmidt: 
+    name: Hubert Schmidt
+    bio: Hubert Schmid ist Diplom-Informatiker mit langjähriger Berufserfahrung in der Realisierung hoch-skalierender Internet-Infrastrukturen. Als Softwareentwickler, Softwarearchitekt und Entwicklungsleiter konzipierte, realisierte und verantwortete er Internetdienste mit minütlich mehreren Millionen Nutzern. Seit 2015 berät und unterstützt er freiberuflich Unternehmen in diesem Umfeld.
+    avatar: dummy-avatar.png

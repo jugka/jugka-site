@@ -1,0 +1,13 @@
+---
+layout: event
+title:  "Java-Memory-Model: Was Entwickler wirklich wissen sollten"
+date:   2015-11-25 19:15:00
+tags: events
+speakers: 
+ - hschmidt
+location: hs-karlsruhe-m202
+---
+
+Parallele und nebenläufige Programmierung wird für Java-Entwickler zunehmend wichtiger. Nutzen dabei mehrere Threads gemeinsamen Speicher, so ist ein Grundverständnis für das Java-Memory-Model unerlässlich. Dessen Komplexität ist weithin bekannt. Weit weniger verbreitet ist hingegen, dass bereits ein kleiner Teil der Spezifikation praktisch alle relevanten Fälle abdeckt.
+
+Der Vortrag erläutert diesen Teil der Spezifikation und zeigt, wie leicht verständlich und einfach nutzbar das Java-Memory-Model dadurch wird. Das Prinzip wird anhand einiger Beispiele veranschaulicht und dabei gegen andere Konsistenzmodelle abgegrenzt. Zum Abschluss wird bei Bedarf noch auf häufig gemachte Fehlinterpretationen eingegangen.
