@@ -10,5 +10,6 @@ layout: default
     <h3>{{ currentyear }}</h3>
     {% capture year %}{{currentyear}}{% endcapture %}
   {% endif %}
-    <a href="{{ post.url }}">{{ post.date | date: "%-d. %B " }} - {{ post.title }}</a><br>
+    <a href="{{ post.url }}">{{ post.date | date: "%-d. %B " }} - {{ post.title }}</a>
+    {% if post.['parleys'] != null %} <img src="/assets/img/video/icon_parleys.png" {% endif %}<br>
 {% endfor %}
