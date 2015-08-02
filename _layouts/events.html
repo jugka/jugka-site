@@ -11,5 +11,5 @@ layout: default
     {% capture year %}{{currentyear}}{% endcapture %}
   {% endif %}
     <a href="{{ post.url }}">{{ post.date | date: "%-d. %B " }} - {{ post.title }}</a>
-    {% if post.['parleys'] != null %} <img src="/assets/img/video/icon_parleys.png" {% endif %}<br>
+    {% if post.['parleys'] != null %}<a href="{{post.['parleys'] }}"><img src="/assets/img/video/icon_parleys.png"</a>{% endif %}<br>
 {% endfor %}
