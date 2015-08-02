@@ -66,3 +66,11 @@ cbarragan:
     name: Carlos Barragan
     bio: Carlos Barragan ist Consultant bei der NovaTec Consulting GmbH und arbeitet seit über 10 Jahren als Java Entwickler. An verschiedenen Projekten war er als Software Entwickler, Berater und Architekt beteiligt. Seine Schwerpunkte liegen auf Java, Java EE und Enterprise Anwendungen.
     avatar: dummy-avatar.png
+mpaluch:
+    name: Mark Paluch
+    bio: Mark Paluch ist Entwickler, Software-Achtitekt und Agile Coach. Er hat in unterschiedlichen Projekten Erfahrungen mit Clean Architecture gesammelt und möchte dieses Wissen in Form eines Vortrages weitergeben.
+    avatar: dummy-avatar.png
+bmartin:
+    name: Björn Martin
+    bio: Björn Martin ist Software Engineer bei Citrix und Co-Organisator der JUG Karlsruhe. Die Idee zum Vortrag entsprang seiner Leidenschaft für 3D.
+    avatar: dummy-avatar.png
