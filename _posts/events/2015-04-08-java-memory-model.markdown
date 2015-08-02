@@ -3,6 +3,7 @@ layout: event
 title:  "Java-Memory-Model: Was Entwickler wirklich wissen sollten"
 date:   2015-04-08 19:15:00
 tags: events
+parleys: https://www.parleys.com/tutorial/java-memory-model-was-entwickler-wirklich-wissen-solltens
 speakers: 
  - hschmidt
 location: hs-karlsruhe-m202
