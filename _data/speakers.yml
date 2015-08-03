@@ -74,3 +74,15 @@ bmartin:
     name: Björn Martin
     bio: Björn Martin ist Software Engineer bei Citrix und Co-Organisator der JUG Karlsruhe. Die Idee zum Vortrag entsprang seiner Leidenschaft für 3D.
     avatar: dummy-avatar.png
+nbyl:
+    name: Nicolas Byl
+    bio: Nicolas Byl studierte Medizinische Informatik an der Hochschule Heilbronn und Universität Heidelberg. Während des Studiums sammelte er erste Erfahrungen im Umfeld von Java-basierten Webportalen. Seit 2012 arbeitet bei der Netpioneer GmbH in Karlsruhe. Dort arbeitet er an Individualsoftware-Projekten im Bereich JEE und Spring. Dabei versucht er seinen Kollegen und Kunden die Vorzüge von Clean Code und TDD nahe zu bringen.
+    avatar: dummy-avatar.png
+ckumpe:
+    name: Christian Kumpe
+    bio: Christian Kumpe studierte Informatik am Karlsruher Institut für Technologie (KIT) und sammelte bereits während seines Studiums als Freelancer Erfahrung in diversen Java-Projekten. Seit 2011 arbeitet er als Softwareentwickler bei der Netpioneer GmbH in Karlsruhe. Seine aktuellen Themenschwerpunkte sind Java-basierte Portale und Internet-Plattformen. Es ist ihm ein wichtiges Anliegen die Wartbarkeit von Softwaresystemen durch guten Code zu erhalten und zu verbessern.
+    avatar: dummy-avatar.png
+mkiss:
+    name: Markus Kiss
+    bio: Markus Kiss, M. Sc., hat in Karlsruhe und Mannheim Informatik studiert und arbeitet als Senior Softwareentwickler bei der Netpioneer GmbH in Karlsruhe. Er interessiert sich seit mehreren Jahren für Clean Code und saubere Softwarearchitekturen. Code Smells und Antipatterns bringen ihn zwar immer wieder zum Schmunzeln, doch er findet es spannend, wie man mit einfachen Techniken und Praktiken genau dem entgegenwirken kann.
+    avatar: dummy-avatar.png
