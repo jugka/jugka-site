@@ -1,0 +1,13 @@
+---
+layout: event
+title:  "Introduction to application development with Hippo CMS"
+date:   2014-06-14 19:15:00
+tags: events
+speakers:
+ - ibronsveld
+location: netpioneer
+parleys: https://www.parleys.com/play/544ff472e4b06e1184ae437d
+---
+
+Hippo CMS is an open source, dual licensed Content Management System implemented in Java that uses popular components like Freemarker and Apache Jackrabbit.
+We will give an introduction to developing solutions using the Java enterprise content management system Hippo CMS. We will look at the strengths and weaknesses of the system, do a full demo of the important features and, explain the development cycle and how to get started with the development. We will also explore how to integrate with the system using open standards.
