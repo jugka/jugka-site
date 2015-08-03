@@ -94,3 +94,7 @@ aschwartz:
     name: Alexander Schwartz
     bio: Alexander Schwartz arbeitet als Principal IT Consultant bei msg systems ag. In den vergangenen Jahren hat er Softwareprojekte mit JEE und Spring in verschiedenen Rollen als Entwickler, ScrumMaster, Architekt und Projektmanager begleitet. Im Laufe der Zeit arbeitete er mit verschiedensten Web-Technologien. Er schätzt produktive Arbeitsumgebungen, agile Projekte und automatisierte Tests.
     avatar: dummy-avatar.jpg
+hseeberger:
+    name: Heiko Seeberger
+    bio: Heiko Seeberger ist als Director of Education für Typesafe tätig. Er ist Scala-Enthusiast, seit er 2008 diese wundervolle Sprache kennengelernt hat. Heiko hat mehr als 15 Jahre Erfahrung in der Beratung und Software-Entwicklung auf der Java-Plattform, trägt aktiv zu Projekten aus der Scala-Community bei und gibt seine Expertise regelmäßig in Form von Artikeln und Vorträgen weiter. Er ist außerdem Autor des Scala-Buches Durchstarten mit Scala. Heiko twittert unter @hseeberger und bloggt unter http://blog.heikoseeberger.name/.
+    avatar: dummy-avatar.jpg
