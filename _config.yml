@@ -6,6 +6,7 @@ permalink: blog/:title/
 
 markdown: redcarpet
 paginate: 5
+timezone: Europe/Berlin
 
 navigation:
  - title: Home
