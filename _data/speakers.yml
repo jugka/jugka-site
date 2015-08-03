@@ -90,3 +90,7 @@ ogierke:
     name: Oliver Gierke
     bio: Oliver Gierke ist Leiter des Spring Data Projekts bei Pivotal, früher besser bekannt als SpringSource. Seit über 8 Jahren widmet er sich dem Entwicklen von Java Enterprise Applikationen, Open Source Projekten und ist Mitglied der JPA Expert Group. Seine Arbeitsschwerpunkte liegen im Bereich Softwarearchitektur, Spring und Persistenztechnologien. Er ist regelmäßiger Sprecher auf deutschen und internationalen Konferenzen sowie Autor von Fachartikeln und des ersten Spring Data Buches.
     avatar: dummy-avatar.png
+aschwartz:
+    name: Alexander Schwartz
+    bio: Alexander Schwartz arbeitet als Principal IT Consultant bei msg systems ag. In den vergangenen Jahren hat er Softwareprojekte mit JEE und Spring in verschiedenen Rollen als Entwickler, ScrumMaster, Architekt und Projektmanager begleitet. Im Laufe der Zeit arbeitete er mit verschiedensten Web-Technologien. Er schätzt produktive Arbeitsumgebungen, agile Projekte und automatisierte Tests.
+    avatar: dummy-avatar.jpg
