@@ -106,3 +106,11 @@ tgetrost:
     name: Tobias Getrost
     bio: Tobias Getrost arbeitet seit 2010 für die CGI (Germany) GmbH & Co. KG als Berater im Bereich Business Process Management und Enterprise Java. Als passioniertem Clean Code Developer liegen ihm Themen rund um Software Qualität, Continous Delivery und effiziente Entwicklungsmethoden am Herzen. Im Rahmen seiner Tätigkeit leitet er Workshops zum Clean Code Development und zur Software Qualität.
     avatar: dummy-avatar.png
+nkoebler:
+    name: Niko Köbler
+    bio: Niko Köbler Co-Founder der Qualitects Group und freiberuflicher Software-Architekt und Developer für (Java) Enterprise Lösungen, Integrationen und Webdevelopment. Er berät und unterstützt Kunden verschiedenster Branchen, hält Workshops und Trainings und führt Architektur-Reviews durch. Niko ist Co-Lead der Java User Group Darmstadt (JUG DA), schreibt Artikel für Fachmagazine und ist regelmäßig als Sprecher auf Fachkonferenzen anzutreffen.
+    avatar: dummy-avatar.png
+hspindler:
+    name: Heiko Spindler
+    bio: Heiko Spindler ist freiberuflicher IT-Berater und Architekt. Seit über 16 Jahren ist Heiko Spindler als Software-Entwickler, Projektleiter und Software-Architekt in vielen Projekten unterschiedlicher Branchen tätig. Seine Aufgaben umfassen das Aufsetzen von Projekten sowie die Betreuung über den gesamten Entwicklungszyklus. Er beschäftigt sich hauptsächlich mit Software-Architekturen, modellgetriebener Entwicklung und der Verbindung von Geschäftsprozessen mit IT. Zudem berät er Kunden bei der Auswahl moderner Software-Architekturen, technischer Frameworks und agiler Vorgehen. Er ist seit 2007 Dozent an der Fachhochschule Gießen-Friedberg (für MDA) und spricht auf Fachkonferenzen. Zusammen mit Niko Köbler hat er die Qualitects Group gegründet.
+    avatar: dummy-avatar.png
