@@ -126,3 +126,7 @@ mploed:
     name: Michael Ploed
     bio: Michael Plöd ist Principal Architect und Partner bei der Senacor Technologies AG und in dieser Rolle überwiegend in Projekten tätig, die die Transformation großer IT-Landschaften anstreben. Michael ist Speaker auf zahlreichen Konferenzen und regelmäßiger Autor diverser Fachartikel zu den Themen Java Persistence, Apache Wicket und Präsentationstechniken.
     avatar: dummy-avatar.png
+nmaurer:
+    name: Norman Maurer
+    bio: Norman Maurer ist Principal Software Engineer bei Red Hat. Er beschäftigt sich seit mehreren Jahren mit Softwareentwicklung (Java und Scala) und Unix-basierten Betriebssystemen. Seine Schwerpunkte liegen hierbei auf der Entwicklung von netzwerkbasierenden Anwendungen und Frameworks. Er ist ein Mitglied der Apache Software Foundation und Core-Developer des Netty- und Vert.x-Projekts sowie Contributor in anderen Open-Source-Projekten.
+    avatar: dummy-avatar.png
