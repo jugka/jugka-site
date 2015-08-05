@@ -30,3 +30,9 @@ netpioneer:
   name: Netpioneer
   address: Ludwig-Erhard-Allee 20
   postcode: 76131 Karlsruhe
+fiducia:
+  latitude: 48.993601
+  longitude: 8.448069
+  name: Fiducia & GAD IT AG
+  address: Fiduciastraße 20
+  postcode: 76227 Karlsruhe
