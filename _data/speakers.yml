@@ -122,3 +122,7 @@ pfichtner:
     name: Peter Fichtner
     bio: Peter Fichtner schloss 1998 sein Ausbildung als DV-Kaufmann bei der Fiducia IT AG ab und arbeitet seit diesem Zeitpunkt im Bereich Anwendungsentwicklung. Das Spektrum erstreckt sich von der Entwicklung von Bankenanwendungen bis hin zur Erstellung von Frameworks und Frameworkkomponenten. Seit 1999 beschäftigt er sich mit der Programmiersprache Java und verschiedenen Java-basierten Bibliotheken. Mit seinem Wissen im Bereich Test-Driven-Development, Continuous Integration in Verbindung mit agilen Entwicklungsmethoden arbeitet er in verschiedenen Gremien, welche sich um die Themen Test und Modernisierung des Build-Systems als Aufgabe gesetzt haben. Nach seinem Wechsel 2009 in die Architektur ist eine seiner größten Aufgaben die Neuimplementierugn des Business Intelligence Java Frameworks. Nicht nur in den Fiducia-Projekten, sondern auch in einigen seiner privaten Opensource-Projekten, ist Google Guava von Anfang an ein integraler Bestandteil.
     avatar: dummy-avatar.png
+mploed:
+    name: Michael Ploed
+    bio: Michael Plöd ist Principal Architect und Partner bei der Senacor Technologies AG und in dieser Rolle überwiegend in Projekten tätig, die die Transformation großer IT-Landschaften anstreben. Michael ist Speaker auf zahlreichen Konferenzen und regelmäßiger Autor diverser Fachartikel zu den Themen Java Persistence, Apache Wicket und Präsentationstechniken.
+    avatar: dummy-avatar.png
