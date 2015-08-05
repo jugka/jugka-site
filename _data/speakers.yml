@@ -138,3 +138,7 @@ fhopf:
     name: Florian Hopf
     bio: Florian Hopf arbeitet als freiberuflicher Softwareentwickler mit den Schwerpunkten Content Management und Suchlösungen in Karlsruhe. Er interessiert sich für die unterschiedlichsten Technologien und ist einer der Organisatoren der Java User Group Karlsruhe.
     avatar: dummy-avatar.png
+bruecker:
+    name: Bernd Rücker
+    bio: Bernd Rücker ist Mitgründer und Geschäftsführer der camunda. Aber er ist auch Softwareentwickler, Trainer und Consultant. Er hat vor camunda BPM aktiv an der Entwicklung der Open Source Workflow Engines JBoss jBPM 3 und Activiti mitgearbeitet. Bernd begleitet seit 10 Jahren Kundenprojekte rund um BPM, Process Engines und Java Enterprise. Er ist Autor mehrerer Fachbücher, zahlreicher Zeitschriftenartikel und regelmäßiger Sprecher auf Konferenzen.
+    avatar: dummy-avatar.png
