@@ -130,3 +130,7 @@ nmaurer:
     name: Norman Maurer
     bio: Norman Maurer ist Principal Software Engineer bei Red Hat. Er beschäftigt sich seit mehreren Jahren mit Softwareentwicklung (Java und Scala) und Unix-basierten Betriebssystemen. Seine Schwerpunkte liegen hierbei auf der Entwicklung von netzwerkbasierenden Anwendungen und Frameworks. Er ist ein Mitglied der Apache Software Foundation und Core-Developer des Netty- und Vert.x-Projekts sowie Contributor in anderen Open-Source-Projekten.
     avatar: dummy-avatar.png
+useiler:
+    name: Uwe Seiler
+    bio: Uwe Seiler arbeitet für die codecentric AG und begeistert sich für die Möglichkeiten, die sich durch die Vielzahl an technologischen Innovationen im Bereich der verteilten Systeme bieten. Diese Begeisterung lebt er zum einen als Consultant und Trainer in Big Data Projekten aus und zum anderen liebt er die Diskussion darüber, z.B. als Redner auf Konferenzen oder auf den von ihm (mit-)organsierten User Groups zu MongoDB und Hadoop im Raum Rhein-Main. Zusätzlich arbeitet er gerade an seinem ersten Buch, einem praxisnahen Einstieg in MongoDB.
+    avatar: dummy-avatar.png

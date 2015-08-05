@@ -1,0 +1,13 @@
+---
+layout: event
+title:  "MongoDB für Java-Programmierer"
+date:   2013-12-11 19:15:00
+tags: events
+speakers:
+ - useiler
+location: hs-karlsruhe-m202
+---
+
+Der Bereich der alternativen NoSQL-Lösungen hat sich auch in deutschen Unternehmen mittlerweile immer mehr etabliert und findet dort bereits vielfachen Einsatz in verschiedensten Anwendungsgebieten oder ermöglicht bestenfalls ganz neue Anwendungsfälle. Dabei befindet sich gerade MongoDB immer mehr auf dem Weg zum neuen MySQL zu werden und viele Entwickler schätzen die Funktionalität von MongoDB verbunden mit dessen Flexibilität.
+
+Das Ziel des Vortrages ist es einen möglichst umfassenden Überblick über MongoDB zu geben, so dass am Ende jede r Zuhörer einen guten Eindruck von den Möglichkeiten und auch Grenzen mit MongoDB hat. Dazu steigen wir mit einem Überblick über die Konzepte und Prinzipien hinter NoSQL- und Big Data-Lösungen ein und stellen MongoDB relationalen Datenbanksystemen gegenüber. Weiterhin sehen wir uns in einer Live-Demo an, wie die typischen CRUD-Operationen mit MongoDB funktionieren und ebenso die Möglichkeiten zur Aggregation von Daten mittels des Aggregation Frameworks und Map/Reduce. Danach werfen wir einen Blick auf die Java API und die verschiedenen Java-Frameworks. Sollte dann immer noch Zeit und Interesse vorhanden sein, können wir zum Abschluss noch etwas fortgeschrittenere Themen wie Indexing, Replikation oder Sharding beleuchten.
