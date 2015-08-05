@@ -1,0 +1,16 @@
+---
+layout: event
+title:  "Neo4j und die wunderbare Welt der Graphen"
+date:   2013-09-04 19:15:00
+tags: events
+speakers:
+ - pneubauer
+parleys: http://parleys.com/play/525cf78be4b071755e2916f8
+location: hs-karlsruhe-m202
+---
+
+NOSQL, Big Data und Graphen sind zur Zeit in aller Munde - hier kommt etwas zum Thema!
+
+Wir beginnen mit einer Einführung in die Graphen-Datenbank Neo4j, die Abfragesprache Cypher und Beispiele für den Zugriff von Java und REST.
+
+Im zweiten Teil des Abends werden wir ein spezialisierteres Thema aufgreifen, z.B. Spring Data Neo4j, Grails, Nutzung von Neo4j-Server, das auf Neoj4 basierende Structr-CMS, Beispiel-Anwendungen in Java, Neo4j-Spatial, Empfehlungs- und andere Graphenalgorithmen, Neo4j Internals und vieles mehr vorstellen, oder ganz einfach Fragen beantworten, je nach eurem Interesse!

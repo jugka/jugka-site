@@ -142,3 +142,7 @@ bruecker:
     name: Bernd Rücker
     bio: Bernd Rücker ist Mitgründer und Geschäftsführer der camunda. Aber er ist auch Softwareentwickler, Trainer und Consultant. Er hat vor camunda BPM aktiv an der Entwicklung der Open Source Workflow Engines JBoss jBPM 3 und Activiti mitgearbeitet. Bernd begleitet seit 10 Jahren Kundenprojekte rund um BPM, Process Engines und Java Enterprise. Er ist Autor mehrerer Fachbücher, zahlreicher Zeitschriftenartikel und regelmäßiger Sprecher auf Konferenzen.
     avatar: dummy-avatar.png
+pneubauer:
+    name: Peter Neubauer
+    bio: Peter Neubauer ist einer der Gründer der populären Neo4j Graphdatenbank und anderer Open Source Projekte wie OPS4J. Er liebt es, neue Verbindungen zwischen Menschen, Projekten und Technologien zu schaffen. Zur Zeit ist Peter VP Community bei Neo Technology und Mentor für Coderdojo Malmö (Programmieren für Kinder) und Startup Bootcamp in Kopenhagen und Berlin. Für ein Bier ist Peter immer gern für ein Gespräch zu haben :)
+    avatar: dummy-avatar.png
