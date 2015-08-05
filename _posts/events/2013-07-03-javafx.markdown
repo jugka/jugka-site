@@ -1,0 +1,11 @@
+---
+layout: event
+title:  "Wie Phoenix aus der Asche…JavaFX 2.0"
+date:   2013-07-10 19:15:00
+tags: events
+speakers:
+ - ggrunwald
+location: uni-ka-hs101
+---
+
+Nach mehreren erfolglosen Versuchen JavaFX als Nachfolger von Java Swing zu etablieren, scheint es beim dritten Anlauf, unter der Führung von Oracle, dieses mal gelungen zu sein. Durch die Implementierung der JavaFX-Features in Java und den Verzicht auf die Sprache JavaFX-Script, fällt der Umstieg/Einstieg auf JavaFX nun wesentlich leichter. In diesem Vortrag wird ein kurzer Überblick über die neuen Features welche JavaFX mitbringt gegeben, wie z.b. SceneGraph, Bindings, Properties, CSS Styling, WebView, JFXPanel und mehr.
