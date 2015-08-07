@@ -152,3 +152,6 @@ ggrunwald:
 hrupp:
     name: Heiko W. Rupp
     bio: Heiko W. Rupp ist Diplom-Informatiker, hat in Karlsruhe studiert und arbeitet als Entwickler bei der Firma Red Hat im Bereich Monitoring und Management von Servern. Er hat das erste deutsche Buch zum JBoss Applikationsserver und eines der ersten Bücher zu EJB3 geschrieben. Rupp lebt mit seiner Familie in Stuttgart.
+szoerner:
+    name: Stefan Zörner
+    bio: Stefan Zörner ist Anwendungsarchitekt, Berater, Trainer und Coach bei oose in Hamburg. Seine inhaltlichen Schwerpunkte sind Softwarearchitektur und Java-Technologien. Ganz besonders interessiert ihn, wie sich Entwürfe effizient festhalten und kommunizieren lassen. Sein Wissen hierzu teilt er regelmäßig in Form von Vorträgen und Artikeln (u.a. im Java Magazin) mit. Im Mai 2012 ist im Hanser-Verlag sein Buch "Softwarearchitekturen dokumentieren und kommunizieren" erschienen. Stefan ist Apache-Committer, Certified Spring Professional und aktives Mitglied im International Software Architecture Qualification Board (iSAQB).
