@@ -1,0 +1,12 @@
+---
+layout: event
+title:  "Vaadine"
+date:   2013-01-30 19:15:00
+tags: events
+speakers:
+ - cjanz
+location: uni-ka-hs101
+parleys: https://www.parleys.com/play/517fc41de4b02c92eab43541
+---
+
+Im Bereich Web Frameworks hat das Java Ökosystem einiges an Vielfalt zu bieten. Vaadin ist ein Vertreter davon und erfreut sich immer größerer Beliebtheit. Ist Vaadin nur ein weiteres neues Java Web Framework oder was steckt dahinter? Dieser Vortrag gibt eine Übersicht über Vaadin, vergleicht es mit anderen Frameworks und gibt Empfehlungen für typische Einsatzszenarien. Außerdem werden einzelne Aspekte wie Databinding und Validierung in Live Demos genauer beleuchtet. Auch die Betrachtung der Unterstützung von testgetriebener Entwicklung (TDD) soll dabei nicht zu kurz kommen.

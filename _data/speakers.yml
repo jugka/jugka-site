@@ -155,3 +155,6 @@ hrupp:
 szoerner:
     name: Stefan Zörner
     bio: Stefan Zörner ist Anwendungsarchitekt, Berater, Trainer und Coach bei oose in Hamburg. Seine inhaltlichen Schwerpunkte sind Softwarearchitektur und Java-Technologien. Ganz besonders interessiert ihn, wie sich Entwürfe effizient festhalten und kommunizieren lassen. Sein Wissen hierzu teilt er regelmäßig in Form von Vorträgen und Artikeln (u.a. im Java Magazin) mit. Im Mai 2012 ist im Hanser-Verlag sein Buch "Softwarearchitekturen dokumentieren und kommunizieren" erschienen. Stefan ist Apache-Committer, Certified Spring Professional und aktives Mitglied im International Software Architecture Qualification Board (iSAQB).
+cjanz:
+    name: Christian Janz
+    bio: Christian Janz arbeitet als Consultant im Bereich Softwareentwicklung Java/JEE bei der bridgingIT GmbH in Mannheim. Sein Interesse gilt dabei der Architektur und Entwicklung von Geschäftsanwendungen mit Hilfe moderner Java Frameworks. Christian hat Informatik an der Universität Karlsruhe studiert und verfügt über mehr als 5 Jahre Erfahrung in der professionellen Softwareentwicklung.
