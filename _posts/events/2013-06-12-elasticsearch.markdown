@@ -5,6 +5,8 @@ date:   2013-06-12 19:15:00
 tags: events
 speakers:
  - areelsen
+location: uni-ka-hs101
+parleys: https://www.parleys.com/tutorial/elasticsearch-4
 ---
 
-Zu Beginn eines Projekts sind oft noch nicht alle Anforderungen erfassbar oder bekannt. Am Beispiel eines Projekts aus der Logistik wird ausführlich diskutiert, wie anhand technischer Fallbeispiele eine risikominimierende Entscheidung für einen Datastore gefällt werden konnte. Anhand von Lasttests, API-Testszenarien und Mengengerüsten wird in der Session demonstriert, wie man ohne konkrete fachliche Anforderungen dennoch in der Lage ist, mit einer gewissen Wahscheinlichkeit das passende Produkt ausgewählt zu haben.
+Eine performante, verteilte und relevante Suchmaschine zu erstellen und zu verwalten, ist eine komplexe Aufgabe. Dieser Vortrag zeigt die auftretenden Komplexitäten beim Aufsetzen einer verteilten Suchmaschine - aus Administrator-, Entwickler- und Usersicht - aber auch, wie man einige dieser Probleme mit elasticsearch als Plattform lösen kann. Des Weiteren werden ebenfalls die initiale Konfiguration, Integrationsszenarien, Betrieb in der Produktionsumgebung sowie die mögliche Erweiterbarkeit von elasticsearch beleuchtet.
