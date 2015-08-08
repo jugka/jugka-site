@@ -6,7 +6,6 @@ tags: events
 speakers:
  - fhopf
 location: uni-ka-hs101
-parleys: http://www.parleys.com/play/5148922b0364bc17fc56ca3b
 ---
 
 Seit Jahren wächst die Menge an Inhalten, die in informationsverarbeitenden Systemen zur Verfügung steht rasant an. Um den Zugang zu diesen Informationen so komfortabel wie möglich zu gestalten sind indexbasierte Suchlösungen nicht mehr wegzudenken.
