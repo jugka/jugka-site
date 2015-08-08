@@ -194,3 +194,6 @@ hdockter:
 oboehm:
     name: Oliver Böhm
     bio: Oliver Böhm studierte Informatik an der Universität Stuttgart. Nach C++-Entwickung im Unix-Bereich beschäftigt er sich mit Java-Entwicklung unter Linux und Aspekt-Orientierte SW-Entwicklung. Er ist u.a. Autor von "Aspekt-Orientierte Programmierung mit AspectJ 5" (dpunkt.verlag). Neben seiner hauptberuflichen Tätigkeit als J2EE-Entwickler und -Coach bei agentes gibt er AOSD-Vorlesungen und ist Leiter der SIG AspectJ innerhalb der JUGS.
+stilkov:
+    name: Stefan Tilkov
+    bio: Stefan Tilkov ist Geschäftsführer und Principal Consultant bei der innoQ Deutschland GmbH, wo er sich vorwiegend mit der strategischen Beratung von Kunden im Umfeld von Softwarearchitekturen beschäftigt. Er ist Autor des Buchs "REST und HTTP", Mitherausgeber von "SOA-Expertenwissen" (beide dpunkt.verlag), Autor zahlreicher Fachartikel und häufiger Sprecher auf internationalen Konferenzen.
