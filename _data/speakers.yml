@@ -170,3 +170,6 @@ lvogel:
 rreiz:
     name: Robert Reiz
     bio: Robert Reiz ist jetzt seit 14 Jahren in der Software Entwicklung tätig. Er hat von 2000 bis 2005 an der Hochschule Mannheim Informatik studiert. 2008 hat er die PLOIN GmbH, ein Software Consulting Haus in Mannheim, gegründet. Ende 2010 hat er die Firma verkauft und ist in die USA nach San Francisco gezogen um dort bei einem Internet Start-Up mitzuwirken. Seit Dezember 2011 ist er wieder in Deutschland und arbeitet am Internetportal VersionEye.com, eine Suchmaschine für Software Bibliotheken.
+dkurka:
+    name: Daniel Kurka
+    bio: Daniel Kurka ist seit ca. 15 Jahren Webentwickler und GWT Committer. Seit 2009 erstellt er u.a. mobile Anwendungen mit GWT und PhoneGap und hat zu diesem Zweck zwei Open Source Projekte veröffentlicht mgwt und GWT-PhoneGap. Durch diese Frameworks ist er zu einem Experten für performante, mobile, cross-plattform Anwendungen auf Basis von HTML5 und CSS3 geworden.
