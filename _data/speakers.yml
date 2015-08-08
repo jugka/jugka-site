@@ -173,3 +173,6 @@ rreiz:
 dkurka:
     name: Daniel Kurka
     bio: Daniel Kurka ist seit ca. 15 Jahren Webentwickler und GWT Committer. Seit 2009 erstellt er u.a. mobile Anwendungen mit GWT und PhoneGap und hat zu diesem Zweck zwei Open Source Projekte veröffentlicht mgwt und GWT-PhoneGap. Durch diese Frameworks ist er zu einem Experten für performante, mobile, cross-plattform Anwendungen auf Basis von HTML5 und CSS3 geworden.
+swagner:
+    name: Sebastian Wagner
+    bio: Sebastian Wagner arbeitet freiberuflich als Java und Flex/OpenLaszlo Entwickler. Er hat das Projekt OpenMeetings 2007 gegründet und ist einer der Hauptentwickler des Projektes Apache OpenMeetings, das sich gerade bei der Apache Software Foundation im Incubator befindet. Er hält regelmäßig Vorträge bei der MoodleMoot zum Thema OpenMeetings.
