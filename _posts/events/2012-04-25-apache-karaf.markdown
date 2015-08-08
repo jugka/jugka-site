@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Apache Karaf"
-date:   2013-06-12 19:15:00
+date:   2012-04-25 19:15:00
 tags: events
 speakers:
  - anierbeck
