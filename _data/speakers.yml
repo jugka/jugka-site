@@ -182,3 +182,6 @@ cmay:
 dtopic:
     name: Dalibor Topic
     bio: Dalibor Topic lives in Hamburg, Germany, and works as Java F/OSS Ambassador for Oracle. He joined the OpenJDK project in order to help make it a successful open source project, and stayed for anchoring Java in Linux distributions, and as an all around Java F/OSS community guy. He joined the Java strategy team at Oracle to help provide community feedback into the long-term strategy planning.
+rmartin:
+    name: Robert C. Martin
+    bio: Robert C. Martin aka Uncle Bob was in Karlsruhe doing a course on Agile Software Craftmanship with Andrena and agreed to give talk for us. He is the well know author of books like Clean Code and Agile Software Development Principles, Patterns and Practices and one of the leading member of the Software Craftmanship movement. In 2001, he initiated the meeting of the group that created Agile software development from Extreme Programming techniques.

@@ -1,0 +1,9 @@
+---
+layout: event
+title:  "Robert C. Martin (Uncle Bob)"
+date:   2012-02-16 19:15:00
+tags: events
+speakers:
+ - rmartin
+location: ptvag
+---
