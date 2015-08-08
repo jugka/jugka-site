@@ -6,7 +6,6 @@ tags: events
 speakers:
  - mploed
 location: uni-ka-hs101
-parleys: http://www.parleys.com/play/514892290364bc17fc56c375
 ---
 
 Apache Wicket ist ein komponentenbasiertes Web-Framework, welches als Top-Level Projekt unter dem Dach der Apache Foundation entwickelt wird.
