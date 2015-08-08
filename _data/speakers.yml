@@ -164,3 +164,6 @@ mkrauße:
 bfondermann:
     name: Bernd Fondermann
     bio: Bernd Fondermann ist Java Entwickler und Architekt, Freelancer, Member der Apache Software Foundation und Autor der JavaMagazin-Kolumne "Flinke Feder".
+lvogel:
+    name: Lars Vogel
+    bio: Lars Vogel arbeitet freiberuflich als Entwickler, Trainer und Buchauthor im Eclipse und Android Umfeld. Er ist regelmässiger Sprecher auf internationalen Konferenzen wie der Devoxx, EclipseCon, JAX, MobileTechCon oder der O'Reilly Android Open. Mit mehr als einer Million Besuchern im Monat ist Lars Webseite http://www.vogella.de/ eine zentrale Anlaufstelle für Fragen im Bereich Android und Eclipse.

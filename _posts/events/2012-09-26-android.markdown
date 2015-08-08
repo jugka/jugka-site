@@ -1,0 +1,11 @@
+---
+layout: event
+title:  "10 Dinge die Android großartig machen"
+date:   2012-09-26 19:15:00
+tags: events
+speakers:
+ - lvogel
+location: uni-ka-hs101
+---
+
+Android wächst wie verrückt. Im März 2012 berichtet Google, daß jeden Tag 880 000 neue Android Telephone aktiviert werden. In diesem Talk wird Android als Software Entwicklungsplatform vorgestellt und auf die Feature eingegangen, die Android als Platform so erfolgreich machen.
