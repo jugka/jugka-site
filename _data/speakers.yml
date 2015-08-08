@@ -191,3 +191,6 @@ wweigend:
 hdockter:
     name: Hans Dockter
     bio: Hans Dockter ist der Gründer und Leiter von Gradle, sowie der Geschäftsführer der Gradle GmbH, ein Unternehmen, das Training, Support und Beratung für Gradle und Enterprise-Projektautomatisierung im Allgemeinen anbietet. Hans Dockter hat 13 Jahre Erfahrung als Softwareentwickler, Projektleiter, Architekt, Trainer und Mentor. Er ist einer der führenden Köpfe im Gebiet der Projektautomatisierung und zeichnete sich verantwortlich für eine Vielzahl von komplexen Enterprise Builds. Er ist auch ein Verfechter von Domain-driven Design und gab Vorträge und Trainings zusammen mit Eric Evans zu diesem Thema. In grauer Vorzeit war er auch Committer für das JBoss-Projekt und schuf die JBoss-IDE.
+oboehm:
+    name: Oliver Böhm
+    bio: Oliver Böhm studierte Informatik an der Universität Stuttgart. Nach C++-Entwickung im Unix-Bereich beschäftigt er sich mit Java-Entwicklung unter Linux und Aspekt-Orientierte SW-Entwicklung. Er ist u.a. Autor von "Aspekt-Orientierte Programmierung mit AspectJ 5" (dpunkt.verlag). Neben seiner hauptberuflichen Tätigkeit als J2EE-Entwickler und -Coach bei agentes gibt er AOSD-Vorlesungen und ist Leiter der SIG AspectJ innerhalb der JUGS.
