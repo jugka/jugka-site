@@ -179,3 +179,6 @@ swagner:
 cmay:
     name: Christof May 
     bio: Christof May ist freiberuflicher Software-Entwickler, Architekt und Forscher aus Leidenschaft mit den Schwerpunkt Java Enterprise, Web und Cloud Computing.
+dtopic:
+    name: Dalibor Topic
+    bio: Dalibor Topic lives in Hamburg, Germany, and works as Java F/OSS Ambassador for Oracle. He joined the OpenJDK project in order to help make it a successful open source project, and stayed for anchoring Java in Linux distributions, and as an all around Java F/OSS community guy. He joined the Java strategy team at Oracle to help provide community feedback into the long-term strategy planning.
