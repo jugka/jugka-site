@@ -1,0 +1,9 @@
+---
+layout: event
+title:  "Scrum"
+date:   2009-12-09 19:15:00
+tags: events
+speakers:
+ - ?
+location: uni-ka-hs101
+---
