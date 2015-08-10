@@ -4,6 +4,6 @@ title:  "Scrum"
 date:   2009-12-09 19:15:00
 tags: events
 speakers:
- - ?
+ - unknown
 location: uni-ka-hs101
 ---
