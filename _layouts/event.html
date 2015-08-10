@@ -3,7 +3,11 @@ layout: default
 ---
 <h4>{{ page.title }}</h4>
 
-{{ content }}
+{% if content == "" or content == nil or content == blank %}
+	<p>Für diese Veranstaltung gibt es leider keine Beschreibung.</p>
+{% else %}
+	{{ content }}
+{% endif %}
 
 {% include speaker.html %}
 {% include map.html %}
