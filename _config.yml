@@ -2,11 +2,14 @@ name: JUG Karlsruhe
 description: JUg Karlsruhe
 
 paginate_path: "blog/page:num/"
-permalink: blog/:title/
+permalink: content/:title/
 
 markdown: redcarpet
 paginate: 5
 timezone: Europe/Berlin
+
+url: jugka.github.io
+baseurl: /jugka
 
 navigation:
  - title: Home
