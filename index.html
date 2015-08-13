@@ -7,15 +7,15 @@ title: JUG Karlsruhe
 
 {% for post in site.tags.events %}
 {% if post.date > site.time %}
-<a href="{{ post.url }}">{{ post.date | date: "%d-%m-%Y" }} - {{ post.title }}</a><br>
+<a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%d-%m-%Y" }} - {{ post.title }}</a><br>
 {% endif %}
 {% endfor %}
 
 <h3 class="post-title">Unterstützer / Sponsoren</h3>
-<img style="padding: 1.0em" src="assets/img/support/netpioneer.png">
-<img style="padding: 1.0em" src="assets/img/support/synyx.png">
-<img style="padding: 1.0em" src="assets/img/support/unic-logo.jpg">
-<img style="padding: 1.0em" src="assets/img/support/logo_jrebel.png">
-<img style="padding: 1.0em" src="assets/img/support/logo_javamagazin_218x69.png">
-<img style="padding: 1.0em" src="assets/img/support/logo_dpunkt_verlag_218x78.png">
-<img style="padding: 1.0em" src="assets/img/support/hanser_logo.png">
+<img style="padding: 1.0em" src="{{ site.baseurl }}/assets/img/support/netpioneer.png">
+<img style="padding: 1.0em" src="{{ site.baseurl }}/assets/img/support/synyx.png">
+<img style="padding: 1.0em" src="{{ site.baseurl }}/assets/img/support/unic-logo.jpg">
+<img style="padding: 1.0em" src="{{ site.baseurl }}/assets/img/support/logo_jrebel.png">
+<img style="padding: 1.0em" src="{{ site.baseurl }}/assets/img/support/logo_javamagazin_218x69.png">
+<img style="padding: 1.0em" src="{{ site.baseurl }}/assets/img/support/logo_dpunkt_verlag_218x78.png">
+<img style="padding: 1.0em" src="{{ site.baseurl }}/assets/img/support/hanser_logo.png">
