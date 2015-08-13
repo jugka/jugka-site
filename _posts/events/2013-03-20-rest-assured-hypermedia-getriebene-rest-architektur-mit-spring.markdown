@@ -1,0 +1,12 @@
+---
+layout: event
+title:  "REST assured - Hypermedia getriebene REST Architektur mit Spring"
+date:   2013-03-20 19:15:00
+tags: events
+speakers:
+ - ogierke
+location: ptvag
+parleys: https://www.parleys.com/play/51a47253e4b0e5ad37b6f2d4/
+---
+
+Spring MVC bietet eine solide Grundlage um REST basierte WebServices mit Java zu implementieren. Dennoch bleibt das umsetzen von Hypermedia und komplexerer Geschäftslogik eine Herausforderung. The Vortrag diskutiert Grundsätze von Hypermedia und zeigt die daraus entstehenden Problemstellungen an einem praktischen Beispiel. Darauf antwortend erörtern wir Ansätze und Lösungen für diese Problematiken die in Kundenprojekten erarbeitet wurden anhand von hands-on Codebeispielen.
