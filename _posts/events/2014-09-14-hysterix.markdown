@@ -6,6 +6,7 @@ tags: events
 speakers:
  - aschwartz
 location: hs-karlsruhe-m202
+parleys: https://speakerdeck.com/ahus1/robuste-anwendungen-mit-hystrix
 youtube: https://www.youtube.com/watch?v=SaJJ7T8EeEI
 ---
 
