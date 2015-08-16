@@ -1,151 +1,114 @@
 ewolff:
     name: Eberhard Wolff
     bio: Eberhard Wolff arbeitet als freiberuflicher Architekt und Berater. Außerdem ist er ist Java Champion und Leiter des Technologie-Beirat der adesso AG. Sein technologischer Schwerpunkt liegt auf Spring, NoSQL und Cloud.
-    avatar: dummy-avatar.png
 anierbeck:
     name: Achim Nierbeck
     bio: Achim Nierbeck arbeitet als IT-Consultant bei Codecentric in Karlsruhe. Er ist Member der Apache Software Foundation, PMC und Commiter im Projekt "Apache Karaf". Wenn er nicht in seiner Freizeit an einer der Projekte Apache Karaf oder Pax Web arbeitet, veröffentlicht er Artikel für das Java Magazin. Er ist unter anderem Co-Autor des Buches "Apache Karaf Cookbook.
-    avatar: dummy-avatar.png
 areelsen:
     name: Alexander Reelsen
     bio: Alexander Reelsen ist Software Engineer bei elasticsearch. Nach mehreren Jahren im Bereich der JVM basierten Webentwicklung mit Fokus auf leicht zu wartenden und zu entwickelnden Frameworks wie dem Play Framework oder Dropwizard liegt sein Fokus aktuell im Bereich Information Retrieval.
-    avatar: dummy-avatar.png
 tbiermann:
     name: Tobias Biermann
     bio: Tobias Biermann studierte Diplom-Informatik und hat mittlerweile 17 Jahre Berufserfahrung in der Softwareentwicklung. Er ist "Certified Professional for Software Architecture" (iSAQB) und arbeitet bei Booxware als Softwarearchitekt. Seine fachlichen Schwer punkte sind Softwarearchitektur, Webapplikationen, Systemintegration und Services (RESTful, SOA, …).
-    avatar: dummy-avatar.png
 jarrasz:
     name: Joachim Arrasz
     bio:  Joachim Arrasz ist als Software- und Systemarchitekt in Karlsruhe bei der synyx GmbH & Co. KG als Leiter der CodeClinic tätig. Darüber hinaus twittert (@arrasz) und bloggt er gerne (http://blog.synyx.de/)
-    avatar: dummy-avatar.png
 cmennerich:
     name: Christian Mennerich
     bio: Christian Mennerich hat Diplom-Informatik studiert, einer seiner Schwerpunkte lag auf Theorie und Implementation von Datenbanksystemen. Er arbeitet als Entwickler bei der synyx GmbH & Co. KG in Karlsruhe, wo er sich unter anderem mit NoSQL beschäftigt.
-    avatar: dummy-avatar.png
 cschneider:
     name: Christian Schneider
     bio: Christian Schneider ist Open Source Softwarearchitekt bei Talend. Er arbeitet Vollzeit an den Apache-Projekten, welche die Basis des Talend ESB bilden (Camel, CXF, Karaf). In seinen mehr als 15 Jahren Entwicklungserfahrung war er unter anderem für die SOA-Technologie des Stromhandels eines der größten deutschen Entergiekonzerne verantwortlich.
-    avatar: dummy-avatar.png
 jroessler:
     name: Dr. Jeremias Rößler
     bio: Dr. Jeremias Rößler ist Software Ingenieur und Experte für die Erstellung und Pflege großer, komplexer Softwaresysteme. Er besitzt über sechs Jahre Berufserfahrung in der Software-Entwicklung. 2013 hat er am Lehrstuhl für Softwaretechnik an der Universität des Saarlandes promoviert. Er ist Gründer von ReTest (www.retest.de), einem IT-Dienstleistungsunternehmen das Software programmunterstützt testet.
-    avatar: dummy-avatar.png
 mdoninger:
     name: Manuel Doninger
     bio: Manuel Doninger lebt in Karlsruhe und arbeitet als freiberuflicher Softwareentwickler mit Schwerpunkt auf Java EE und Spring-Anwendungen. Daneben trägt er gelegentlich mit Contributions zu verschiedenen Open-Source-Projekten bei (wie bspw. Spring Boot).
-    avatar: dummy-avatar.png
 sruppert:
     name: Sven Ruppert
     bio: Sven Ruppert has been coding Java since 1996. He is a Fellow for reply in Munich. In his free time he regularly contributes to German IT periodicals, including Java Magazin, Eclipse Magazin, and Entwickler Magazin, as well as tech portals such as JAXenter.de
-    avatar: dummy-avatar.png
 dschadow:
     name: Dominik Schadow
     bio: Dominik Schadow hat über 10 Jahre Erfahrung in der Java-Entwicklung und arbeitet als Senior Consultant beim IT-Beratungsunternehmen bridgingIT. Er ist spezialisiert auf die Architektur und Entwicklung von Java Enterprise Applikationen, Enterprise Application Integration und die sichere Softwareentwicklung mit Java. Daneben ist er regelmäßiger Speaker auf verschiedenen Konferenzen rund um die Themen Java und sichere Softwareentwicklung, Buchautor und Autor zahlreicher Fachartikel. In seiner Freizeit leitet er das Open-Source-Projekt JCrypTool, mit dem Anwender für die Kryptografie begeistert werden und ihre eigenen Krypto-Plug-ins entwickeln können.
-    avatar: dummy-avatar.png
 skoelsch: 
     name: Simon Kölsch
     bio: Simon Kölsch arbeitet als Consultant bei der innoQ mit dem Schwerpunkt Web-Architektur und Security. Begeistern kann er sich für Lösungen die über den klassischen "Enterprise-Monolithen" hinaus gehen. In seiner Freizeit druckt er Dinge aus Plastik.
-    avatar: dummy-avatar.png
 sschreier: 
     name: Silvia Schreier
     bio: Silvia Schreier arbeitet als Consultant bei der innoQ Deutschland GmbH im Bereich REST-konforme Webanwendungen und NoSQL-Datenbanken. Sie beschäftigt sich seit 10 Jahren mit funktionalen Programmiersprachen und setzt diese immer häufiger in (polyglotten) Projekten ein.
-    avatar: dummy-avatar.png
 pschirmacher: 
     name: Philipp Schirmacher
     bio: Philipp Schirmacher arbeitet als Senior Consultant bei innoQ. Sein Schwerpunkt liegt auf der Entwicklung von Java-Applikationen in agilen Teams. Darüber hinaus interessiert er sich insbesondere für moderne Programmiersprachen wie Clojure und Scala.
-    avatar: dummy-avatar.png
 nrauch: 
     name: Nicole Rauch
     bio: Nicole Rauch ist freiberufliche Softwareentwicklerin und Softwareentwicklungscoach mit umfangreichem Hintergrund in Compilerbau und formalen Verifikationsmethoden. In den letzten Jahren konzentrierte sie sich auf die Sanierung von Legacy Code Applikationen. Unabhängig davon ist die funktionale Programmierung ihre heimliche Liebe. Neben ihrer Entwicklertätigkeit wirkte sie an der Ausrichtung mehrerer selbstorganisierter Konferenzen und an der Initiierung der Softwerkskammer, einer deutschlandweiten User Community zum Thema Software Craftsmanship, sowie ihrer Karlsruher Regionalgruppe mit. In ihrer Freizeit ist sie an der Entwicklung der Softwerkskammer-Webplattform, einem node.js Projekt, beteiligt.
-    avatar: dummy-avatar.png
 hschmidt: 
     name: Hubert Schmidt
     bio: Hubert Schmid ist Diplom-Informatiker mit langjähriger Berufserfahrung in der Realisierung hoch-skalierender Internet-Infrastrukturen. Als Softwareentwickler, Softwarearchitekt und Entwicklungsleiter konzipierte, realisierte und verantwortete er Internetdienste mit minütlich mehreren Millionen Nutzern. Seit 2015 berät und unterstützt er freiberuflich Unternehmen in diesem Umfeld.
-    avatar: dummy-avatar.png
 cbarragan:
     name: Carlos Barragan
     bio: Carlos Barragan ist Consultant bei der NovaTec Consulting GmbH und arbeitet seit über 10 Jahren als Java Entwickler. An verschiedenen Projekten war er als Software Entwickler, Berater und Architekt beteiligt. Seine Schwerpunkte liegen auf Java, Java EE und Enterprise Anwendungen.
-    avatar: dummy-avatar.png
 mpaluch:
     name: Mark Paluch
     bio: Mark Paluch ist Entwickler, Software-Achtitekt und Agile Coach. Er hat in unterschiedlichen Projekten Erfahrungen mit Clean Architecture gesammelt und möchte dieses Wissen in Form eines Vortrages weitergeben.
-    avatar: dummy-avatar.png
 bmartin:
     name: Björn Martin
     bio: Björn Martin ist Software Engineer bei Citrix und Co-Organisator der JUG Karlsruhe. Die Idee zum Vortrag entsprang seiner Leidenschaft für 3D.
-    avatar: dummy-avatar.png
 nbyl:
     name: Nicolas Byl
     bio: Nicolas Byl studierte Medizinische Informatik an der Hochschule Heilbronn und Universität Heidelberg. Während des Studiums sammelte er erste Erfahrungen im Umfeld von Java-basierten Webportalen. Seit 2012 arbeitet bei der Netpioneer GmbH in Karlsruhe. Dort arbeitet er an Individualsoftware-Projekten im Bereich JEE und Spring. Dabei versucht er seinen Kollegen und Kunden die Vorzüge von Clean Code und TDD nahe zu bringen.
-    avatar: dummy-avatar.png
 ckumpe:
     name: Christian Kumpe
     bio: Christian Kumpe studierte Informatik am Karlsruher Institut für Technologie (KIT) und sammelte bereits während seines Studiums als Freelancer Erfahrung in diversen Java-Projekten. Seit 2011 arbeitet er als Softwareentwickler bei der Netpioneer GmbH in Karlsruhe. Seine aktuellen Themenschwerpunkte sind Java-basierte Portale und Internet-Plattformen. Es ist ihm ein wichtiges Anliegen die Wartbarkeit von Softwaresystemen durch guten Code zu erhalten und zu verbessern.
-    avatar: dummy-avatar.png
 mkiss:
     name: Markus Kiss
     bio: Markus Kiss, M. Sc., hat in Karlsruhe und Mannheim Informatik studiert und arbeitet als Senior Softwareentwickler bei der Netpioneer GmbH in Karlsruhe. Er interessiert sich seit mehreren Jahren für Clean Code und saubere Softwarearchitekturen. Code Smells und Antipatterns bringen ihn zwar immer wieder zum Schmunzeln, doch er findet es spannend, wie man mit einfachen Techniken und Praktiken genau dem entgegenwirken kann.
-    avatar: dummy-avatar.png
 ogierke:
     name: Oliver Gierke
     bio: Oliver Gierke ist Leiter des Spring Data Projekts bei Pivotal, früher besser bekannt als SpringSource. Seit über 8 Jahren widmet er sich dem Entwicklen von Java Enterprise Applikationen, Open Source Projekten und ist Mitglied der JPA Expert Group. Seine Arbeitsschwerpunkte liegen im Bereich Softwarearchitektur, Spring und Persistenztechnologien. Er ist regelmäßiger Sprecher auf deutschen und internationalen Konferenzen sowie Autor von Fachartikeln und des ersten Spring Data Buches.
-    avatar: dummy-avatar.png
 aschwartz:
     name: Alexander Schwartz
     bio: Alexander Schwartz arbeitet als Principal IT Consultant bei msg systems ag. In den vergangenen Jahren hat er Softwareprojekte mit JEE und Spring in verschiedenen Rollen als Entwickler, ScrumMaster, Architekt und Projektmanager begleitet. Im Laufe der Zeit arbeitete er mit verschiedensten Web-Technologien. Er schätzt produktive Arbeitsumgebungen, agile Projekte und automatisierte Tests.
-    avatar: dummy-avatar.png
 hseeberger:
     name: Heiko Seeberger
     bio: Heiko Seeberger ist als Director of Education für Typesafe tätig. Er ist Scala-Enthusiast, seit er 2008 diese wundervolle Sprache kennengelernt hat. Heiko hat mehr als 15 Jahre Erfahrung in der Beratung und Software-Entwicklung auf der Java-Plattform, trägt aktiv zu Projekten aus der Scala-Community bei und gibt seine Expertise regelmäßig in Form von Artikeln und Vorträgen weiter. Er ist außerdem Autor des Scala-Buches Durchstarten mit Scala. Heiko twittert unter @hseeberger und bloggt unter http://blog.heikoseeberger.name/.
-    avatar: dummy-avatar.png
 ibronsveld:
     name: Ivo Bronsveld
     bio: Ivo Bronsveld works as a Pre-sales & Partner Enablement @ Hippo CMS
-    avatar: dummy-avatar.png
 tgetrost:
     name: Tobias Getrost
     bio: Tobias Getrost arbeitet seit 2010 für die CGI (Germany) GmbH & Co. KG als Berater im Bereich Business Process Management und Enterprise Java. Als passioniertem Clean Code Developer liegen ihm Themen rund um Software Qualität, Continous Delivery und effiziente Entwicklungsmethoden am Herzen. Im Rahmen seiner Tätigkeit leitet er Workshops zum Clean Code Development und zur Software Qualität.
-    avatar: dummy-avatar.png
 nkoebler:
     name: Niko Köbler
     bio: Niko Köbler Co-Founder der Qualitects Group und freiberuflicher Software-Architekt und Developer für (Java) Enterprise Lösungen, Integrationen und Webdevelopment. Er berät und unterstützt Kunden verschiedenster Branchen, hält Workshops und Trainings und führt Architektur-Reviews durch. Niko ist Co-Lead der Java User Group Darmstadt (JUG DA), schreibt Artikel für Fachmagazine und ist regelmäßig als Sprecher auf Fachkonferenzen anzutreffen.
-    avatar: dummy-avatar.png
 hspindler:
     name: Heiko Spindler
     bio: Heiko Spindler ist freiberuflicher IT-Berater und Architekt. Seit über 16 Jahren ist Heiko Spindler als Software-Entwickler, Projektleiter und Software-Architekt in vielen Projekten unterschiedlicher Branchen tätig. Seine Aufgaben umfassen das Aufsetzen von Projekten sowie die Betreuung über den gesamten Entwicklungszyklus. Er beschäftigt sich hauptsächlich mit Software-Architekturen, modellgetriebener Entwicklung und der Verbindung von Geschäftsprozessen mit IT. Zudem berät er Kunden bei der Auswahl moderner Software-Architekturen, technischer Frameworks und agiler Vorgehen. Er ist seit 2007 Dozent an der Fachhochschule Gießen-Friedberg (für MDA) und spricht auf Fachkonferenzen. Zusammen mit Niko Köbler hat er die Qualitects Group gegründet.
-    avatar: dummy-avatar.png
 karrasz:
     name: Katja Arrasz-Schepanski
     bio: Katja Arrasz-Schepanski ist Marketing- und Kommunikationsmanagerin bei der synyx GmbH & Co. KG. Sie ist für die Organisation der Devoxx4kids in Deutschland zuständig.
-    avatar: dummy-avatar.png
 pfichtner:
     name: Peter Fichtner
     bio: Peter Fichtner schloss 1998 sein Ausbildung als DV-Kaufmann bei der Fiducia IT AG ab und arbeitet seit diesem Zeitpunkt im Bereich Anwendungsentwicklung. Das Spektrum erstreckt sich von der Entwicklung von Bankenanwendungen bis hin zur Erstellung von Frameworks und Frameworkkomponenten. Seit 1999 beschäftigt er sich mit der Programmiersprache Java und verschiedenen Java-basierten Bibliotheken. Mit seinem Wissen im Bereich Test-Driven-Development, Continuous Integration in Verbindung mit agilen Entwicklungsmethoden arbeitet er in verschiedenen Gremien, welche sich um die Themen Test und Modernisierung des Build-Systems als Aufgabe gesetzt haben. Nach seinem Wechsel 2009 in die Architektur ist eine seiner größten Aufgaben die Neuimplementierugn des Business Intelligence Java Frameworks. Nicht nur in den Fiducia-Projekten, sondern auch in einigen seiner privaten Opensource-Projekten, ist Google Guava von Anfang an ein integraler Bestandteil.
-    avatar: dummy-avatar.png
 mploed:
     name: Michael Ploed
     bio: Michael Plöd ist Principal Architect und Partner bei der Senacor Technologies AG und in dieser Rolle überwiegend in Projekten tätig, die die Transformation großer IT-Landschaften anstreben. Michael ist Speaker auf zahlreichen Konferenzen und regelmäßiger Autor diverser Fachartikel zu den Themen Java Persistence, Apache Wicket und Präsentationstechniken.
-    avatar: dummy-avatar.png
 nmaurer:
     name: Norman Maurer
     bio: Norman Maurer ist Principal Software Engineer bei Red Hat. Er beschäftigt sich seit mehreren Jahren mit Softwareentwicklung (Java und Scala) und Unix-basierten Betriebssystemen. Seine Schwerpunkte liegen hierbei auf der Entwicklung von netzwerkbasierenden Anwendungen und Frameworks. Er ist ein Mitglied der Apache Software Foundation und Core-Developer des Netty- und Vert.x-Projekts sowie Contributor in anderen Open-Source-Projekten.
-    avatar: dummy-avatar.png
 useiler:
     name: Uwe Seiler
     bio: Uwe Seiler arbeitet für die codecentric AG und begeistert sich für die Möglichkeiten, die sich durch die Vielzahl an technologischen Innovationen im Bereich der verteilten Systeme bieten. Diese Begeisterung lebt er zum einen als Consultant und Trainer in Big Data Projekten aus und zum anderen liebt er die Diskussion darüber, z.B. als Redner auf Konferenzen oder auf den von ihm (mit-)organsierten User Groups zu MongoDB und Hadoop im Raum Rhein-Main. Zusätzlich arbeitet er gerade an seinem ersten Buch, einem praxisnahen Einstieg in MongoDB.
-    avatar: dummy-avatar.png
 fhopf:
     name: Florian Hopf
     bio: Florian Hopf arbeitet als freiberuflicher Softwareentwickler mit den Schwerpunkten Content Management und Suchlösungen in Karlsruhe. Er interessiert sich für die unterschiedlichsten Technologien und ist einer der Organisatoren der Java User Group Karlsruhe.
-    avatar: dummy-avatar.png
 bruecker:
     name: Bernd Rücker
     bio: Bernd Rücker ist Mitgründer und Geschäftsführer der camunda. Aber er ist auch Softwareentwickler, Trainer und Consultant. Er hat vor camunda BPM aktiv an der Entwicklung der Open Source Workflow Engines JBoss jBPM 3 und Activiti mitgearbeitet. Bernd begleitet seit 10 Jahren Kundenprojekte rund um BPM, Process Engines und Java Enterprise. Er ist Autor mehrerer Fachbücher, zahlreicher Zeitschriftenartikel und regelmäßiger Sprecher auf Konferenzen.
-    avatar: dummy-avatar.png
 pneubauer:
     name: Peter Neubauer
     bio: Peter Neubauer ist einer der Gründer der populären Neo4j Graphdatenbank und anderer Open Source Projekte wie OPS4J. Er liebt es, neue Verbindungen zwischen Menschen, Projekten und Technologien zu schaffen. Zur Zeit ist Peter VP Community bei Neo Technology und Mentor für Coderdojo Malmö (Programmieren für Kinder) und Startup Bootcamp in Kopenhagen und Berlin. Für ein Bier ist Peter immer gern für ein Gespräch zu haben :)
-    avatar: dummy-avatar.png
 ggrunwald:
     name: Gerrit Grunwald
     bio: Gerrit Grunwald arbeitet als Senior Software Engineer bei der Canoo Engineering AG (Schweiz). Dort ist er unter anderem verantwortlich für Visualisierungen aller Art (hauptsächlich Custom Controls, UI Design etc.). Seine Interessen gelten dabei im besonderen JavaFX, Java Swing und HTML5. Desweiteren ist er interessiert an Java als Sprache auf Embedded Plattformen wie bspw. BeagleBoard xM und Raspberry PI. Er glaubt an Open Source Software, ist Committer im JFXtras Projekt und hat auch eine eigene Bibliothek Namens “SteelSeries” für Java Swing, HTML5 und JavaFX entwickelt. Als Gründer und Leader der Java User Group in Münster (Westfalen) sowie als Co-Lead der JavaFX Community zusammen mit James Weaver (Oracle) ist er ein aktiv in der Java Community eingebunden. Er trägt zudem auf nationalen sowie internationalen Konferenzen und Java User Groups vor.
