@@ -194,6 +194,7 @@ nschmidt:
     name: Nils Schmidt
 mlippert:
     name: Martin Lippert
+    bio: Martin ist Principal Software Engineer bei Pivotal und arbeitet an Entwicklungswerkzeugen für das Spring Framework, Cloud Foundry und JavaScript. Gemeinsam mit seinem Team ist er für die Spring IDE, die Spring Tool Suite und die Cloud Foundry Integration für Eclipse verantwortlich. In letzter Zeit arbeitet Martin an neuartigen cloud-basierten Entwicklungswerkzeugen und ist Project-Lead für Eclipse Flux. Darüber hinaus ist er Mitgründer der it-agile GmbH, einem der führenden agilen Unternehmen in Deutschland.
 ptaboada:
     name: Papick Taboada
 dkoenig:
