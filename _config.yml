@@ -8,8 +8,7 @@ markdown: redcarpet
 paginate: 5
 timezone: Europe/Berlin
 
-url: jugka.github.io
-baseurl: /jugka
+url: jug-ka.surge.sh
 
 navigation:
  - title: Home
