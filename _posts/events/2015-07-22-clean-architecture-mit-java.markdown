@@ -5,6 +5,9 @@ date:   2015-07-22 19:15:00
 tags: events
 speakers:
  - mpaluch
+slides: https://speakerdeck.com/mp911de/clean-architecture-with-java-german
+links:
+- https://github.com/mp911de/CleanArchitecture
 location: hs-karlsruhe-m202
 ---
 
