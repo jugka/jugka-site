@@ -17,7 +17,5 @@ navigation:
    url: /events
  - title: Hall of Fame
    url: /speakers
- - title: Über uns
-   url: /about
  - title: Kontakt
    url: /contact
