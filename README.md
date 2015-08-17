@@ -8,5 +8,4 @@ Das Projekt basiert auf [Jekyll](http://jekyllrb.com/), das seinerseits eine Ver
 
 Nach einem Aufruf von `jekyll serve --baseurl ''` im Wurzelverzeichnis des Projekts ist die Seite unter [http://localhost:4000](http://localhost:4000) verfügbar.
 
-
-
+[ ![Codeship Status for jugka/jugka-site](https://codeship.com/projects/06449d90-2641-0133-63ce-3adb94c90ba9/status?branch=master)](https://codeship.com/projects/97045)
