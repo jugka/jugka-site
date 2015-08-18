@@ -8,4 +8,4 @@ speakers:
 location: uni-ka-hs101
 ---
 
-Scrum ist eine agile Projektmanagementmethode die besonders, aber nicht ausschließlich, im Bereich der Softwareentwicklung eingesetzt wird. In dem Vortrag möchte Dr. Jürgen Hoffmann von scrumcoach,de zeigen welche Vorteile der Einsatz von Scrum bietet und unter welchen Umständen er von Scrum abrät. 
+Scrum ist eine agile Projektmanagementmethode die besonders, aber nicht ausschließlich, im Bereich der Softwareentwicklung eingesetzt wird. In dem Vortrag möchte Dr. Jürgen Hoffmann von scrumcoach,de zeigen welche Vorteile der Einsatz von Scrum bietet und unter welchen Umständen er von Scrum abrät.
