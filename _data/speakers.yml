@@ -222,6 +222,7 @@ mgrammling:
     name: Michael Grammling
 mkabutz:
     name: Dr Heinz M. Kabutz
+    bio: Dr. Heinz M. Kabutz ist der Kopf hinter dem Java Specialists’ Newsletter. Er ist Doktor der Philosophie in Informatik und hat wichtige Teile mehrerer umfangreicher Java-Anwendungen programmiert. Von Sun Microsystems, den Erfindern von Java, wurde er für seine innovative Arbeit zum Java Champion ernannt.
 tkraft:
     name: Tobias Kraft
     bio: Tobias Kraft arbeitet als Senior Consultant bei der exensio GmbH. Neben Java-Technologien kommt in vielen seiner durchgeführten Projekte auch das Grails-Framework zum Einsatz.
