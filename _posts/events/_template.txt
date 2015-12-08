@@ -1,0 +1,24 @@
+---
+layout: event
+title:  "<Titel>"
+date:   2015-12-08 21:04:00
+tags: events
+speakers: 
+ - <Speaker1-ID>
+ - <Speaker2-ID>
+ - <Speaker...>
+parleys: http://parleys.com/play/<ID>
+youtube: https://www.youtube.com/watch?v=<ID>
+slides: <URL>
+links:
+- <URL1>
+- <URL2>
+- <URL...>
+location: <location-ID>
+---
+
+<Beschreibung>
+
+<Auch mehrzeilig>
+
+<markdown halt>

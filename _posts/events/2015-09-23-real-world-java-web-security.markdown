@@ -5,6 +5,7 @@ date:   2015-09-23 19:15:00
 tags: events
 speakers:
  - dschadow
+slides: http://files.dominikschadow.de/event_jugka2015.pdf
 location: hs-karlsruhe-m202
 ---
 

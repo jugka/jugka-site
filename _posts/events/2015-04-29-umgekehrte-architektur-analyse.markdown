@@ -6,6 +6,7 @@ tags: events
 speakers:
   - jarrasz
   - cmennerich
+youtube: https://www.youtube.com/watch?v=b85x5TObK9o
 location: synyx
 ---
 

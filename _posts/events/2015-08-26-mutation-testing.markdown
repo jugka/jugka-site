@@ -5,6 +5,7 @@ date:   2015-08-26 19:15:00
 tags: events
 speakers:
  - sruppert
+youtube: https://www.youtube.com/watch?v=aL17m78f4ys
 location: synyx
 ---
 

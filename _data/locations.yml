@@ -1,4 +1,9 @@
 
+tbd:
+  latitude: 49.013959
+  longitude: 8.404436
+  name: Folgt demnächst
+  postcode: Karlsruhe
 hs-karlsruhe-m202:
   latitude: 49.016145
   longitude: 8.390573
@@ -42,3 +47,9 @@ ptvag:
   name: PTV Group
   address: Haid-und-Neu-Straße 15
   postcode: 76131 Karlsruhe
+megapart:
+  latitude: 49.000975
+  longitude: 8.467432
+  name: MegaPart GmbH
+  address: Zur Gießerei 6
+  postcode: 76227 Karlsruhe
