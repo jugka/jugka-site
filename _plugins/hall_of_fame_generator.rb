@@ -46,7 +46,7 @@ module Jekyll
 
       if self.layouts.key? 'hall_of_fame'
         dir = self.config['speaker_dir'] || 'speakers'        
-        self.posts.each do |post|
+        self.posts.docs.each do |post|
           post_speakers = post.data["speakers"]
           if String.try_convert(post_speakers)
                post_speakers = [ post_speakers ]
@@ -55,6 +55,8 @@ module Jekyll
             hallOfFame[speaker] += 1            
           end unless post_speakers.nil?
         end
+
+        hallOfFame = hallOfFame.sort_by { |key, value| value }.reverse
         self.write_hall_of_fame_index(File.join(dir), hallOfFame)
       # Throw an exception if the layout couldn't be found.
       else
