@@ -3,11 +3,6 @@
 {% if location != null %}
 <h4>Location</h4>
 
-{{ location.name }}{% if defined?(location.room) %} , Raumnummer: {{ location.room }} {% endif %} 
-<br>
-{{ location.address }} <br>
-{{ location.postcode }}
-
 <div id="map" style="width: 400px; height: 400px"></div>
 <script>
 
@@ -21,4 +16,13 @@
 
     L.marker([{{ location.latitude }}, {{ location.longitude }}]).addTo(map);
 </script>
+<br>
+<address>
+<p>
+{{ location.name }}{% if defined?(location.room) %} , Raumnummer: {{ location.room }} {% endif %} 
+<br>
+{{ location.address }} <br>
+{{ location.postcode }}
+</p>
+</address>
 {% endif %} 

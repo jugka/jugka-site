@@ -1,26 +1,29 @@
 ---
 layout: default
 ---
-<h4>{{ page.title }}</h4>
+<h1>{{ page.title }}</h1>
 
 {% if page.slides %}
-<h5>Slides:</h5>
-<a href="{{ page.slides }}">{{ page.slides }}</a>
+<p>
+Slides: <a href="{{ page.slides }}">{{ page.slides }}</a>
+</p>
 {% endif %}
 
 {% if page.links %}
-<h5>Links:</h5>
+<p>
+Links:
  <ul>
 	{% for link in page.links %}
 	<li><a href="{{ link }}">{{ link }}</a></li>
 	{% endfor %}
 </ul>
+</p>
 {% endif %}
 
 {% if content == "" or content == nil or content == blank %}
 	<p>Für diese Veranstaltung gibt es leider keine Beschreibung.</p>
 {% else %}
-	{{ content }}
+	<p>{{ content }}</p>
 {% endif %}
 
 {% include speaker.html %}
