@@ -1,11 +1,13 @@
 name: JUG Karlsruhe
 description: JUg Karlsruhe
 
+gems: [jekyll-paginate]
 paginate_path: "blog/page:num/"
+paginate: 5
+
 permalink: content/:title/
 
 markdown: redcarpet
-paginate: 5
 timezone: Europe/Berlin
 
 url: jug-ka.surge.sh
