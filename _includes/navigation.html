@@ -1,0 +1,30 @@
+<div class="container-fluid">
+    <div class="row">
+       <div class="col-md-1"></div>
+       <div class="col-md-10">
+       <nav class="navbar navbar-default">
+
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+            </div>
+
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                {% for link in site.navigation %}{% assign current = nil %}
+                    {% if page.url contains link.url %}{% assign current = 'current' %}{% endif %}
+                    <li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
+                        <a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+                    </li> 
+                {% endfor %}
+                </ul>
+            </div><!-- /.navbar-collapse -->
+       </div>
+       </nav>
+       <div class="col-md-1"></div>
+    </div>
+  </div><!-- /.container-fluid -->

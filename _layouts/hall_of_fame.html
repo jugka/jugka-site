@@ -5,6 +5,16 @@ layout: default
 <h4>Hall of Fame</h4>
 {% assign hallOfFame = page.['hallOfFame'] %}
 
+<table class="table hover">
+<thead>
+<tr>
+<th>#</th>
+<th>Speaker</th>
+<th>Talks</th> 
+</tr>
+</thead>
+<tbody> 
+
 {% for speaker in hallOfFame %}
 
 {% assign speakerShortName = speaker[0] %}
@@ -12,5 +22,14 @@ layout: default
 
 {% assign speakerName = site.data.speakers[speakerShortName].name %}
 
-<a href="{{ site.baseurl }}/speakers/{{ speakerShortName }}">{{ speakerName }}</a> ({{ numberOfTalks }})<br>
+  <tr>
+    <th scope="row">{{ forloop.index }}</th>
+    <td><a href="{{ site.baseurl }}/speakers/{{ speakerShortName }}">{{ speakerName }}</a></td>
+    <td>{{ numberOfTalks }}</td> 
+  </tr>
+
 {% endfor %}
+</ul>
+
+</tbody> 
+</table>

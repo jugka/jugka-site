@@ -13,7 +13,6 @@ module Jekyll
       @base = base
       @dir  = speaker_dir
       @name = 'index.html'
-      puts "speaker #{speaker} @dir #{speaker_dir}"
       self.process(@name)
       # Read the YAML data from the layout page.
       self.read_yaml(File.join(base, '_layouts'), 'speaker_index.html')
@@ -51,7 +50,7 @@ module Jekyll
 
       if self.layouts.key? 'speaker_index'
         dir = self.config['speaker_dir'] || 'speakers'        
-        self.posts.each do |post|
+        self.posts.docs.each do |post|
           post_speakers = post.data["speakers"]
           if String.try_convert(post_speakers)
                post_speakers = [ post_speakers ]

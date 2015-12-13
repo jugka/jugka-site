@@ -3,27 +3,21 @@ layout: default
 title: JUG Karlsruhe
 ---
 
-<h3 class="post-title">Über die Java User Group</h3>
+{% include next-talks.html %}
 
+<div class="panel panel-default">
+<div class="panel-heading">
+<h3 class="panel-title">Willkommen</h3>
+</div>
+<div class="panel-body">
 <p>Die Java User Group möchte Berufstätigen und Studenten im Raum Karlsruhe die Möglichkeit bieten sich in einem offenen Forum über fachliche Themen auszutauschen. Zu diesem Zweck finden regelmäßig Fachvorträge zu vielfältigen Themen rund um, aber nicht ausschließlich, Java statt.</p>
 
 <p>Für die Vorträge stehen uns Hörsäle an der Hochschule Karlsruhe zur Verfügung, wir veranstalten jedoch auch Vorträge bei unterschiedlichen Firmen in Karlsruhe.</p>
 
 <p>Die Vorträge sind kostenlos und können von jedem besucht werden.</p>
 
-<h3 class="post-title">Nächste Vorträge</h3>
+<p>Wer selbst einmal als Referent einen Vortrag zu einem interessanten Thema halten möchte kann sich gerne mit uns in Verbindung setzen.</p>
+</div>
+</div>
 
-{% for post in site.tags.events reversed %}
-{% if post.date > site.time %}
-<a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%d-%m-%Y" }} - {{ post.title }}</a><br>
-{% endif %}
-{% endfor %}
-
-<h3 class="post-title">Unterstützer / Sponsoren</h3>
-<img style="padding: 1.0em" src="{{ site.baseurl }}/assets/img/support/netpioneer.png">
-<img style="padding: 1.0em" src="{{ site.baseurl }}/assets/img/support/synyx.png">
-<img style="padding: 1.0em" src="{{ site.baseurl }}/assets/img/support/unic-logo.jpg">
-<img style="padding: 1.0em" src="{{ site.baseurl }}/assets/img/support/logo_jrebel.png">
-<img style="padding: 1.0em" src="{{ site.baseurl }}/assets/img/support/logo_javamagazin_218x69.png">
-<img style="padding: 1.0em" src="{{ site.baseurl }}/assets/img/support/logo_dpunkt_verlag_218x78.png">
-<img style="padding: 1.0em" src="{{ site.baseurl }}/assets/img/support/hanser_logo.png">
+{% include news.html %}
