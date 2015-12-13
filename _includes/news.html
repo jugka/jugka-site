@@ -1,0 +1,15 @@
+<div class="panel panel-default">
+<div class="panel-heading">
+<h3 class="panel-title">News</h3>
+</div>
+<div class="panel-body">
+{% for post in site.tags.news %}
+<h4>{{ post.title }}</h4>
+
+<p>{{ post.content }}</p>
+
+<small>Eingetragen am <i>{{ post.date | date: "%d-%m-%Y" }} um {{ post.date | date: "%H:%M" }} Uhr</i></small>
+<hr class="divider">
+{% endfor %}
+</div>
+</div>
