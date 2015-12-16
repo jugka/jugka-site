@@ -5,9 +5,9 @@ date:   2015-10-28 19:15:00
 tags: events
 speakers:
  - pschirmacher
- - sschreier
  - skoelsch
 location: hs-karlsruhe-m202
+parleys: https://www.parleys.com/tutorial/microservices-mit-clojure
 ---
 
 Microservices zeichnen sich insbesondere durch ihre Eigenständigkeit aus: Die Services sind so lose gekoppelt wie möglich. Damit bietet eine Microservices-Architektur den idealen Rahmen für den Einsatz unterschiedlicher Technologien, die jeweils genau zum zu lösenden Problem und dem Skillset der Entwickler passen. In einem solchen Umfeld lassen sich die Vorteile einer modernen Sprache wie Clojure voll ausnutzen: Knapper und präziser Code, Parallelverarbeitung und direkter Support für asynchrone Programmierung.
