@@ -5,7 +5,9 @@
 <div class="panel-body">
 {% for post in site.tags.events reversed %}
 {% if post.date > site.time %}
-<a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%d-%m-%Y" }} - {{ post.title }}</a><br>
+<div class="next-talk">
+<a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%d-%m-%Y" }} - {{ post.title }}</a>
+</div>
 {% endif %}
 {% endfor %}
 </div>
