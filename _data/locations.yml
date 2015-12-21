@@ -4,6 +4,12 @@ tbd:
   longitude: 8.404436
   name: Folgt demnächst
   postcode: Karlsruhe
+tante-emma:
+  latitude: 48.995591
+  longitude: 8.402689
+  name: Café Tante Emma
+  address: Am Stadtgarten 11
+  postcode:  76137 Karlsruhe 
 hs-karlsruhe-m202:
   latitude: 49.016145
   longitude: 8.390573
