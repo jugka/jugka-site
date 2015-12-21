@@ -6,6 +6,7 @@ tags: events
 speakers: 
  - nrauch
 location: megapart
+youtube: https://youtu.be/dM_NUMEO69k
 ---
 
 Funktionale Programmierung hat zu guter Letzt auch in Java Einzug gehalten. Es ist jetzt ganz normal, überall mit Lambdas oder mit map() und filter() zu arbeiten. Aber ist das wirklich funktionale Programmierung? Wie sieht es aus, wenn man Java 8 mit einer althergebrachten funktionalen Programmiersprache vergleicht? Und was kann der aus der OO-Entwicklung kommende Java-Programmierer von funktionalen Sprachen lernen und in seinen Java-Alltag integrieren? Diesen Fragen möchte der Vortrag nachgehen und die neuen funktionalen Features von Java 8 mit den Möglichkeiten vergleichen, die die Programmiersprache Haskell bietet. Nebenher werden grundlegende Aspekte funktionaler Programmierung vorgestellt und es wird aufgezeigt, was die funktionale Programmierung so besonders macht.
