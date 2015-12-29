@@ -5,7 +5,9 @@ date:   2013-06-12 19:15:00
 tags: events
 speakers:
  - areelsen
-slides: https://speakerdeck.com/spinscale/elasticsearch-introduction
+slides: 
+    name: Speakerdeck.com
+    url: https://speakerdeck.com/spinscale/elasticsearch-introduction
 location: uni-ka-hs101
 parleys: https://www.parleys.com/tutorial/elasticsearch-4
 ---

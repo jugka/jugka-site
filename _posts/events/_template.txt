@@ -1,15 +1,18 @@
 ---
 layout: event
 title:  "<Titel>"
-date:   2015-12-08 21:04:00
+date:   2015-12-08 19:15:00
 tags: events
+categories: <Cat1> <Cat2> <Cat...>
 speakers: 
  - <Speaker1-ID>
  - <Speaker2-ID>
  - <Speaker...>
 parleys: http://parleys.com/play/<ID>
 youtube: https://www.youtube.com/watch?v=<ID>
-slides: <URL>
+slides: 
+    name: [ PDF-Download | Speakerdeck.com | Slidedeck]
+    url: <URL>
 links:
 - <URL1>
 - <URL2>

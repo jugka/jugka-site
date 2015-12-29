@@ -3,7 +3,9 @@ layout: event
 title:  "Groovy und Grails - Quo vadis?"
 date:   2015-12-09 19:15:00
 tags: events
-slides: /assets/slides/GroovyGrailsQuoVadis-FalkSippach.pdf
+slides: 
+    name: PDF-Download
+    url: /assets/slides/GroovyGrailsQuoVadis-FalkSippach.pdf
 speakers: 
  - sippsack
 location: netpioneer
