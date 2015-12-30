@@ -13,4 +13,4 @@ Im Java Enterprise Summit zeigen die Trainer, wie heute eine State-of-the-Art-En
 
 Wie immer gibt es einen Rabatt von 15%, wenn Ihr den Code jugkarlsruhe verwendet.
 
-Alle Infos gibt es auf www.javaenterprisesummit.de und auf www.microservices-summit.de.
+Alle Infos gibt es auf [javaenterprisesummit.de](http://javaenterprisesummit.de) und auf [microservices-summit.de](http://microservices-summit.de).
