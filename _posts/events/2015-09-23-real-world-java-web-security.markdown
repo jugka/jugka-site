@@ -6,8 +6,8 @@ tags: events
 speakers:
  - dschadow
 slides: 
-    name: PDF-Download
-    url: http://files.dominikschadow.de/event_jugka2015.pdf
+    name: PDF
+    url: /assets/slides/Real-World-Java-Web-Security.pdf
 location: hs-karlsruhe-m202
 ---
 

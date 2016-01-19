@@ -1,6 +1,8 @@
 ewolff:
     name: Eberhard Wolff
     bio: Eberhard Wolff arbeitet als freiberuflicher Architekt und Berater. Außerdem ist er ist Java Champion und Leiter des Technologie-Beirat der adesso AG. Sein technologischer Schwerpunkt liegt auf Spring, NoSQL und Cloud.
+    homepage: http://ewolff.com/
+    twitter: ewolff
 anierbeck:
     name: Achim Nierbeck
     bio: Achim Nierbeck ist Senior Consultant bei der codecentric AG in Karlsruhe. Er hat 15 Jahre Erfahrung im Java-Enterprise- Umfeld. In seiner Freizeit beschäftigt sich der Apache Member unter anderem mit dem OSGi Server Apache Karaf (Comitter und PMC seit 2011), bzw. dem OSGi Web-Container Pax Web.
@@ -13,15 +15,18 @@ tbiermann:
 jarrasz:
     name: Joachim Arrasz
     bio:  Joachim Arrasz ist als Software- und Systemarchitekt in Karlsruhe bei der synyx GmbH & Co. KG als Leiter der CodeClinic tätig. Darüber hinaus twittert (@arrasz) und bloggt er gerne (http://blog.synyx.de/)
+    twitter: arrasz
 cmennerich:
     name: Christian Mennerich
     bio: Christian Mennerich hat Diplom-Informatik studiert, einer seiner Schwerpunkte lag auf Theorie und Implementation von Datenbanksystemen. Er arbeitet als Entwickler bei der synyx GmbH & Co. KG in Karlsruhe, wo er sich unter anderem mit NoSQL beschäftigt.
+    twitter: cmennerich
 cschneider:
     name: Christian Schneider
     bio: Christian Schneider ist Open Source Softwarearchitekt bei Talend. Er arbeitet Vollzeit an den Apache-Projekten, welche die Basis des Talend ESB bilden (Camel, CXF, Karaf). In seinen mehr als 15 Jahren Entwicklungserfahrung war er unter anderem für die SOA-Technologie des Stromhandels eines der größten deutschen Entergiekonzerne verantwortlich.
 jroessler:
     name: Dr. Jeremias Rößler
     bio: Dr. Jeremias Rößler ist Software Ingenieur und Experte für die Erstellung und Pflege großer, komplexer Softwaresysteme. Er besitzt über sechs Jahre Berufserfahrung in der Software-Entwicklung. 2013 hat er am Lehrstuhl für Softwaretechnik an der Universität des Saarlandes promoviert. Er ist Gründer von ReTest (www.retest.de), einem IT-Dienstleistungsunternehmen das Software programmunterstützt testet.
+    homepage: http://retest.de/
 mdoninger:
     name: Manuel Doninger
     bio: Manuel Doninger lebt in Karlsruhe und arbeitet als freiberuflicher Softwareentwickler mit Schwerpunkt auf Java EE und Spring-Anwendungen. Daneben trägt er gelegentlich mit Contributions zu verschiedenen Open-Source-Projekten bei (wie bspw. Spring Boot).
@@ -43,18 +48,25 @@ pschirmacher:
 nrauch: 
     name: Nicole Rauch
     bio: Nicole Rauch ist freiberufliche Softwareentwicklerin und Softwareentwicklungscoach mit umfangreichem Hintergrund in Compilerbau und formalen Verifikationsmethoden. In den letzten Jahren konzentrierte sie sich auf die Sanierung von Legacy Code Applikationen. Unabhängig davon ist die funktionale Programmierung ihre heimliche Liebe. Neben ihrer Entwicklertätigkeit wirkte sie an der Ausrichtung mehrerer selbstorganisierter Konferenzen und an der Initiierung der Softwerkskammer, einer deutschlandweiten User Community zum Thema Software Craftsmanship, sowie ihrer Karlsruher Regionalgruppe mit. In ihrer Freizeit ist sie an der Entwicklung der Softwerkskammer-Webplattform, einem node.js Projekt, beteiligt.
+    twitter: NicoleRauch
 hschmidt: 
     name: Hubert Schmidt
     bio: Hubert Schmid ist Diplom-Informatiker mit langjähriger Berufserfahrung in der Realisierung hoch-skalierender Internet-Infrastrukturen. Als Softwareentwickler, Softwarearchitekt und Entwicklungsleiter konzipierte, realisierte und verantwortete er Internetdienste mit minütlich mehreren Millionen Nutzern. Seit 2015 berät und unterstützt er freiberuflich Unternehmen in diesem Umfeld.
+    homepage: http://www.nosid.org/
 cbarragan:
     name: Carlos Barragan
     bio: Carlos Barragan ist Consultant bei der NovaTec Consulting GmbH und arbeitet seit über 10 Jahren als Java Entwickler. An verschiedenen Projekten war er als Software Entwickler, Berater und Architekt beteiligt. Seine Schwerpunkte liegen auf Java, Java EE und Enterprise Anwendungen.
+    homepage: http://www.novatec-gmbh.de/
+    twitter: barraganc
 mpaluch:
     name: Mark Paluch
     bio: Mark Paluch ist Entwickler, Software-Achtitekt und Agile Coach. Er hat in unterschiedlichen Projekten Erfahrungen mit Clean Architecture gesammelt und möchte dieses Wissen in Form eines Vortrages weitergeben.
+    homepage: http://www.paluch.biz/
+    twitter: mp911de
 bmartin:
     name: Björn Martin
     bio: Björn Martin ist Software Engineer bei Citrix und Co-Organisator der JUG Karlsruhe. Die Idee zum Vortrag entsprang seiner Leidenschaft für 3D.
+    twitter: bjrnmrtn
 nbyl:
     name: Nicolas Byl
     bio: Nicolas Byl studierte Medizinische Informatik an der Hochschule Heilbronn und Universität Heidelberg. Während des Studiums sammelte er erste Erfahrungen im Umfeld von Java-basierten Webportalen. Seit 2012 arbeitet bei der Netpioneer GmbH in Karlsruhe. Dort arbeitet er an Individualsoftware-Projekten im Bereich JEE und Spring. Dabei versucht er seinen Kollegen und Kunden die Vorzüge von Clean Code und TDD nahe zu bringen.
@@ -103,6 +115,7 @@ useiler:
 fhopf:
     name: Florian Hopf
     bio: Florian Hopf arbeitet als freiberuflicher Softwareentwickler mit den Schwerpunkten Content Management und Suchlösungen in Karlsruhe. Er interessiert sich für die unterschiedlichsten Technologien und ist einer der Organisatoren der Java User Group Karlsruhe.
+    twitter: fhopf
 bruecker:
     name: Bernd Rücker
     bio: Bernd Rücker ist Mitgründer und Geschäftsführer der camunda. Aber er ist auch Softwareentwickler, Trainer und Consultant. Er hat vor camunda BPM aktiv an der Entwicklung der Open Source Workflow Engines JBoss jBPM 3 und Activiti mitgearbeitet. Bernd begleitet seit 10 Jahren Kundenprojekte rund um BPM, Process Engines und Java Enterprise. Er ist Autor mehrerer Fachbücher, zahlreicher Zeitschriftenartikel und regelmäßiger Sprecher auf Konferenzen.

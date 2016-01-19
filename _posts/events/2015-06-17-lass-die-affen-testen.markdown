@@ -5,7 +5,12 @@ date:   2015-06-17 19:15:00
 tags: events
 speakers:
  - jroessler
+slides:
+    name: PDF-Download
+    url: /assets/slides/roesler-affen-testen.pdf
 location: tefabrik
+links:
+- http://retest.de/
 ---
 
 Wer hat den Teufelskreis aus Testing und Debugging noch nicht erlebt: In zwei Wochen ist Release-Date und die Tester finden täglich neue Fehler. Jeder Fehler führt zu einer Änderung im Programm. Und jede Änderung kann selbst wieder Fehler verursachen und muss deshalb getestet werden...

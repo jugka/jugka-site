@@ -3,7 +3,10 @@ layout: event
 title:  "TDD mit Java EE ohne App Server"
 date:   2015-04-08 19:15:00
 tags: events
-parleys: https://www.parleys.com/tutorial/java-memory-model-was-entwickler-wirklich-wissen-sollten
+parleys: https://www.parleys.com/tutorial/tdd-mit-java-ee-ohne-app-server
+slides:
+    name: PDF-Download
+    url: /assets/slides/JavaEEBeanTesting.pdf
 speakers:
  - cbarragan
 location: hs-karlsruhe-m202

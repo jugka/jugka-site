@@ -5,6 +5,9 @@ date:   2015-03-18 19:15:00
 tags: events
 speakers: 
  - tbiermann
+slides:
+    name: PDF
+    url: /assets/slides/Softwarearchitektur-Softwarearchitekten.pdf
 location: hs-karlsruhe-m202
 ---
 

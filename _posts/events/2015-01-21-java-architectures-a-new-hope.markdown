@@ -11,5 +11,3 @@ location: synyx
 ---
 
 Die ganze Welt baut Drei-Schicht-Architekturen - aber die Zeiten ändern sich. Continuous Delivery und agile Software-Entwicklung benötigen andere Ansätze und Architekturen. Beispielsweise werden Micro Services immer wichtiger. Dieser Vortrag zeigt einige neue Ansätze und wie sie mit Java umgesetzt werden können.
-
-Synyx wird uns im Anschluß zum Vortrag noch mit Getränken und Pizza versorgen.

@@ -6,7 +6,7 @@ tags: events
 speakers:
  - mpaluch
 slides: 
-    name: Speakerdeck.com
+    name: Speakerdeck
     url: https://speakerdeck.com/mp911de/clean-architecture-with-java-german
 links:
 - https://github.com/mp911de/CleanArchitecture

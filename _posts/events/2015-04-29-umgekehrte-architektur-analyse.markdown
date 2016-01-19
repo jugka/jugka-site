@@ -6,6 +6,9 @@ tags: events
 speakers:
   - jarrasz
   - cmennerich
+slides:
+    name: Prezi.com
+    url: https://prezi.com/ho8omsz-df1k/jax-2015-jug-ka-2015/
 youtube: https://www.youtube.com/watch?v=b85x5TObK9o
 location: synyx
 ---
