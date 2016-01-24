@@ -59,3 +59,15 @@ megapart:
   name: MegaPart GmbH
   address: Zur Gießerei 6
   postcode: 76227 Karlsruhe
+poet:
+  latitude: 48.9974429
+  longitude: 8.4640848
+  name: POET GmbH
+  address: An der RaumFabrik 33a
+  postcode: 76227 Karlsruhe
+disy:
+  latitude: 49.0050769
+  longitude: 8.4139288
+  name: Disy Informationssysteme GmbH
+  address: Ludwig-Erhard-Allee 6
+  postcode: 76131 Karlsruhe

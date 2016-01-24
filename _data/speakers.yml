@@ -262,3 +262,12 @@ cdutz:
 hsaly:
     name: Hendrik Saly
     bio: Hendrik Saly arbeitet als Sr. IT-Consultant für die codecentric AG und kümmert sich vor allen Dingen um die Themen Elasticsearch, Big Data und Java EE. Er ist Expert Group Member für den JSR 367 und JSR 374 im Java Community process (JCP) und Committer bei der Apache Software Foundation (ASF) für das Johnzon- und Geronimo-Projekt.
+hjaenisch:
+    name: Henryk Jänisch
+    bio: POET GmbH
+sschrot:
+    name: Sebastian Schrot
+    bio: POET GmbH
+nparlog:
+    name: Nicolai Parlog
+    bio: Disy Informationssysteme GmbH
