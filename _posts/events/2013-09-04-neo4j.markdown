@@ -7,6 +7,8 @@ speakers:
  - pneubauer
 parleys: http://parleys.com/play/525cf78be4b071755e2916f8
 location: hs-karlsruhe-m202
+links:
+ - http://www.neo4j.org/
 ---
 
 NOSQL, Big Data und Graphen sind zur Zeit in aller Munde - hier kommt etwas zum Thema!

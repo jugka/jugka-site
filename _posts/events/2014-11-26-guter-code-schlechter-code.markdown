@@ -8,6 +8,8 @@ speakers:
  - mkiss
 location: netpioneer
 parleys: https://www.parleys.com/play/54a3f82de4b091b604abd38b
+links:
+ - http://www.netpioneer.de/
 ---
 
 Was ist eigentlich guter Code? Wahrscheinlich haben sich viele Entwickler diese Frage schon gestellt und werden sie auch in Zukunft stellen. Zu Schulzeiten hätte ich diese Frage mit "Guter Code muss schnell sein!" beantwortet. Mit dem Resultat, dass ich nach einigen Experimenten mit BASIC und Pascal schließlich bei Assembler gelandet bin. Ja, damit lies sich dann wirklich schneller und haufenweise Code schreiben. An Dinge wie Wartbarkeit oder Lesbarkeit für andere oder mich selbst habe ich damals noch nicht gedacht, schließlich waren es meine ersten Experimente. Alten Code zum Warten gab es für mich damals noch nicht.

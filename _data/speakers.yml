@@ -79,12 +79,16 @@ mkiss:
 ogierke:
     name: Oliver Gierke
     bio: Oliver Gierke ist Leiter des Spring Data Projekts bei Pivotal, früher besser bekannt als SpringSource. Seit über 8 Jahren widmet er sich dem Entwicklen von Java Enterprise Applikationen, Open Source Projekten und ist Mitglied der JPA Expert Group. Seine Arbeitsschwerpunkte liegen im Bereich Softwarearchitektur, Spring und Persistenztechnologien. Er ist regelmäßiger Sprecher auf deutschen und internationalen Konferenzen sowie Autor von Fachartikeln und des ersten Spring Data Buches.
+    homepage: http://olivergierke.de/
+    twitter: olivergierke
 aschwartz:
     name: Alexander Schwartz
     bio: Alexander Schwartz arbeitet als Principal IT Consultant bei msg systems ag. In den vergangenen Jahren hat er Softwareprojekte mit JEE und Spring in verschiedenen Rollen als Entwickler, ScrumMaster, Architekt und Projektmanager begleitet. Im Laufe der Zeit arbeitete er mit verschiedensten Web-Technologien. Er schätzt produktive Arbeitsumgebungen, agile Projekte und automatisierte Tests.
 hseeberger:
     name: Heiko Seeberger
     bio: Heiko Seeberger ist als Director of Education für Typesafe tätig. Er ist Scala-Enthusiast, seit er 2008 diese wundervolle Sprache kennengelernt hat. Heiko hat mehr als 15 Jahre Erfahrung in der Beratung und Software-Entwicklung auf der Java-Plattform, trägt aktiv zu Projekten aus der Scala-Community bei und gibt seine Expertise regelmäßig in Form von Artikeln und Vorträgen weiter. Er ist außerdem Autor des Scala-Buches Durchstarten mit Scala. Heiko twittert unter @hseeberger und bloggt unter http://blog.heikoseeberger.name/.
+    homepage: http://blog.heikoseeberger.name/
+    twitter: hseeberger
 ibronsveld:
     name: Ivo Bronsveld
     bio: Ivo Bronsveld works as a Pre-sales & Partner Enablement @ Hippo CMS
@@ -94,6 +98,7 @@ tgetrost:
 nkoebler:
     name: Niko Köbler
     bio: Niko Köbler Co-Founder der Qualitects Group und freiberuflicher Software-Architekt und Developer für (Java) Enterprise Lösungen, Integrationen und Webdevelopment. Er berät und unterstützt Kunden verschiedenster Branchen, hält Workshops und Trainings und führt Architektur-Reviews durch. Niko ist Co-Lead der Java User Group Darmstadt (JUG DA), schreibt Artikel für Fachmagazine und ist regelmäßig als Sprecher auf Fachkonferenzen anzutreffen.
+    twitter: dasniko
 hspindler:
     name: Heiko Spindler
     bio: Heiko Spindler ist freiberuflicher IT-Berater und Architekt. Seit über 16 Jahren ist Heiko Spindler als Software-Entwickler, Projektleiter und Software-Architekt in vielen Projekten unterschiedlicher Branchen tätig. Seine Aufgaben umfassen das Aufsetzen von Projekten sowie die Betreuung über den gesamten Entwicklungszyklus. Er beschäftigt sich hauptsächlich mit Software-Architekturen, modellgetriebener Entwicklung und der Verbindung von Geschäftsprozessen mit IT. Zudem berät er Kunden bei der Auswahl moderner Software-Architekturen, technischer Frameworks und agiler Vorgehen. Er ist seit 2007 Dozent an der Fachhochschule Gießen-Friedberg (für MDA) und spricht auf Fachkonferenzen. Zusammen mit Niko Köbler hat er die Qualitects Group gegründet.
@@ -106,22 +111,30 @@ pfichtner:
 mploed:
     name: Michael Ploed
     bio: Michael Plöd ist Principal Architect und Partner bei der Senacor Technologies AG und in dieser Rolle überwiegend in Projekten tätig, die die Transformation großer IT-Landschaften anstreben. Michael ist Speaker auf zahlreichen Konferenzen und regelmäßiger Autor diverser Fachartikel zu den Themen Java Persistence, Apache Wicket und Präsentationstechniken.
+    homepage: http://www.senacor.com/
+    twitter: bitboss
 nmaurer:
     name: Norman Maurer
     bio: Norman Maurer ist Principal Software Engineer bei Red Hat. Er beschäftigt sich seit mehreren Jahren mit Softwareentwicklung (Java und Scala) und Unix-basierten Betriebssystemen. Seine Schwerpunkte liegen hierbei auf der Entwicklung von netzwerkbasierenden Anwendungen und Frameworks. Er ist ein Mitglied der Apache Software Foundation und Core-Developer des Netty- und Vert.x-Projekts sowie Contributor in anderen Open-Source-Projekten.
+    homepage: http://normanmaurer.me/
 useiler:
     name: Uwe Seiler
     bio: Uwe Seiler arbeitet für die codecentric AG und begeistert sich für die Möglichkeiten, die sich durch die Vielzahl an technologischen Innovationen im Bereich der verteilten Systeme bieten. Diese Begeisterung lebt er zum einen als Consultant und Trainer in Big Data Projekten aus und zum anderen liebt er die Diskussion darüber, z.B. als Redner auf Konferenzen oder auf den von ihm (mit-)organsierten User Groups zu MongoDB und Hadoop im Raum Rhein-Main. Zusätzlich arbeitet er gerade an seinem ersten Buch, einem praxisnahen Einstieg in MongoDB.
+    homepage: https://www.codecentric.de/
 fhopf:
     name: Florian Hopf
     bio: Florian Hopf arbeitet als freiberuflicher Softwareentwickler mit den Schwerpunkten Content Management und Suchlösungen in Karlsruhe. Er interessiert sich für die unterschiedlichsten Technologien und ist einer der Organisatoren der Java User Group Karlsruhe.
+    homepage: http://www.florian-hopf.de/
     twitter: fhopf
 bruecker:
     name: Bernd Rücker
     bio: Bernd Rücker ist Mitgründer und Geschäftsführer der camunda. Aber er ist auch Softwareentwickler, Trainer und Consultant. Er hat vor camunda BPM aktiv an der Entwicklung der Open Source Workflow Engines JBoss jBPM 3 und Activiti mitgearbeitet. Bernd begleitet seit 10 Jahren Kundenprojekte rund um BPM, Process Engines und Java Enterprise. Er ist Autor mehrerer Fachbücher, zahlreicher Zeitschriftenartikel und regelmäßiger Sprecher auf Konferenzen.
+    homepage: http://www.camunda.com/
+    twitter: berndruecker
 pneubauer:
     name: Peter Neubauer
     bio: Peter Neubauer ist einer der Gründer der populären Neo4j Graphdatenbank und anderer Open Source Projekte wie OPS4J. Er liebt es, neue Verbindungen zwischen Menschen, Projekten und Technologien zu schaffen. Zur Zeit ist Peter VP Community bei Neo Technology und Mentor für Coderdojo Malmö (Programmieren für Kinder) und Startup Bootcamp in Kopenhagen und Berlin. Für ein Bier ist Peter immer gern für ein Gespräch zu haben :)
+    homepage: http://www.neotechnology.com/
 ggrunwald:
     name: Gerrit Grunwald
     bio: Gerrit Grunwald arbeitet als Senior Software Engineer bei der Canoo Engineering AG (Schweiz). Dort ist er unter anderem verantwortlich für Visualisierungen aller Art (hauptsächlich Custom Controls, UI Design etc.). Seine Interessen gelten dabei im besonderen JavaFX, Java Swing und HTML5. Desweiteren ist er interessiert an Java als Sprache auf Embedded Plattformen wie bspw. BeagleBoard xM und Raspberry PI. Er glaubt an Open Source Software, ist Committer im JFXtras Projekt und hat auch eine eigene Bibliothek Namens “SteelSeries” für Java Swing, HTML5 und JavaFX entwickelt. Als Gründer und Leader der Java User Group in Münster (Westfalen) sowie als Co-Lead der JavaFX Community zusammen mit James Weaver (Oracle) ist er ein aktiv in der Java Community eingebunden. Er trägt zudem auf nationalen sowie internationalen Konferenzen und Java User Groups vor.

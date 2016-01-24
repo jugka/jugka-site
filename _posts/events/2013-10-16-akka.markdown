@@ -7,6 +7,11 @@ speakers:
  - fhopf
 parleys: https://parleys.com/play/52ee18a7e4b0613f7d348edc
 location: netpioneer
+slides:
+    name: HTML
+    url: http://www.florian-hopf.de/artikel-vortraege/akka-jugka/
+links:
+ - http://akka.io
 ---
 
 Der gemeinsame Zugriff auf veränderlichen Zustand aus unterschiedlichen Threads ist eine häufige Fehlerquelle in Java-Anwendungen. Eine Alternative bietet das Toolkit Akka: Veränderlicher Zustand wird in Aktoren gekapselt, die untereinander über unveränderliche Nachrichten kommunizieren. Der Vortrag zeigt an einem Beispiel, dass der Einsatz von Akka zu wartbaren, fehlertoleranten und skalierbaren Anwendungen führen kann.

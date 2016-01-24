@@ -7,6 +7,12 @@ speakers:
  - nmaurer
 location: hs-karlsruhe-m202
 parleys: https://parleys.com/play/52efea9be4b0e5728b25ef0a
+slides:
+    name: HTTP
+    url: http://normanmaurer.me/presentations/2013-wjax-netty/
+links:
+ - http://www.redhat.com/
+ - https://github.com/normanmaurer
 ---
 
 Aus der heutigen Zeit ist das Internet nicht mehr wegzudenken. Daher müssen immer mehr Applikationen entsprechende Dienste zur Verfügung stellen. Doch das Schreiben von performanten Netzwerkapplikationen ist oft nicht trivial. Zehntausende von gleichzeitigen Verbindungen sind heute keine Seltenheit mehr, und so stößt eine Applikation unter Verwendung von "Blocking I/O" schnell an ihre Grenzen. Netty ist ein Open-Source-Java-Framework, das die Entwicklung von "Non-blocking I/O"-Netzwerkapplikationen vereinfacht und somit dem Entwickler ermöglicht, sich auf seine Businesslogik zu konzentrieren. Der Vortrag gibt einen Einblick in Netty und dessen Features und zeigt, wie es in der Praxis verwendet wird. Zu Nettys Benutzern zählen Größen wie Red Hat, Twitter und Facebook und auch viele Open-Source-Projekte.

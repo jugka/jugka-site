@@ -1,12 +1,15 @@
 ---
 layout: event
 title:  "Caching in Business-Anwendungen"
-date:   2014-03-15 19:15:00
+date:   2014-03-05 19:15:00
 tags: events
 speakers:
  - mploed
 location: hs-karlsruhe-m202
 parleys: https://www.parleys.com/play/53220776e4b0c3a92706ca8b
+slides:
+    name: Slideshare
+    url: http://de.slideshare.net/mploed/caching-fur-business-anwendungen-deutsch
 ---
 
 Das Thema Caching ist für zahlreiche Business Anwendungen relevant und der Markt für Caching-Lösungen reicht von einfachen lokalen Caches bis hin zu mächtigen und komplexen Data Grids. Ein weiteres Differenzierungsmerkmal ist die Konsistenzgarantie beziehungsweise die transaktionale Integrität, welche die unterschiedlichen Lösungen bieten. Allerdings unterscheiden sich Anwendungen, welche Geschäftsprozesse in gewachsenen Unternehmenslandschaften umsetzen, stark von sozialen Netzwerken oder Internetdiensten, welche aus dem Startup-Umfeld kommen.

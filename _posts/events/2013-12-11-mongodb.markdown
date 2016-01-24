@@ -6,6 +6,9 @@ tags: events
 speakers:
  - useiler
 location: hs-karlsruhe-m202
+slides:
+    name: Slideshare
+    url: http://de.slideshare.net/uweseiler/mongodb-fr-java-programmierer-jugka-111213
 ---
 
 Der Bereich der alternativen NoSQL-Lösungen hat sich auch in deutschen Unternehmen mittlerweile immer mehr etabliert und findet dort bereits vielfachen Einsatz in verschiedensten Anwendungsgebieten oder ermöglicht bestenfalls ganz neue Anwendungsfälle. Dabei befindet sich gerade MongoDB immer mehr auf dem Weg zum neuen MySQL zu werden und viele Entwickler schätzen die Funktionalität von MongoDB verbunden mit dessen Flexibilität.

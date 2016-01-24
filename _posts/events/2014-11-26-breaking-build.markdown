@@ -7,6 +7,9 @@ speakers:
  - nbyl
 location: netpioneer
 parleys: https://www.parleys.com/play/54a53e95e4b091b604abd3b1
+links:
+ - http://www.netpioneer.de/
+ 
 ---
 
 Continuous integration hat sich in den letzten Jahren zu einem Standard-Werkzeug in der Software-Entwicklung entwickelt. Je größer das Projekt ist, umso sinnvoller ist es regelmäßig den Zustand des Codes zu überprüfen und frühzeitig auf Fehler und Probleme hinzuweisen.
