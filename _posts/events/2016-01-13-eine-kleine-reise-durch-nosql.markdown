@@ -6,6 +6,7 @@ tags: events
 speakers: 
  - cmennerich
 location: synyx
+youtube: https://www.youtube.com/watch?v=e87sQo7GDyc
 ---
 
 NoSQL ist in aller Munde, und (nahezu) jeder will mit diesen neuen Technologien arbeiten. Aber was ist denn NoSQL eigentlich genau, und welche Probleme will es adressieren und lösen? Der Vortrag keine allumfassende Antwort geben, aber diskutieren und aufzeigen das es nach wie vor viele Missverständnisse in der NoSQL-Welt gibt, die sich hartnäckig halten.
