@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "jMonkeyEngine - eine Java-3D-Engine vorgestellt"
-date:   2014-12-10 19:15:00
+date:   2014-12-10 19:15:00 +0100
 tags: events
 speakers:
  - bmartin

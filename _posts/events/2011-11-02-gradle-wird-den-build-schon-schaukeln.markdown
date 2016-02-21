@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Gradle wird den Build schon schaukeln"
-date:   2011-11-02 19:15:00
+date:   2011-11-02 19:15:00 +0100
 tags: events
 speakers:
  - hdockter

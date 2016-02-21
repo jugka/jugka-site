@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Distributed Monitoring based on AOP"
-date:   2011-01-12 19:15:00
+date:   2011-01-12 19:15:00 +0100
 tags: events
 speakers:
  - rsobek

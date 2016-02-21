@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Agiles BPM in der Praxis"
-date:   2011-03-16 19:15:00
+date:   2011-03-16 19:15:00 +0100
 tags: events
 speakers:
  - bruecker

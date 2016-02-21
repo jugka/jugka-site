@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Spring IO - Spring neu erfunden?"
-date:   2014-10-29 19:15:00
+date:   2014-10-29 19:15:00 +0100
 tags: events
 speakers:
  - ogierke

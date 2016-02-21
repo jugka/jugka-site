@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Einführung in Adobe Flex"
-date:   2009-09-02 19:15:00
+date:   2009-09-02 19:15:00 +0100
 tags: events
 speakers:
  - cvcreanga

@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Devoxx4Kids: Your Kids Play Games - Mine Makes Games"
-date:   2014-05-07 19:15:00
+date:   2014-05-07 19:15:00 +0100
 tags: events
 speakers:
  - cmennerich

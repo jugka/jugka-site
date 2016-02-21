@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "10 Dinge die Android großartig machen"
-date:   2012-09-26 19:15:00
+date:   2012-09-26 19:15:00 +0100
 tags: events
 speakers:
  - lvogel

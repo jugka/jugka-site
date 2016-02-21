@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Huch, wo ist mein Wissen hin?"
-date:   2012-05-23 19:15:00
+date:   2012-05-23 19:15:00 +0100
 tags: events
 speakers:
  - cmay

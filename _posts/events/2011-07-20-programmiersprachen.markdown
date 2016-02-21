@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Programmiersprachen - Zentrale Architekturentscheidung oder unwichtiges Detail?"
-date:   2011-07-20 19:15:00
+date:   2011-07-20 19:15:00 +0100
 tags: events
 speakers:
  - stilkov

@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Apache Software Foundation Roadshow"
-date:   2016-01-27 19:15:00
+date:   2016-01-27 19:15:00 +0100
 tags: events
 speakers: 
  - anierbeck

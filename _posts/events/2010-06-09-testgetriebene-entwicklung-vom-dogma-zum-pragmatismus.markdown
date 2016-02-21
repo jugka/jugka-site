@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Testgetriebene Entwicklung - vom Dogma zum Pragmatismus"
-date:   2010-06-09 19:15:00
+date:   2010-06-09 19:15:00 +0100
 tags: events
 speakers:
  - mschneider

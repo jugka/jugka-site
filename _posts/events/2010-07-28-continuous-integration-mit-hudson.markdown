@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Continuous Integration mit Hudson"
-date:   2010-07-28 19:15:00
+date:   2010-07-28 19:15:00 +0100
 tags: events
 speakers:
  - swiest

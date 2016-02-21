@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  Erfahrungsbericht Umgekehrte Architekturanalyse
-date:   2015-04-29 19:15:00
+date:   2015-04-29 19:15:00 +0100
 tags: events
 speakers:
   - jarrasz

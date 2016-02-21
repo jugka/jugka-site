@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Apache Wicket"
-date:   2011-10-11 19:15:00
+date:   2011-10-11 19:15:00 +0100
 tags: events
 speakers:
  - mploed

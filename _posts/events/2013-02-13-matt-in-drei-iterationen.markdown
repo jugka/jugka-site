@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Matt in drei Iterationen. Lebendiger Architekturentwurf am Beispiel einer Schach-Engine"
-date:   2013-02-13 19:15:00
+date:   2013-02-13 19:15:00 +0100
 tags: events
 speakers:
  - szoerner

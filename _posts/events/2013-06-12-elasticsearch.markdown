@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Elasticsearch"
-date:   2013-06-12 19:15:00
+date:   2013-06-12 19:15:00 +0100
 tags: events
 speakers:
  - areelsen

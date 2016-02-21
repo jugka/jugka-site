@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Spring Roo"
-date:   2010-03-24 19:15:00
+date:   2010-03-24 19:15:00 +0100
 tags: events
 speakers:
  - nschmidt

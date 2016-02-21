@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "eXtreme Programming in der Praxis"
-date:   2010-10-20 19:15:00
+date:   2010-10-20 19:15:00 +0100
 tags: events
 speakers:
  - ajanus

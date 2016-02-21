@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Testen mit JMockIt"
-date:   2010-04-28 19:15:00
+date:   2010-04-28 19:15:00 +0100
 tags: events
 speakers:
  - ajanus

@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Huch, wo ist meine Architektur hin"
-date:   2012-02-22 19:15:00
+date:   2012-02-22 19:15:00 +0100
 tags: events
 speakers:
  - ogierke

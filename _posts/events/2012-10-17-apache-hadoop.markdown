@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Apache Hadoop"
-date:   2012-10-17 19:15:00
+date:   2012-10-17 19:15:00 +0100
 tags: events
 speakers:
  - bfondermann

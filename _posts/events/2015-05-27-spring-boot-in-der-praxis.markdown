@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Spring Boot in der Praxis"
-date:   2015-05-27 19:15:00
+date:   2015-05-27 19:15:00 +0100
 tags: events
 speakers:
  - mdoninger

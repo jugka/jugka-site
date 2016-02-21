@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "MongoDB für Java-Programmierer"
-date:   2013-12-11 19:15:00
+date:   2013-12-11 19:15:00 +0100
 tags: events
 speakers:
  - useiler

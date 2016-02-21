@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Testen von Hypermedia-APIs mit RestAssured"
-date:   2013-06-26 19:15:00
+date:   2013-06-26 19:15:00 +0100
 tags: events
 speakers:
  - hrupp

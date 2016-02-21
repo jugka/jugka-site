@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Apache Sling and JCR"
-date:   2011-02-16 19:15:00
+date:   2011-02-16 19:15:00 +0100
 tags: events
 speakers:
  - caugusti

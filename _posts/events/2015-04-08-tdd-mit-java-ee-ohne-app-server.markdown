@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "TDD mit Java EE ohne App Server"
-date:   2015-04-08 19:15:00
+date:   2015-04-08 19:15:00 +0100
 tags: events
 parleys: https://www.parleys.com/tutorial/tdd-mit-java-ee-ohne-app-server
 slides:

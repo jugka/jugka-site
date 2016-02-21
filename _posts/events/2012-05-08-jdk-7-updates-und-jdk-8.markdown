@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "JDK 7 Updates & JDK 8"
-date:   2012-05-08 19:15:00
+date:   2012-05-08 19:15:00 +0100
 tags: events
 speakers:
  - dtopic

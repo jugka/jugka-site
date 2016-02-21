@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Project Avatar: more than just Node.js on the JVM"
-date:   2014-05-21 19:15:00
+date:   2014-05-21 19:15:00 +0100
 tags: events
 speakers:
  - nkoebler

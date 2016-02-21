@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Scala in Action"
-date:   2014-06-25 19:15:00
+date:   2014-06-25 19:15:00 +0100
 tags: events
 speakers:
  - hseeberger

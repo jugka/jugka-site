@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "20 Gründe, warum man keine Architekten braucht"
-date:   2010-05-12 19:15:00
+date:   2010-05-12 19:15:00 +0100
 tags: events
 speakers:
  - pbaron

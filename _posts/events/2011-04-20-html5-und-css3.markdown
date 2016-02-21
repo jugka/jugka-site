@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "HTML5 und CSS3 - Plattform für die Webentwicklung"
-date:   2011-04-20 19:15:00
+date:   2011-04-20 19:15:00 +0100
 tags: events
 speakers:
  - jjaeger

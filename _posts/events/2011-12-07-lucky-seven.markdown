@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Lucky Seven"
-date:   2011-12-07 19:15:00
+date:   2011-12-07 19:15:00 +0100
 tags: events
 speakers:
  - wweigend

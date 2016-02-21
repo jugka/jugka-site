@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "REST in der Praxis"
-date:   2009-11-11 19:15:00
+date:   2009-11-11 19:15:00 +0100
 tags: events
 speakers:
  - groth

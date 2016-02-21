@@ -1,7 +1,7 @@
 ---
 layout: news
 title:  "Microservices Summit und Java Enterprise Summit im Dezember mit JUG-Rabatt"
-date:   2015-11-06 07:59:00
+date:   2015-11-06 07:59:00 +0100
 tags: news
 ---
 

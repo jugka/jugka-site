@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Eine leichtgewichtige BPM/SOA Infrastruktur mit camunda BPM und Camel"
-date:   2013-09-25 19:15:00
+date:   2013-09-25 19:15:00 +0100
 tags: events
 speakers:
  - bruecker

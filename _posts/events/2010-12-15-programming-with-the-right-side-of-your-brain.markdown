@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Programming with the right side of your brain"
-date:   2010-12-15 19:15:00
+date:   2010-12-15 19:15:00 +0100
 tags: events
 speakers:
  - dhaase

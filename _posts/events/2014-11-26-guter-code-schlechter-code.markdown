@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Guter Code, Schlechter Code?"
-date:   2014-11-16 19:15:00
+date:   2014-11-16 19:15:00 +0100
 tags: events
 speakers:
  - ckumpe

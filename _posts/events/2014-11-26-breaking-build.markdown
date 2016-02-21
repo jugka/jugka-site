@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Breaking Build - Stell Dir vor der Build ist kaputt und keiner merkt es"
-date:   2014-11-16 19:15:00
+date:   2014-11-16 19:15:00 +0100
 tags: events
 speakers:
  - nbyl

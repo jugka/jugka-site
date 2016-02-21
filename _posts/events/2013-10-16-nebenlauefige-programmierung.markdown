@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Überraschungen und Grundlagen bei der nebenläufigen Programmierung in Java"
-date:   2013-10-16 19:15:00
+date:   2013-10-16 19:15:00 +0100
 tags: events
 speakers:
  - ckumpe

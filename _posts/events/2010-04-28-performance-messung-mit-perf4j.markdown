@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Performance-Messungen mit perf4j"
-date:   2010-04-28 19:15:00
+date:   2010-04-28 19:15:00 +0100
 tags: events
 speakers:
  - mkuperberg

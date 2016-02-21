@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Apache OpenMeetings"
-date:   2012-07-18 19:15:00
+date:   2012-07-18 19:15:00 +0100
 tags: events
 speakers:
  - swagner

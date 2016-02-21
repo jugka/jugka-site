@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Eine kleine Reise durch NoSQL"
-date:   2016-01-13 19:15:00
+date:   2016-01-13 19:15:00 +0100
 tags: events
 speakers: 
  - cmennerich

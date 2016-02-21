@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Lass die Affen testen - Das Ende der Bananensoftware!"
-date:   2015-06-17 19:15:00
+date:   2015-06-17 19:15:00 +0100
 tags: events
 speakers:
  - jroessler

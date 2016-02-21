@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Distributed SCM with Git"
-date:   2009-06-17 19:15:00
+date:   2009-06-17 19:15:00 +0100
 tags: events
 speakers:
  - smellert

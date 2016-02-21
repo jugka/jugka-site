@@ -1,7 +1,7 @@
 ---
 layout: news
 title:  "JavaLand im März 2016"
-date:   2015-10-28 18:00:00
+date:   2015-10-28 18:00:00 +0100
 tags: news
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "CRUD mit Spring DATA"
-date:   2016-02-24 19:15:00+0100
+date:   2016-02-24 19:15:00 +0100
 tags: events
 speakers: 
  - hjaenisch

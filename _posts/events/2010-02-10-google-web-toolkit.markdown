@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Google Web Toolkit"
-date:   2010-02-10 19:15:00
+date:   2010-02-10 19:15:00 +0100
 tags: events
 speakers:
  - ptaboada

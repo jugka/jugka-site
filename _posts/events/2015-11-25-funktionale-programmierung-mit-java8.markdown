@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Funktioniert's? - Funktionale Programmierung mit Java 8"
-date:   2015-11-25 19:15:00
+date:   2015-11-25 19:15:00 +0100
 tags: events
 speakers: 
  - nrauch

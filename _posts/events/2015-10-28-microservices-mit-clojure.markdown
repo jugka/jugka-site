@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Microservices mit Clojure"
-date:   2015-10-28 19:15:00
+date:   2015-10-28 19:15:00 +0100
 tags: events
 speakers:
  - pschirmacher

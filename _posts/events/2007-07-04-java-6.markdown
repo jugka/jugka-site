@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Java 6"
-date:   2007-07-04 19:15:00
+date:   2007-07-04 19:15:00 +0100
 tags: events
 speakers:
  - sschneider

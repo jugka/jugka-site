@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Phonegap und GWT"
-date:   2012-08-08 19:15:00
+date:   2012-08-08 19:15:00 +0100
 tags: events
 speakers:
  - dkurka

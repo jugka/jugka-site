@@ -1,7 +1,7 @@
 ---
 layout: news
 title:  "Partner-Events im September mit Frühbucher- und JUG-Rabatt"
-date:   2015-08-02 07:59:00
+date:   2015-08-02 07:59:00 +0100
 tags: news
 ---
 

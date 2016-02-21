@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Integration ganz einfach mit Apache Camel"
-date:   2012-04-04 19:15:00
+date:   2012-04-04 19:15:00 +0100
 tags: events
 speakers:
  - cschneider

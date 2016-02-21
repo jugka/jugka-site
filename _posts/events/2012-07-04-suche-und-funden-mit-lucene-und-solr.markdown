@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Suchen und Finden mit Lucene und Solr"
-date:   2012-07-04 19:15:00
+date:   2012-07-04 19:15:00 +0100
 tags: events
 speakers:
  - fhopf

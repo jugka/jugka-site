@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  Softwarearchitekten und Softwarearchitekturen
-date:   2015-03-18 19:15:00
+date:   2015-03-18 19:15:00 +0100
 tags: events
 speakers: 
  - tbiermann

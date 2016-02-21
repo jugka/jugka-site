@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Bessere Präsentationen für Entwickler und Architekten"
-date:   2012-03-14 19:15:00
+date:   2012-03-14 19:15:00 +0100
 tags: events
 speakers:
  - mploed

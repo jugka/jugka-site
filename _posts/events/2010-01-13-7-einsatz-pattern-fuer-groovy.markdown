@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "7 Einsatz Pattern für Groovy"
-date:   2010-01-13 19:15:00
+date:   2010-01-13 19:15:00 +0100
 tags: events
 speakers:
  - dkoenig

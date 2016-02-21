@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "REST assured - Hypermedia getriebene REST Architektur mit Spring"
-date:   2013-03-20 19:15:00
+date:   2013-03-20 19:15:00 +0100
 tags: events
 speakers:
  - ogierke

@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Clojure - Von Listen und Klammern"
-date:   2011-06-16 19:15:00
+date:   2011-06-16 19:15:00 +0100
 tags: events
 speakers:
  - dparra

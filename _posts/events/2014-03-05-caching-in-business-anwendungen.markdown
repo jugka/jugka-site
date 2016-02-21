@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Caching in Business-Anwendungen"
-date:   2014-03-05 19:15:00
+date:   2014-03-05 19:15:00 +0100
 tags: events
 speakers:
  - mploed

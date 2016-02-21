@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Was ist eigentlich aus MDA geworden?"
-date:   2011-05-18 19:15:00
+date:   2011-05-18 19:15:00 +0100
 tags: events
 speakers:
  - rneumann

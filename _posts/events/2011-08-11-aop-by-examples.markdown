@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "AOP by examples"
-date:   2011-08-11 19:15:00
+date:   2011-08-11 19:15:00 +0100
 tags: events
 speakers:
  - oboehm

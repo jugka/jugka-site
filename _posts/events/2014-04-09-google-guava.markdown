@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Effizientere Softwareentwicklung durch den Einsatz von Google Guava"
-date:   2014-04-09 19:15:00
+date:   2014-04-09 19:15:00 +0100
 tags: events
 speakers:
  - pfichtner

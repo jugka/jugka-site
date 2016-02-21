@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "OSGi Best and Worst Practices"
-date:   2010-03-03 19:15:00
+date:   2010-03-03 19:15:00 +0100
 tags: events
 speakers:
  - mlippert

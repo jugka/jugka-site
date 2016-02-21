@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Scrum"
-date:   2009-12-09 19:15:00
+date:   2009-12-09 19:15:00 +0100
 tags: events
 speakers:
  - jhoffmann

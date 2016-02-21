@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Database Migrations mit Liquibase"
-date:   2012-11-12 19:15:00
+date:   2012-11-12 19:15:00 +0100
 tags: events
 speakers:
  - mkrauße

@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Java Architectures - A New Hope!"
-date:   2015-01-19 19:15:00
+date:   2015-01-19 19:15:00 +0100
 categories: eberhard wolff micro services
 tags: events
 youtube: https://www.youtube.com/watch?v=8vgcUBLyHXU

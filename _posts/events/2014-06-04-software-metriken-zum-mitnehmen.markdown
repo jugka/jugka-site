@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "McCabe, Halsted, WTFPS – Software Metriken zum Mitnehmen"
-date:   2014-06-04 19:15:00
+date:   2014-06-04 19:15:00 +0100
 tags: events
 speakers:
  - tgetrost
