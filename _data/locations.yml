@@ -18,8 +18,8 @@ hs-karlsruhe-m202:
   address: Moltkestr. 30, 
   postcode: 76133 Karlsruhe
 synyx:
-  latitude: 49.005186
-  longitude: 8.385172
+  latitude: 49.003930
+  longitude: 8.385108
   name: Synyx GmbH & Co. KG
   address: Gartenstraße 67
   postcode: 76135 Karlsruhe
@@ -60,8 +60,8 @@ megapart:
   address: Zur Gießerei 6
   postcode: 76227 Karlsruhe
 poet:
-  latitude: 48.9974429
-  longitude: 8.4640848
+  latitude: 48.997449
+  longitude: 8.464596
   name: POET GmbH
   address: An der RaumFabrik 33a
   postcode: 76227 Karlsruhe
