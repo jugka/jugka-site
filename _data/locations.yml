@@ -14,8 +14,8 @@ hs-karlsruhe-m202:
   latitude: 49.016145
   longitude: 8.390573
   name: Hochschule Karlsruhe
-  room: Raum M-202
-  address: Moltkestr. 30, 
+  address: Moltkestr. 30
+  address2: Gebäude M, Raum M-202
   postcode: 76133 Karlsruhe
 synyx:
   latitude: 49.003930

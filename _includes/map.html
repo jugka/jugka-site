@@ -19,10 +19,11 @@
 <br>
 <address>
 <p>
-{{ location.name }}{% if defined?(location.room) %} , Raumnummer: {{ location.room }} {% endif %} 
+{{ location.name }}
 <br>
 {{ location.address }} <br>
+{% if location.address2 %} {{ location.address2}} <br> {% endif %}
 {{ location.postcode }}
 </p>
 </address>
-{% endif %} 
+{% endif %}
