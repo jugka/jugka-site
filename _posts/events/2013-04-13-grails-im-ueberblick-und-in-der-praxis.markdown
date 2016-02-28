@@ -1,11 +1,14 @@
 ---
 layout: event
 title:  "Grails im Überlick und in der Praxis"
-date:   2013-04-13 19:15:00 +0100
+date:   2013-04-10 19:15:00 +0100
 tags: events
 speakers:
  - dhenkelmann
  - tkraft
+slides:
+    name: Slideshare
+    url: http://de.slideshare.net/tobiaskraft/130410-jug-kagrailsueberblickundpraxis
 location: uni-ka-hs101
 ---
 

@@ -6,6 +6,7 @@ ewolff:
 anierbeck:
     name: Achim Nierbeck
     bio: Achim Nierbeck ist Senior Consultant bei der codecentric AG in Karlsruhe. Er hat 15 Jahre Erfahrung im Java-Enterprise- Umfeld. In seiner Freizeit beschäftigt sich der Apache Member unter anderem mit dem OSGi Server Apache Karaf (Comitter und PMC seit 2011), bzw. dem OSGi Web-Container Pax Web.
+    homepage: http://notizblog.nierbeck.de/
 areelsen:
     name: Alexander Reelsen
     bio: Alexander Reelsen ist Software Engineer bei elasticsearch. Nach mehreren Jahren im Bereich der JVM basierten Webentwicklung mit Fokus auf leicht zu wartenden und zu entwickelnden Frameworks wie dem Play Framework oder Dropwizard liegt sein Fokus aktuell im Bereich Information Retrieval.
@@ -23,6 +24,7 @@ cmennerich:
 cschneider:
     name: Christian Schneider
     bio: Christian Schneider ist Open Source Softwarearchitekt bei Talend. Er arbeitet Vollzeit an den Apache-Projekten, welche die Basis des Talend ESB bilden (Camel, CXF, Karaf). In seinen mehr als 15 Jahren Entwicklungserfahrung war er unter anderem für die SOA-Technologie des Stromhandels eines der größten deutschen Entergiekonzerne verantwortlich.
+    homepage: http://www.liquid-reality.de/
 jroessler:
     name: Dr. Jeremias Rößler
     bio: Dr. Jeremias Rößler ist Software Ingenieur und Experte für die Erstellung und Pflege großer, komplexer Softwaresysteme. Er besitzt über sechs Jahre Berufserfahrung in der Software-Entwicklung. 2013 hat er am Lehrstuhl für Softwaretechnik an der Universität des Saarlandes promoviert. Er ist Gründer von ReTest (www.retest.de), einem IT-Dienstleistungsunternehmen das Software programmunterstützt testet.
@@ -84,6 +86,7 @@ ogierke:
 aschwartz:
     name: Alexander Schwartz
     bio: Alexander Schwartz arbeitet als Principal IT Consultant bei msg systems ag. In den vergangenen Jahren hat er Softwareprojekte mit JEE und Spring in verschiedenen Rollen als Entwickler, ScrumMaster, Architekt und Projektmanager begleitet. Im Laufe der Zeit arbeitete er mit verschiedensten Web-Technologien. Er schätzt produktive Arbeitsumgebungen, agile Projekte und automatisierte Tests.
+    homepage: http://ahus1.de/
 hseeberger:
     name: Heiko Seeberger
     bio: Heiko Seeberger ist als Director of Education für Typesafe tätig. Er ist Scala-Enthusiast, seit er 2008 diese wundervolle Sprache kennengelernt hat. Heiko hat mehr als 15 Jahre Erfahrung in der Beratung und Software-Entwicklung auf der Java-Plattform, trägt aktiv zu Projekten aus der Scala-Community bei und gibt seine Expertise regelmäßig in Form von Artikeln und Vorträgen weiter. Er ist außerdem Autor des Scala-Buches Durchstarten mit Scala. Heiko twittert unter @hseeberger und bloggt unter http://blog.heikoseeberger.name/.
@@ -109,9 +112,9 @@ pfichtner:
     name: Peter Fichtner
     bio: Peter Fichtner schloss 1998 sein Ausbildung als DV-Kaufmann bei der Fiducia IT AG ab und arbeitet seit diesem Zeitpunkt im Bereich Anwendungsentwicklung. Das Spektrum erstreckt sich von der Entwicklung von Bankenanwendungen bis hin zur Erstellung von Frameworks und Frameworkkomponenten. Seit 1999 beschäftigt er sich mit der Programmiersprache Java und verschiedenen Java-basierten Bibliotheken. Mit seinem Wissen im Bereich Test-Driven-Development, Continuous Integration in Verbindung mit agilen Entwicklungsmethoden arbeitet er in verschiedenen Gremien, welche sich um die Themen Test und Modernisierung des Build-Systems als Aufgabe gesetzt haben. Nach seinem Wechsel 2009 in die Architektur ist eine seiner größten Aufgaben die Neuimplementierugn des Business Intelligence Java Frameworks. Nicht nur in den Fiducia-Projekten, sondern auch in einigen seiner privaten Opensource-Projekten, ist Google Guava von Anfang an ein integraler Bestandteil.
 mploed:
-    name: Michael Ploed
+    name: Michael Plöd
     bio: Michael Plöd ist Principal Architect und Partner bei der Senacor Technologies AG und in dieser Rolle überwiegend in Projekten tätig, die die Transformation großer IT-Landschaften anstreben. Michael ist Speaker auf zahlreichen Konferenzen und regelmäßiger Autor diverser Fachartikel zu den Themen Java Persistence, Apache Wicket und Präsentationstechniken.
-    homepage: http://www.senacor.com/
+    homepage: http://rockingcode.blogspot.com
     twitter: bitboss
 nmaurer:
     name: Norman Maurer
@@ -141,45 +144,57 @@ ggrunwald:
 hrupp:
     name: Heiko W. Rupp
     bio: Heiko W. Rupp ist Diplom-Informatiker, hat in Karlsruhe studiert und arbeitet als Entwickler bei der Firma Red Hat im Bereich Monitoring und Management von Servern. Er hat das erste deutsche Buch zum JBoss Applikationsserver und eines der ersten Bücher zu EJB3 geschrieben. Rupp lebt mit seiner Familie in Stuttgart.
+    homepage: http://pilhuhn.blogspot.de/
+    twitter: pilhuhn
 szoerner:
     name: Stefan Zörner
     bio: Stefan Zörner ist Anwendungsarchitekt, Berater, Trainer und Coach bei oose in Hamburg. Seine inhaltlichen Schwerpunkte sind Softwarearchitektur und Java-Technologien. Ganz besonders interessiert ihn, wie sich Entwürfe effizient festhalten und kommunizieren lassen. Sein Wissen hierzu teilt er regelmäßig in Form von Vorträgen und Artikeln (u.a. im Java Magazin) mit. Im Mai 2012 ist im Hanser-Verlag sein Buch "Softwarearchitekturen dokumentieren und kommunizieren" erschienen. Stefan ist Apache-Committer, Certified Spring Professional und aktives Mitglied im International Software Architecture Qualification Board (iSAQB).
 cjanz:
     name: Christian Janz
     bio: Christian Janz arbeitet als Consultant im Bereich Softwareentwicklung Java/JEE bei der bridgingIT GmbH in Mannheim. Sein Interesse gilt dabei der Architektur und Entwicklung von Geschäftsanwendungen mit Hilfe moderner Java Frameworks. Christian hat Informatik an der Universität Karlsruhe studiert und verfügt über mehr als 5 Jahre Erfahrung in der professionellen Softwareentwicklung.
-mkrauße:
+    homepage: http://www.bridging-it.de/
+mkrausse:
     name: Michael Krauße
     bio: Seit mehreren Jahren arbeitet Michael Krauße als IT-Consultant im Bereich Software Engineering für die Prodyna AG. Neben seinem beruflichen Schwerpunkt der Entwicklung von Individualsoftware für verschiedene Kunden interessiert er sich für die praktische Umsetzung von Continous Delivery in konkreten Projekten.
 bfondermann:
     name: Bernd Fondermann
     bio: Bernd Fondermann ist Java Entwickler und Architekt, Freelancer, Member der Apache Software Foundation und Autor der JavaMagazin-Kolumne "Flinke Feder".
+    homepage: http://www.brainlounge.de/
 lvogel:
     name: Lars Vogel
     bio: Lars Vogel arbeitet freiberuflich als Entwickler, Trainer und Buchauthor im Eclipse und Android Umfeld. Er ist regelmässiger Sprecher auf internationalen Konferenzen wie der Devoxx, EclipseCon, JAX, MobileTechCon oder der O'Reilly Android Open. Mit mehr als einer Million Besuchern im Monat ist Lars Webseite http://www.vogella.de/ eine zentrale Anlaufstelle für Fragen im Bereich Android und Eclipse.
+    homepage: http://www.vogella.de/
 rreiz:
     name: Robert Reiz
     bio: Robert Reiz ist jetzt seit 14 Jahren in der Software Entwicklung tätig. Er hat von 2000 bis 2005 an der Hochschule Mannheim Informatik studiert. 2008 hat er die PLOIN GmbH, ein Software Consulting Haus in Mannheim, gegründet. Ende 2010 hat er die Firma verkauft und ist in die USA nach San Francisco gezogen um dort bei einem Internet Start-Up mitzuwirken. Seit Dezember 2011 ist er wieder in Deutschland und arbeitet am Internetportal VersionEye.com, eine Suchmaschine für Software Bibliotheken.
+    homepage: http://versioneye.com/
 dkurka:
     name: Daniel Kurka
     bio: Daniel Kurka ist seit ca. 15 Jahren Webentwickler und GWT Committer. Seit 2009 erstellt er u.a. mobile Anwendungen mit GWT und PhoneGap und hat zu diesem Zweck zwei Open Source Projekte veröffentlicht mgwt und GWT-PhoneGap. Durch diese Frameworks ist er zu einem Experten für performante, mobile, cross-plattform Anwendungen auf Basis von HTML5 und CSS3 geworden.
+    homepage: http://www.daniel-kurka.de/
 swagner:
     name: Sebastian Wagner
     bio: Sebastian Wagner arbeitet freiberuflich als Java und Flex/OpenLaszlo Entwickler. Er hat das Projekt OpenMeetings 2007 gegründet und ist einer der Hauptentwickler des Projektes Apache OpenMeetings, das sich gerade bei der Apache Software Foundation im Incubator befindet. Er hält regelmäßig Vorträge bei der MoodleMoot zum Thema OpenMeetings.
+    homepage: http://www.wagner-sebastian.com/
 cmay:
     name: Christof May 
     bio: Christof May ist freiberuflicher Software-Entwickler, Architekt und Forscher aus Leidenschaft mit den Schwerpunkt Java Enterprise, Web und Cloud Computing.
 dtopic:
     name: Dalibor Topic
     bio: Dalibor Topic lives in Hamburg, Germany, and works as Java F/OSS Ambassador for Oracle. He joined the OpenJDK project in order to help make it a successful open source project, and stayed for anchoring Java in Linux distributions, and as an all around Java F/OSS community guy. He joined the Java strategy team at Oracle to help provide community feedback into the long-term strategy planning.
+    homepage: http://robilad.livejournal.com/
+    twitter: robilad
 rmartin:
     name: Robert C. Martin
-    bio: Robert C. Martin aka Uncle Bob was in Karlsruhe doing a course on Agile Software Craftmanship with Andrena and agreed to give talk for us. He is the well know author of books like Clean Code and Agile Software Development Principles, Patterns and Practices and one of the leading member of the Software Craftmanship movement. In 2001, he initiated the meeting of the group that created Agile software development from Extreme Programming techniques.
+    bio: Robert C. Martin aka Uncle Bob is the well know author of books like Clean Code and Agile Software Development Principles, Patterns and Practices and one of the leading member of the Software Craftmanship movement. In 2001, he initiated the meeting of the group that created Agile software development from Extreme Programming techniques.
+    homepage: http://www.cleancoder.com/
 wweigend:
     name: Wolfgang Weigend
     bio: Wolfgang Weigend, Systemberater für die Oracle Fusion Middleware bei der Oracle Deutschland B.V. & Co. KG, zuständig für Java-Technologie und -Architektur mit strategischem Einsatz bei Großkunden, verfügt über langjährige Erfahrung in der Systemberatung und im Bereich objektorientierter Software-Entwicklung mit Java. Davor war er als Principal Systems Engineer neuneinhalb Jahre bei der BEA Systems GmbH für strategische Kunden tätig und koordinierte gleichzeitig als Teamleader Systems Engineering alle Systemberater in der Central Region Deutschland, Österreich und Schweiz. Wolfgang Weigend studierte an der FH Darmstadt Elektrotechnik/Automatisierungstechnik mit dem Studienschwerpunkt Datentechnik. Bevor der Diplom-Ingenieur 1999 zu BEA Systems kam, war er als Systemberater für Oracle, Texas Instruments Software und Sun Microsystems tätig.
 hdockter:
     name: Hans Dockter
     bio: Hans Dockter ist der Gründer und Leiter von Gradle, sowie der Geschäftsführer der Gradle GmbH, ein Unternehmen, das Training, Support und Beratung für Gradle und Enterprise-Projektautomatisierung im Allgemeinen anbietet. Hans Dockter hat 13 Jahre Erfahrung als Softwareentwickler, Projektleiter, Architekt, Trainer und Mentor. Er ist einer der führenden Köpfe im Gebiet der Projektautomatisierung und zeichnete sich verantwortlich für eine Vielzahl von komplexen Enterprise Builds. Er ist auch ein Verfechter von Domain-driven Design und gab Vorträge und Trainings zusammen mit Eric Evans zu diesem Thema. In grauer Vorzeit war er auch Committer für das JBoss-Projekt und schuf die JBoss-IDE.
+    homepage: http://gradleware.com/
 oboehm:
     name: Oliver Böhm
     bio: Oliver Böhm studierte Informatik an der Universität Stuttgart. Nach C++-Entwickung im Unix-Bereich beschäftigt er sich mit Java-Entwicklung unter Linux und Aspekt-Orientierte SW-Entwicklung. Er ist u.a. Autor von "Aspekt-Orientierte Programmierung mit AspectJ 5" (dpunkt.verlag). Neben seiner hauptberuflichen Tätigkeit als J2EE-Entwickler und -Coach bei agentes gibt er AOSD-Vorlesungen und ist Leiter der SIG AspectJ innerhalb der JUGS.
@@ -188,16 +203,22 @@ stilkov:
     bio: Stefan Tilkov ist Geschäftsführer und Principal Consultant bei der innoQ Deutschland GmbH, wo er sich vorwiegend mit der strategischen Beratung von Kunden im Umfeld von Softwarearchitekturen beschäftigt. Er ist Autor des Buchs "REST und HTTP", Mitherausgeber von "SOA-Expertenwissen" (beide dpunkt.verlag), Autor zahlreicher Fachartikel und häufiger Sprecher auf internationalen Konferenzen.
 dparra:
     name: David Soria Parra
+    bio: David Soria Parra is a german software engineer and contributor to various open source projects. He is know to have strong opinions and might use explicit language to share his view.
+    homepage: http://blog.experimentalworks.net/
 rneumann:
     name: Rainer Neumann
+    bio: Prof. Dr. Rainer Neumann ist Professor an der HS Karlsruhe und hält unter anderem Vorlesungen zum Thema Modellierung.
 jjaeger:
     name: Jens Jäger
 caugusti:
     name: Claus Augusti
+    bio: 1&1 Internet AG
 rsobek:
     name: Rafael Sobek
+    bio: 1&1 Internet AG
 dhaase:
     name: Dirk Haase
+    bio: EnBW AG
 ajanus:
     name: André Janus
 bmueller:
@@ -206,15 +227,20 @@ mwiedeking:
     name: Michael Wiedeking
     bio: Michael Wiedeking ist Gründer und Geschäftsführer der MATHEMA Software GmbH, Veranstalter des Herbstcampus (www.herbstcampus.de) und Herausgeber vom KaffeeKlatsch (www.kaffeeklatsch.de) – dem kostenlosen PDF-Magazin rund um die Software-Entwicklung. Er ist Java-Programmierer der ersten Stunde, schreibt regelmäßig Artikel und spricht auf Konferenzen im In- und Ausland. Am liebsten aber "sammelt" er Programmiersprachen und beschäftigt sich mit deren Design und Implementierung.
 swiest:
-    name: Dr. Simon Wiest
+    name: Simon Wiest
+    bio: Prof. Dr. Simon Wiest lehrt Informatik an der Hochschule der Medien in Stuttgart. Als unabhängiger Berater für Continuous Integration begleitete er Softwareteams zwischen 5 und 1.200 Entwicklern. Er spricht regelmäßig auf Fachkonferenzen, in Firmen und User Groups.
+    homepage: http://www.simonwiest.de/
 mschneider:
     name: Martin Schneider
 pbaron:
     name: Pavlo Baron
+    homepage: http://www.pbit.org/
+    twitter: pavlobaron
 mkuperberg:
     name: Michael Kuperberg
-jtessme:
-    name: Joachim Tessme
+jtessmer:
+    name: Joachim Tessmer
+    homepage: http://www.schleichy.de/
 dweber:
     name: Daniel Weber
 nschmidt:
@@ -231,24 +257,32 @@ groth:
 unknown:
     name: Unbekannt
 sschneider:
-    name: Dr. Stefan Schneider
+    name: Stefan Schneider
+    bio: Dr. Stefan Schneider ist Chief Technologist ISV-Engineering bei Oracle (damals Sun Microsystems GmbH)
 hkabutz:
-    name: Dr Heinz M. Kabutz
+    name: Heinz Kabutz
+    bio: Dr. Heinz Max Kabutz ist der Kopf hinter dem Java Specialists’ Newsletter. Er ist Doktor der Philosophie in Informatik und hat wichtige Teile mehrerer umfangreicher Java-Anwendungen programmiert. Von Sun Microsystems, den Erfindern von Java, wurde er für seine innovative Arbeit zum Java Champion ernannt.
+    homepage: http://www.javaspecialists.eu/
 dlinsin:
     name: David Linsin
+    bio: David is a versatile developer with an eye for perfection. He started his career as a Java developer and is currently pursuing his passion iOS development. He is developing iOS apps at Pixum in Cologne.
+    homepage: http://dlinsin.github.io/
+    twitter: dlinsin
 gamm:
     name: Gisbert Amm
+    bio: 1&1 Internet AG
 mkohler:
     name: Markus Kohler
 mschmidt:
     name: Matthias Schmidt
+    bio: Sun Microsystems
 nveber:
     name: Nikola Veber
+    bio: Sun Microsystems
 mgrammling:
     name: Michael Grammling
-mkabutz:
-    name: Dr Heinz M. Kabutz
-    bio: Dr. Heinz M. Kabutz ist der Kopf hinter dem Java Specialists’ Newsletter. Er ist Doktor der Philosophie in Informatik und hat wichtige Teile mehrerer umfangreicher Java-Anwendungen programmiert. Von Sun Microsystems, den Erfindern von Java, wurde er für seine innovative Arbeit zum Java Champion ernannt.
+    bio: Michael Grammling beschäftigt sich seit 1993 mit der Softwareentwicklung. Sein Interesse galt anfangs der systemnahen und grafischen Programmierung sowie der Entwicklung analoger und digitaler Schaltungen. Er ist Gründungsmitglied im OSGi Users' Forum Germany. Mit OSGi beschäftigt er sich seit 2003 besonders in den Bereichen der embedded und serverseitigen Systemen.
+    homepage: http://www.neat-it.de/
 tkraft:
     name: Tobias Kraft
     bio: Tobias Kraft arbeitet als Senior Consultant bei der exensio GmbH. Neben Java-Technologien kommt in vielen seiner durchgeführten Projekte auch das Grails-Framework zum Einsatz.

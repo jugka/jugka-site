@@ -5,6 +5,8 @@ date:   2010-08-18 19:15:00 +0100
 tags: events
 speakers:
  - mwiedeking
+links:
+ - http://www.bookware.de/kaffeeklatsch/
 location: uni-ka-hs101
 ---
 

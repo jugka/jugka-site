@@ -4,7 +4,10 @@ title:  "Agiles Hilfsmittel - User Stories"
 date:   2010-04-28 19:15:00 +0100
 tags: events
 speakers:
- - jtessme
+ - jtessmer
+slides:
+    name: PDF
+    url: /assets/slides/UserStories.pdf
 parleys: https://www.parleys.com/play/514892270364bc17fc56bf50
 location: uni-ka-hs101
 ---

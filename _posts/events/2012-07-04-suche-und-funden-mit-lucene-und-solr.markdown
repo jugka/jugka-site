@@ -5,6 +5,11 @@ date:   2012-07-04 19:15:00 +0100
 tags: events
 speakers:
  - fhopf
+slides:
+    name: PDF
+    url: /assets/slides/lucene-solr-jugka-040712.pdf
+links:
+ - http://blog.florian-hopf.de/2012/07/slides-and-demo-code-for-my-talk-at-jug.html
 location: uni-ka-hs101
 ---
 

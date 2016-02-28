@@ -5,6 +5,9 @@ date:   2010-05-12 19:15:00 +0100
 tags: events
 speakers:
  - pbaron
+slides:
+    name: PowerPoint
+    url: /assets/slides/JUGKA10_Slides_Baron.ppt
 parleys: https://www.parleys.com/play/514892270364bc17fc56bf83
 location: uni-ka-hs101
 ---

@@ -5,6 +5,9 @@ date:   2011-05-18 19:15:00 +0100
 tags: events
 speakers:
  - rneumann
+slides:
+    name: PDF
+    url: /assets/slides/JUGS-2011-MDA.pdf
 location: uni-ka-hs101
 parleys: https://www.parleys.com/play/514892280364bc17fc56c277
 ---

@@ -8,7 +8,7 @@ speakers:
 location: uni-ka-hs101
 ---
 
- Neben dem Platzhirsch Subversion und seinem Vorgänger CVS haben sich im Bereicht der Versionsverwaltungssysteme, neben einigen kommerziellen Produkten wie Perforce und Bitkeeper, mittlerweile auch neue OpenSource Produkte etabliert.
+Neben dem Platzhirsch Subversion und seinem Vorgänger CVS haben sich im Bereicht der Versionsverwaltungssysteme, neben einigen kommerziellen Produkten wie Perforce und Bitkeeper, mittlerweile auch neue OpenSource Produkte etabliert.
 
 Git ist dabei wahrscheinlich die prominenteste Lösung. Erfunden wurde Git durch Linus Torvalds, welcher gezwungen war einen Ersatz für BitKeeper zu finden, da BitMover dem Kernel-Entwicklungsteam die kostenlose BitKeeper Lizenz entzogen hatte.
 

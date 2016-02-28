@@ -1,10 +1,13 @@
 ---
 layout: event
-title:  "Vaadine"
+title:  "Vaadin"
 date:   2013-01-30 19:15:00 +0100
 tags: events
 speakers:
  - cjanz
+slides:
+    name: Slideshare
+    url: http://de.slideshare.net/cjanz/vaadin-thinking-of-u-and-i-jug-ka-2013
 location: uni-ka-hs101
 parleys: https://www.parleys.com/play/517fc41de4b02c92eab43541
 ---

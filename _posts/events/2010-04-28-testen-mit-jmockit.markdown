@@ -5,6 +5,9 @@ date:   2010-04-28 19:15:00 +0100
 tags: events
 speakers:
  - ajanus
+slides:
+    name: PDF
+    url: /assets/slides/Testen_mit_JMockIt_JUG-KA_LightningTalk.pdf
 parleys: https://www.parleys.com/play/514892270364bc17fc56bf50
 location: uni-ka-hs101
 ---

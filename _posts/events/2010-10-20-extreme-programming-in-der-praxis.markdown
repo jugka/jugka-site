@@ -5,6 +5,9 @@ date:   2010-10-20 19:15:00 +0100
 tags: events
 speakers:
  - ajanus
+slides:
+    name: PDF 
+    url: /assets/slides/eXtreme_Programming_in_der_Praxis_JUG_KA.pdf
 location: uni-ka-hs101
 ---
 

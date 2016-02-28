@@ -5,6 +5,9 @@ date:   2011-02-16 19:15:00 +0100
 tags: events
 speakers:
  - caugusti
+slides:
+    name: PDF
+    url: /assets/slides/Apache_Sling.pdf
 location: uni-ka-hs101
 parleys: http://www.parleys.com/play/514892280364bc17fc56c18f
 ---

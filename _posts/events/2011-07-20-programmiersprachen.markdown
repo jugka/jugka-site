@@ -5,6 +5,9 @@ date:   2011-07-20 19:15:00 +0100
 tags: events
 speakers:
  - stilkov
+slides:
+    name: PDF
+    url: /assets/slides/2011-07-20-LanguagesArchitecture-JUGKA.pdf
 location: uni-ka-hs101
 parleys: https://www.parleys.com/play/514892280364bc17fc56c2e1
 ---

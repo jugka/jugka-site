@@ -5,6 +5,8 @@ date:   2012-07-18 19:15:00 +0100
 tags: events
 speakers:
  - swagner
+links:
+ - http://openmeetings.apache.org/
 location: uni-ka-hs101
 parleys: http://www.parleys.com/play/5148922b0364bc17fc56ca3b
 ---

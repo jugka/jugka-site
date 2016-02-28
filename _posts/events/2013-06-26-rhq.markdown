@@ -5,8 +5,13 @@ date:   2013-06-26 19:15:00 +0100
 tags: events
 speakers:
  - hrupp
+slides:
+    name: PDF
+    url: /assets/slides/RHQ-20130626.pdf
+links:
+ - http://rhq-project.github.io/rhq/
 location: uni-ka-hs101
 parleys: http://parleys.com/play/524d95fae4b0ab14e307d77f
 ---
 
-Das Systemmanagement- und Monitoringframework RHQ (http://jboss.org/rhq/ ) wird ständig weiterentwickelt. Aktuelle Entwicklungen sind z.B. die neuen Charts für das Monitoring oder auch die REST-Schnittstelle. Dieser Vortrag zeigt einige dieser Änderungen auf und gibt einen Ausblick auf die Zukunft.
+Das Systemmanagement- und Monitoringframework [RHQ](http://jboss.org/rhq/) wird ständig weiterentwickelt. Aktuelle Entwicklungen sind z.B. die neuen Charts für das Monitoring oder auch die REST-Schnittstelle. Dieser Vortrag zeigt einige dieser Änderungen auf und gibt einen Ausblick auf die Zukunft.

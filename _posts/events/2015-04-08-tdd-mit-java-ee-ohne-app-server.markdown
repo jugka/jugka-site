@@ -7,6 +7,8 @@ parleys: https://www.parleys.com/tutorial/tdd-mit-java-ee-ohne-app-server
 slides:
     name: PDF-Download
     url: /assets/slides/JavaEEBeanTesting.pdf
+links:
+ - https://github.com/NovaTecConsulting/BeanTest
 speakers:
  - cbarragan
 location: hs-karlsruhe-m202

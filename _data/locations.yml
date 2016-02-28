@@ -15,7 +15,7 @@ hs-karlsruhe-m202:
   longitude: 8.390573
   name: Hochschule Karlsruhe
   address: Moltkestr. 30
-  address2: Gebäude M, Raum M-202
+  address2: Gebäude M, Raum M-202 (2.OG)
   postcode: 76133 Karlsruhe
 synyx:
   latitude: 49.003930
@@ -28,6 +28,7 @@ uni-ka-hs101:
   longitude: 8.419475
   name: KIT Karlsruhe
   address: Am Fasanengarten 5
+  address2: Gebäude 50.34, Raum HS101 (UG)
   postcode: 76131 Karlsruhe
 tefabrik:
   latitude: 49.012412

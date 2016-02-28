@@ -6,6 +6,8 @@ tags: events
 speakers:
  - bruecker
 parleys: http://parleys.com/play/52c98194e4b06419f54d710a
+links:
+ - http://www.camunda.com/
 location: hs-karlsruhe-m202
 slides:
     name: Slideshare

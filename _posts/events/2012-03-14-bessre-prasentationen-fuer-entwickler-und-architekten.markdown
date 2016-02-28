@@ -5,6 +5,10 @@ date:   2012-03-14 19:15:00 +0100
 tags: events
 speakers:
  - mploed
+slides:
+    name: Slideshare
+    url: http://www.slideshare.net/mploed/bessere-prsentationen-10089664
+parleys: https://www.parleys.com/play/5148922a0364bc17fc56c671
 location: uni-ka-hs101
 ---
 

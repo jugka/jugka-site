@@ -6,5 +6,10 @@ tags: events
 speakers:
  - dlinsin
  - ogierke
+slides:
+    name: PDF
+    url: /assets/slides/Generic_DAOs_with_Hades.pdf
+links:
+ - http://download.linsin.de/jug-aop-session.zip
 location: uni-ka-hs101
 ---

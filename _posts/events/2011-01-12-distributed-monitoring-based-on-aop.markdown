@@ -5,6 +5,9 @@ date:   2011-01-12 19:15:00 +0100
 tags: events
 speakers:
  - rsobek
+slides:
+    name: PDF
+    url: /assets/slides/2011-distributed-monitoring-jug-ka-final.pdf
 location: uni-ka-hs101
 parleys: https://www.parleys.com/play/514892280364bc17fc56c178
 ---

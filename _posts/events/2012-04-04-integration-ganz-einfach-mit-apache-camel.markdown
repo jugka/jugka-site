@@ -5,6 +5,11 @@ date:   2012-04-04 19:15:00 +0100
 tags: events
 speakers:
  - cschneider
+slides:
+    name: PDF
+    url: /assets/slides/Apache_Camel_JUG_KA.pdf
+links:
+ - http://camel.apache.org/
 location: uni-ka-hs101
 ---
 

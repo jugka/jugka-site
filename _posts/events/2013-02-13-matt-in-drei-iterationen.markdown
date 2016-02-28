@@ -5,6 +5,9 @@ date:   2013-02-13 19:15:00 +0100
 tags: events
 speakers:
  - szoerner
+slides:
+    name: PDF
+    url: /assets/slides/szoerner_jugka2013_architekturentwurf_schach_deploy.pdf
 location: uni-ka-hs101
 parleys: https://www.parleys.com/play/516af6b4e4b05b6ad71fa744
 ---
