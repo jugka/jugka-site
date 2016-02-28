@@ -71,3 +71,9 @@ disy:
   name: Disy Informationssysteme GmbH
   address: Ludwig-Erhard-Allee 6
   postcode: 76131 Karlsruhe
+citrix:
+  latitude: 49.00574
+  longitude: 8.43175
+  name: Citrix - Mobility Apps
+  address:  Alter Schlachthof 51
+  postcode: 76131 Karlsruhe
