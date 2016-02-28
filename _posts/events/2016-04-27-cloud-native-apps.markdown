@@ -8,6 +8,6 @@ speakers:
 location: citrix
 ---
 
-Über die Cloud und Anwendungen und Docker sprichen fast alle, doch was sind Cloud Native Apps? Was macht diese aus und wie muss man eine App bauen, damit diese die Vorteile der Cloud verwendet?
+Über die Cloud und Anwendungen mit Docker sprichen fast alle, doch was sind Cloud Native Apps? Was macht diese aus und wie muss man eine App bauen, damit diese die Vorteile der Cloud verwendet?
 
 Diese und andere Themen möchte Albrecht Beyle anhand von Spring Cloud erläutern und greift dabei auf Erfahrungen aus seiner täglichen Arbeit zurück.
