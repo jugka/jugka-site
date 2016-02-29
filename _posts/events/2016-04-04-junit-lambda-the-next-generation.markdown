@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "JUnit Lambda - the Next Generation"
-date:   2016-04-04 19:15:00 +0100
+date:   2016-04-04 19:15:00 +0200
 tags: events
 speakers: 
  - jschauder
