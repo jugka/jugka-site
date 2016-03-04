@@ -5,6 +5,9 @@ date:   2010-07-28 19:15:00 +0100
 tags: events
 speakers:
  - swiest
+links:
+ - http://hudson-ci.org/
+ - http://jenkins-ci.org/
 parleys: https://www.parleys.com/play/514892270364bc17fc56bfae
 location: uni-ka-hs101
 ---

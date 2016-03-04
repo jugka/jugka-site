@@ -6,7 +6,7 @@ tags: events
 speakers:
  - jroessler
 slides:
-    name: PDF-Download
+    name: PDF
     url: /assets/slides/roesler-affen-testen.pdf
 location: tefabrik
 links:

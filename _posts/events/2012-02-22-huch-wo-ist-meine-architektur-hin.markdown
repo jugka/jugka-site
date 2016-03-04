@@ -5,6 +5,9 @@ date:   2012-02-22 19:15:00 +0100
 tags: events
 speakers:
  - ogierke
+slides:
+    name: Slideshare
+    url: http://www.slideshare.net/olivergierke/whoops-where-did-my-architecture-go-11678054
 location: uni-ka-hs101
 ---
 

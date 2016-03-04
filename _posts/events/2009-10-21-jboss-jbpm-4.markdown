@@ -1,0 +1,12 @@
+---
+layout: event
+title:  "JBoss jBPM 4"
+date:   2009-10-21 19:15:00 +0100
+tags: events
+speakers:
+ - bruecker
+slides:
+    name: SlideShare
+    url: http://www.slideshare.net/camunda/jbpm-4-bei-der-jug-karlsruhe
+location: uni-ka-hs101
+---

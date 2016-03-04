@@ -5,6 +5,9 @@ date:   2010-03-24 19:15:00 +0100
 tags: events
 speakers:
  - mkuperberg
+slides:
+    name: PDF
+    url: /assets/slides/2010-03-24_TimerMeter_JUG_Karlsruhe.pdf
 location: uni-ka-hs101
 ---
 

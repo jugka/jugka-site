@@ -5,6 +5,9 @@ date:   2010-03-24 19:15:00 +0100
 tags: events
 speakers:
  - nschmidt
+slides:
+    name: PDF
+    url: /assets/slides/Spring_Roo-Short_Introduction-Nils_Schmidt.pdf
 location: uni-ka-hs101
 ---
 

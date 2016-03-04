@@ -5,6 +5,9 @@ date:   2010-03-03 19:15:00 +0100
 tags: events
 speakers:
  - mlippert
+slides:
+    name: PDF
+    url: /assets/slides/JUG-KA-2010-OSGiBestPractices.pdf
 location: ptvag
 parleys: https://www.parleys.com/play/514892270364bc17fc56bf12
 ---

@@ -5,6 +5,9 @@ date:   2013-06-26 19:15:00 +0100
 tags: events
 speakers:
  - hrupp
+slides:
+    name: PDF
+    url: /assets/slides/RestAssuredPreso.pdf
 location: uni-ka-hs101
 parleys: http://parleys.com/play/524da7a7e4b0ab14e307d780
 ---

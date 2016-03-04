@@ -5,6 +5,9 @@ date:   2011-12-07 19:15:00 +0100
 tags: events
 speakers:
  - wweigend
+slides:
+    name: PDF
+    url: /assets/slides/Oracle_Java_Plattform_featuring_Lucky_Seven.pdf
 location: uni-ka-hs101
 ---
 

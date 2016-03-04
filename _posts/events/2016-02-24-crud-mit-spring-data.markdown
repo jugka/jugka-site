@@ -6,6 +6,11 @@ tags: events
 speakers: 
  - hjaenisch
  - sschrot
+links:
+ - http://projects.spring.io/spring-data/
+ - http://projects.spring.io/spring-data-rest/
+ - http://lightadmin.org/
+youtube: https://www.youtube.com/watch?v=S3R4eFAjwNo
 location: poet
 ---
 

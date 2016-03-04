@@ -6,5 +6,8 @@ tags: events
 speakers:
  - rsobek
  - gamm
+slides:
+    name: HTML
+    url: http://www.developers-blog.org/camel-vortrag-html/
 location: uni-ka-hs101
 ---

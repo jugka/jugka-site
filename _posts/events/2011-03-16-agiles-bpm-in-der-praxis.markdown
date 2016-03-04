@@ -5,6 +5,11 @@ date:   2011-03-16 19:15:00 +0100
 tags: events
 speakers:
  - bruecker
+slides:
+    name: SlideShare
+    url: http://www.slideshare.net/camunda/20110321-activiti-mrz
+links:
+ - http://www.activiti.org/
 location: uni-ka-hs101
 parleys: http://www.parleys.com/play/514892280364bc17fc56c1ce
 ---

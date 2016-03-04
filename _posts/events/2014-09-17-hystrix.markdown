@@ -1,0 +1,19 @@
+---
+layout: event
+title:  "Robuste Anwendungen in verteilten Umgebungen mit Hystrix"
+date:   2014-09-17 19:15:00 +0100
+tags: events
+speakers:
+ - aschwartz
+location: hs-karlsruhe-m202
+slides: 
+    name: Speakerdeck.com
+    url: https://speakerdeck.com/ahus1/robuste-anwendungen-mit-hystrix
+youtube: https://www.youtube.com/watch?v=SaJJ7T8EeEI
+---
+
+Anwendungen benötigen meist mehr als nur Daten aus ihrer eigenen Datenbank. Mit zunehmender Verknüpfung mit externen Diensten steigt jedoch die Gefahr von Ausfällen der eigenen Anwendung, wenn diese Dienste gar nicht, falsch oder zu langsam antworten. Schnell wird die eigene Anwendung unbedienbar, sobald ein Dienst ausfällt.
+
+Hystrix, das von Netflix 2012 als Open Source Projekt bereitgestellt wurde, ermöglicht einfach und konsistent Sollbruchstellen und Backupstrategien zu implementieren. Alle wichtigen Informationen zum Zustand der Schnittstellen zu den Diensten können komfortabel überwacht, zur Laufzeit rekonfiguriert und in Echtzeit als Dashboard dargestellt werden.
+
+Hystrix kann auch in bestehenden Software-Projekten mit wenigen Schritten Schnittstelle für Schnittstelle integriert werden. Bestehende Bibliotheken können gekapselt werden, um nachträglich eine Absicherung hinzuzufügen.

@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  "Enterprise development mit Apache Karaf"
+title:  "Enterprise Development mit Apache Karaf"
 date:   2015-02-25 19:15:00 +0100
 tags: events
 speakers:

@@ -5,6 +5,9 @@ date:   2010-09-29 19:15:00 +0100
 tags: events
 speakers:
  - fhopf
+slides:
+    name: GitHub - Slides + Demo-Code
+    url: https://github.com/fhopf/solr-sample-jugka
 location: uni-ka-hs101
 parleys: http://www.parleys.com/play/514892280364bc17fc56c07c
 ---

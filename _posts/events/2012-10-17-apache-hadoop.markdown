@@ -5,6 +5,8 @@ date:   2012-10-17 19:15:00 +0100
 tags: events
 speakers:
  - bfondermann
+links:
+ - http://hadoop.apache.org/
 location: uni-ka-hs101
 ---
 

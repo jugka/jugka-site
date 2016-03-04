@@ -5,6 +5,9 @@ date:   2010-12-15 19:15:00 +0100
 tags: events
 speakers:
  - dhaase
+slides:
+    name: ZIP - Open Document Presentation mit Video
+    url: /assets/slides/program_right.zip
 location: uni-ka-hs101
 parleys: https://www.parleys.com/play/514892280364bc17fc56c165
 ---
