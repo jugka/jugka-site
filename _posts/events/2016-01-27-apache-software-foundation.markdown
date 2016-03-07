@@ -8,7 +8,8 @@ speakers:
  - britter
  - cdutz
  - hsaly
+ - rec
 location: tante-emma
 ---
 
-Die drei ASF-Member Christofer Dutz, Achim Nierbeck, Benedikt Ritter und Apache Incubator Committer Hendrik Saly (alle codecentric), geben einen Tieferen Einblick in das Apache Software Foundation Öko-System. Fokus ist hierbei „The Apache Way“ und was dieser für Projekte in und ausserhalb der ASF bedeutet. Im Anschluss wird jeder noch im Rahmen eines Lightning-Talks über eines der Projekte an dem er beteiligt ist, berichten.s
+Die drei ASF-Member Christofer Dutz, Achim Nierbeck, Benedikt Ritter und Apache Incubator Committer Hendrik Saly (alle codecentric), geben einen Tieferen Einblick in das Apache Software Foundation Öko-System. Fokus ist hierbei „The Apache Way“ und was dieser für Projekte in und ausserhalb der ASF bedeutet. Im Anschluss wird jeder noch im Rahmen eines Lightning-Talks über eines der Projekte an dem er beteiligt ist, berichten.
