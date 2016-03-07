@@ -8,7 +8,7 @@ speakers:
  - britter
  - cdutz
  - hsaly
- - rec
+ - reckart
 location: tante-emma
 ---
 
