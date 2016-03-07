@@ -7,6 +7,18 @@ layout: default
 
 <h3>{{ speaker.name }}</h3>
 <p>{{ speaker.bio }}</p>
+{% if speaker.homepage %}
+<p>
+<a href="{{ speaker.homepage }}" target="_new"><img src="{{ site.baseurl }}/assets/img/icon/homepage.png" alt="{{ speaker.homepage }}"/></a>
+<a href="{{ speaker.homepage }}" target="_new">{{ speaker.homepage }}</a>
+</p>
+{% endif %}
+{% if speaker.twitter %}
+<p>
+<a href="https://twitter.com/{{ speaker.twitter }}" target="_new"><img src="{{ site.baseurl }}/assets/img/icon/twitter.png" alt="@{{ speaker.twitter }}"/></a>
+<a href="https://twitter.com/{{ speaker.twitter }}" target="_new">@{{ speaker.twitter }}</a>
+</p>
+{% endif %}
 
 {% assign index = true %}
 
