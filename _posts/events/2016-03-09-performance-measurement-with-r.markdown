@@ -5,6 +5,7 @@ date:   2016-03-09 19:15:00 +0100
 tags: events
 speakers: 
  - vdobler
+youtube: https://www.youtube.com/watch?v=s0dlYlTc9bM
 location: hs-karlsruhe-m202
 ---
 
