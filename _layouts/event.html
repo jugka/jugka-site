@@ -10,7 +10,13 @@ layout: default
 {% if page.slides %}
     <div class="row">
         <div class="col-md-2"><strong>Slides:</strong></div>
-        <div class="col-md-6"><a href="{{ page.slides.url }}">{{ page.slides.name }}</a></div>
+        <div class="col-md-6">
+            <a href="{{ page.slides.url }}">{{ page.slides.name }}</a>
+        {% if page.slides.name2 %}
+            <br />
+            <a href="{{ page.slides.url2 }}">{{ page.slides.name2 }}</a>
+        {% endif %}
+        </div>
     </div>
 {% endif %}
 {% if page.parleys %}

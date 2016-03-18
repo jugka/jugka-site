@@ -6,6 +6,13 @@ tags: events
 speakers:
  - nparlog
  - ftrossbach
+slides: 
+    name: Teil 1 (Nicolai Parlog) als HTML
+    url: http://codefx-org.github.io/talk-jigsaw-walkthrough/2016-03-16-JUG-Ka/
+    name2: Teil 2 (Florian Troßbach) als PDF
+    url2: /assets/slides/Jigsaw_Trossbach.pdf
+links:
+ - https://github.com/ftrossbach/demo-jigsaw-advent-calendar
 location: disy
 ---
 

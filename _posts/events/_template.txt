@@ -13,6 +13,8 @@ youtube: https://www.youtube.com/watch?v=<ID>
 slides: 
     name: [ PDF-Download | Speakerdeck.com | Slidedeck]
     url: <URL>
+    name2: [ PDF-Download | Speakerdeck.com | Slidedeck]
+    url2: <URL>
 links:
 - <URL1>
 - <URL2>

@@ -5,6 +5,9 @@ date:   2016-03-16 19:15:00 +0100
 tags: events
 speakers:
  - mgaletzka
+slides:
+    name: HTML
+    url: http://cultrarius.github.io/ECS-Vortrag/
 location: disy
 ---
 
