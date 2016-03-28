@@ -11,6 +11,7 @@ slides:
     url: http://codefx-org.github.io/talk-jigsaw-walkthrough/2016-03-16-JUG-Ka/
     name2: Teil 2 (Florian Troßbach) als PDF
     url2: /assets/slides/Jigsaw_Trossbach.pdf
+youtube: https://youtu.be/JC6stYKQLHM
 links:
  - https://github.com/ftrossbach/demo-jigsaw-advent-calendar
 location: disy

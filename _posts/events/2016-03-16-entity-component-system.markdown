@@ -8,6 +8,7 @@ speakers:
 slides:
     name: HTML
     url: http://cultrarius.github.io/ECS-Vortrag/
+youtube: https://youtu.be/inyu_rFGnS4
 location: disy
 ---
 
