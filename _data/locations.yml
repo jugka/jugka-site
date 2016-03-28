@@ -49,8 +49,8 @@ fiducia:
   address: Fiduciastraße 20
   postcode: 76227 Karlsruhe
 ptvag:
-  latitude: 49.013016
-  longitude: 8.427714
+  latitude: 49.013071
+  longitude: 8.427393
   name: PTV Group
   address: Haid-und-Neu-Straße 15
   postcode: 76131 Karlsruhe
@@ -67,8 +67,8 @@ poet:
   address: An der RaumFabrik 33a
   postcode: 76227 Karlsruhe
 disy:
-  latitude: 49.0050769
-  longitude: 8.4139288
+  latitude: 49.004778
+  longitude: 8.416159
   name: Disy Informationssysteme GmbH
   address: Ludwig-Erhard-Allee 6
   postcode: 76131 Karlsruhe
