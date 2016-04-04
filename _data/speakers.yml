@@ -300,7 +300,7 @@ cvcreanga:
 sippsack:
     name: Falk Sippach
     bio: Falk Sippach hat über 15 Jahre Erfahrung mit Java und ist bei der Mannheimer Firma OIO Orientation in Objects GmbH als Trainer, Software-Entwickler und Projektleiter tätig. Er publiziert regelmäßig in Blogs, Fachartikeln und auf Konferenzen. In seiner Wahlheimat Darmstadt organisiert er mit Anderen die örtliche Java User Group. Falk twittert unter @sippsack.
-   twitter: sippsack
+    twitter: sippsack
 britter:
     name: Benedikt Ritter
     bio: Benedikt Ritter arbeitet als Software Craftsman bei der codecentric AG in Solingen. Er ist seit 2013 Committer und Mitglied im Project Management Committee beim Apache Commons Projekt und beschäftigt sich dort hauptsächlich mit den Komponenten Commons Lang, Commons CSV, Commons Imaging und Commons BeanUtils2. Über seine Tätigkeiten informiert er regelmäßig via Twitter (@BenediktRitter). Benedikt ist 29 und lebt in Duisburg.
@@ -337,7 +337,7 @@ abeyle:
 jschauder:
     name: Jens Schauder
     bio: Jens Schauder ist Softwareentwickler aus Leidenschaft. In Zeitschriftenartikeln, seinem Blog, Konferenzvorträgen oder seiner Mitarbeit bei der JUG Ostfalen versucht er die Welt der Softwareentwicklung ein klein wenig besser zu machen. Besonderswichtig ist ihm dabei die Vielseitigkeit der Softwareentwicklung&#58; Vom Fachwissen, über Programmiersprachen, Bibliotheken und Tools bis zu Vorgehensmodellen. Alles gehört dazu und kann verbessert werden. Seine meisten Vorträge drehen sich um die Themen Scala, Clean Code und Testen.Seit 2012 arbeitet Jens Schauder für die T-Systems on site services GmbH als Executive Consultant. Neben der Software Entwicklung gehört der Aufbau und Verbreitung von Wissen zu seinen wesentlichen Aufgaben.In seiner Freizeit arbeitet er an Degraph einer Bibliothek zur Visualisierung und dem Test von Package Abhängigkeiten.
-   twitter: jensschauder
+    twitter: jensschauder
 reckart:
     name: Richard Eckart de Castilho
     bio: Dr. Richard Eckart de Castilho arbeitet als Technical Lead am Ubiquitous Knowledge Processing (UKP) Lab der Technischen Universtität Darmstadt. Er beschäftigt sich dort mit Softwarearchitekturen und Interoperabilität rund um Natural Language Processing und trägt maßgeblich zum DKPro Core Projekt und der Open Source Strategie von DKPro und UKP Lab bei. Darüber hinaus ist er Mitglied im PMC des Apache UIMA Projektes und Apache Member.
