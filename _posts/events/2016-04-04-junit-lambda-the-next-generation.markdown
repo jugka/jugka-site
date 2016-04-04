@@ -5,6 +5,9 @@ date:   2016-04-04 19:15:00 +0200
 tags: events
 speakers: 
  - jschauder
+slides:
+    name: HTML Präsentation
+    url: http://schauder.github.io/junit-lambda-talk/#/
 links:
 - http://junit.org
 location: netpioneer
