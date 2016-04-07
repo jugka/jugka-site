@@ -2,6 +2,7 @@
 layout: event
 title:  "<Titel>"
 date:   2015-12-08 19:15:00 +0100
+registration: https://www.xing.com/events/<event>
 tags: events
 categories: <Cat1> <Cat2> <Cat...>
 speakers: 

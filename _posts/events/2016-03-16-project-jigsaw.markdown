@@ -2,6 +2,7 @@
 layout: event
 title:  "Project Jigsaw"
 date:   2016-03-16 19:15:00 +0100
+registration: https://www.xing.com/events/doppelvortrag-project-jigsaw-entity-component-systems-1660139
 tags: events
 speakers:
  - nparlog
