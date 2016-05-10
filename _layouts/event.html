@@ -7,6 +7,12 @@ layout: default
         <div class="col-md-2"><strong>Datum:</strong></div>
         <div class="col-md-6">{{ page.date | date: "%d.%m.%Y, %R" }}</div>
     </div>
+{% if page.registration and page.date > site.time %}
+    <div class="row">
+        <div class="col-md-2"><strong>Anmeldung:</strong></div>
+        <div class="col-md-6"><a href="{{ page.registration }}">{{ page.registration }}</a></div>
+    </div>
+{% endif %}
 {% if page.slides %}
     <div class="row">
         <div class="col-md-2"><strong>Slides:</strong></div>

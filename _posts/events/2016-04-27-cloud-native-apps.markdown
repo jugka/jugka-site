@@ -2,6 +2,7 @@
 layout: event
 title:  "Cloud Native Apps mit Spring Cloud"
 date:   2016-04-27 19:15:00 +0200
+registration: https://www.xing.com/events/cloud-native-apps-spring-cloud-1660214
 tags: events
 speakers:
  - abeyle
