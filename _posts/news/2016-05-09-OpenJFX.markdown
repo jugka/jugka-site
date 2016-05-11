@@ -5,7 +5,7 @@ date:   2016-05-10 00:59:00 +0100
 tags: news
 ---
 
-Von der neu ins Leben gerufenen [JUG-Pforzheim](https://gitlab.com/groups/jugpf) und der [JUG-Stuttgart](http://www.jugs.org) wurde das TeamFX ins Leben gerufen und seit ein paar Tagen habt ihr die Möglichkeit aktiv an OpenJFX mitzuarbeiten:
+Von der neu ins Leben gerufenen [JUG-Pforzheim](https://gitlab.com/groups/jugpf) wurde das TeamFX ins Leben gerufen und seit ein paar Tagen habt ihr die Möglichkeit aktiv an OpenJFX mitzuarbeiten:
 
 <i>Seit dem 7. Mai steht für alle, die an OpenJFX aktiv mitarbeiten wollen, eine öffentliche und unlimitierte Plattform bereit: [GitHub](https://github.com/teamfx). Diese enthält u. a. laufend synchronisierte Mirror-Repos des Oracle-OpenJFX-Repositories. Hier kann nun jedermann -ohne OCA- Bugs und Features in Issue Tracker eintragen, OpenJFX forken, Pull Requests stellen, Code diskutieren, die Entwicklungsaktivität verfolgen usw., um gemeinsam mit anderen an OpenJFX zu coden -- alles, was wir uns eigentlich von einem aktiv gemanagten Projekt wie OpenJFX wünschen würden. TeamFX agiert dabei als organisatorisches Bindeglied zum OpenJFX-Team bei Oracle und bringt ausgewählte Patches in das Originalprojekt ein. Die Aktion ist mit OpenJFX-Projektleiter Kevin Rushforth abgesprochen und wir (und Kevin) würden uns freuen, wenn möglichst viele Contributions eingehen.</i>
 

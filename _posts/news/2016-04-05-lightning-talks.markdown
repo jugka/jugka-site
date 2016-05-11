@@ -5,7 +5,7 @@ date:   2016-04-05 00:59:00 +0100
 tags: news
 ---
 
-Am 222. Juni wollen wir mal wieder einen Abend mit Ligtning Talks veranstalten.
+Am 22. Juni wollen wir mal wieder einen Abend mit Ligtning Talks veranstalten.
 
 Für diesen Abend suchen wir daher noch Vorträge die maximal 15 Minuten dauern. Der Vortrag sollte etwas mit der JVM, Softwareentwicklung, Testing oder Softskills zu tun haben. Bei großer Resonanz wird es im Herbst noch einen zweiten Termin geben.
 
