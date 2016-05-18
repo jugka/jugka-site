@@ -72,6 +72,12 @@ disy:
   name: Disy Informationssysteme GmbH
   address: Ludwig-Erhard-Allee 6
   postcode: 76131 Karlsruhe
+1und1:
+  latitude: 48.9984112
+  longitude: 8.3762323
+  name: 1und1
+  address: Ernst-Frey-Str. 10
+  postcode: 76135 Karlsruhe
 citrix:
   latitude: 49.00574
   longitude: 8.43175
