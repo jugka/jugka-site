@@ -97,7 +97,7 @@ ibronsveld:
     bio: Ivo Bronsveld works as a Pre-sales & Partner Enablement @ Hippo CMS
 tgetrost:
     name: Tobias Getrost
-    bio: Tobias Getrost arbeitet seit 2010 für die CGI (Germany) GmbH & Co. KG als Berater im Bereich Business Process Management und Enterprise Java. Als passioniertem Clean Code Developer liegen ihm Themen rund um Software Qualität, Continous Delivery und effiziente Entwicklungsmethoden am Herzen. Im Rahmen seiner Tätigkeit leitet er Workshops zum Clean Code Development und zur Software Qualität.
+    bio: Tobias Getrost arbeitet seit 2014 für die 1&1 Telecommunication AG als Lead Developer. Im Rahmen laufender Entwicklungsprojekte etabliert er dort zusammen mit seinen Teamkollegen Continuous Delivery. Zuvor war er als Berater in den Themen Business Process Management, Enterprise Java und Clean Code Development tätig. Als passioniertem Clean Code Developer liegen ihm Themen rund um Softwarequalität, Continuous Delivery und effiziente Entwicklungsmethoden am Herzen. Im Rahmen seiner Tätigkeit leitet er Workshops zu Clean Code Development und Softwarequalität und hält Vorträge zu diesen Themen.
 nkoebler:
     name: Niko Köbler
     bio: Niko Köbler Co-Founder der Qualitects Group und freiberuflicher Software-Architekt und Developer für (Java) Enterprise Lösungen, Integrationen und Webdevelopment. Er berät und unterstützt Kunden verschiedenster Branchen, hält Workshops und Trainings und führt Architektur-Reviews durch. Niko ist Co-Lead der Java User Group Darmstadt (JUG DA), schreibt Artikel für Fachmagazine und ist regelmäßig als Sprecher auf Fachkonferenzen anzutreffen.
@@ -206,7 +206,7 @@ dparra:
     bio: David Soria Parra is a german software engineer and contributor to various open source projects. He is know to have strong opinions and might use explicit language to share his view.
     homepage: http://blog.experimentalworks.net/
 rneumann:
-    name: Rainer Neumann
+    name: Prof. Dr. Rainer Neumann
     bio: Prof. Dr. Rainer Neumann ist Professor an der HS Karlsruhe und hält unter anderem Vorlesungen zum Thema Modellierung.
 jjaeger:
     name: Jens Jäger
@@ -220,7 +220,8 @@ dhaase:
     name: Dirk Haase
     bio: EnBW AG
 ajanus:
-    name: André Janus
+    name: Dr. André Janus
+    bio: Dr.-Ing. André Janus ist freiberuflicher Software-Engineer/Consultant in Karlsruhe. Er bietet Softwareentwicklung und IT-Beratung mit den Schwerpunkten Java EE, Webanwendungen, Agile Softwareentwicklung, Qualitätssicherung und Systemintegration sowie Anforderungsanalyse & Spezifikation.
 bmueller:
     name: Björn Müller
 mwiedeking:
@@ -257,10 +258,10 @@ groth:
 unknown:
     name: Unbekannt
 sschneider:
-    name: Stefan Schneider
+    name: Dr. Stefan Schneider
     bio: Dr. Stefan Schneider ist Chief Technologist ISV-Engineering bei Oracle (damals Sun Microsystems GmbH)
 hkabutz:
-    name: Heinz Kabutz
+    name: Dr. Heinz Kabutz
     bio: Dr. Heinz Max Kabutz ist der Kopf hinter dem Java Specialists’ Newsletter. Er ist Doktor der Philosophie in Informatik und hat wichtige Teile mehrerer umfangreicher Java-Anwendungen programmiert. Von Sun Microsystems, den Erfindern von Java, wurde er für seine innovative Arbeit zum Java Champion ernannt.
     homepage: http://www.javaspecialists.eu/
 dlinsin:
@@ -322,7 +323,7 @@ nparlog:
     homepage: http://blog.codefx.org/about-nicolai-parlog/
     twitter: nipafx
 vdobler:
-    name: Volker Dobler
+    name: Dr. Volker Dobler
     bio: Dr. Volker Dobler hat an der Universität Konstanz Physik studiert und auch promoviert. Anschließend war er bei der Interaxia Digital Storage Technologie in Cham in der Entwicklung von Matrizen für beschreibbare DVDs. Seit 2005 arbeitet er als Consultant und Architekt im Bereich WCMS und E-Commerce bei der Unic AG in Bern.
 ftrossbach:
     name: Florian Troßbach
@@ -339,6 +340,14 @@ jschauder:
     bio: Jens Schauder ist Softwareentwickler aus Leidenschaft. In Zeitschriftenartikeln, seinem Blog, Konferenzvorträgen oder seiner Mitarbeit bei der JUG Ostfalen versucht er die Welt der Softwareentwicklung ein klein wenig besser zu machen. Besonderswichtig ist ihm dabei die Vielseitigkeit der Softwareentwicklung&#58; Vom Fachwissen, über Programmiersprachen, Bibliotheken und Tools bis zu Vorgehensmodellen. Alles gehört dazu und kann verbessert werden. Seine meisten Vorträge drehen sich um die Themen Scala, Clean Code und Testen.Seit 2012 arbeitet Jens Schauder für die T-Systems on site services GmbH als Executive Consultant. Neben der Software Entwicklung gehört der Aufbau und Verbreitung von Wissen zu seinen wesentlichen Aufgaben.In seiner Freizeit arbeitet er an Degraph einer Bibliothek zur Visualisierung und dem Test von Package Abhängigkeiten.
     twitter: jensschauder
 reckart:
-    name: Richard Eckart de Castilho
+    name: Dr. Richard Eckart de Castilho
     bio: Dr. Richard Eckart de Castilho arbeitet als Technical Lead am Ubiquitous Knowledge Processing (UKP) Lab der Technischen Universtität Darmstadt. Er beschäftigt sich dort mit Softwarearchitekturen und Interoperabilität rund um Natural Language Processing und trägt maßgeblich zum DKPro Core Projekt und der Open Source Strategie von DKPro und UKP Lab bei. Darüber hinaus ist er Mitglied im PMC des Apache UIMA Projektes und Apache Member.
     twitter: i_am_rec
+wkeil:
+    name: Werner Keil
+    bio: Werner Keil is an Agile Coach, Java EE and IoT/Embedded/Real Time expert. Helping Global 500 enterprises across industries and leading IT vendors, he has worked for over 25 years as Program Manager, Coach, SW architect and consultant for Finance, Mobile, Media, Tansport and Public sectors. Werner is an Eclipse and Apache Committer and JCP member in JSRs like 333 (JCR), 342 (Java EE 7), 354 (Money), 358/364 (JCP.next), Java ME 8, 362 (Portlet 3), 363 (Units, also Spec Lead), 365 (CDI 2), 375 (Java EE Security) and in the Executive Committee.
+    twitter: wernerkeil
+mpriess:
+    name: Michael Prieß
+    bio: Michael Prieß ist Software-Entwickler bei der diva-e Netpioneer Gmbh in Karlsruhe und einer der Organisatoren der Java User Group Karlsruhe.
+    twitter: mpriess
