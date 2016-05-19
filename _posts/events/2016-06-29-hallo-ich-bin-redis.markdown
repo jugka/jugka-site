@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Hallo, ich bin Redis"
-date:   2016-06-22 19:15:00 +0100
+date:   2016-06-29 19:15:00 +0100
 tags: events
 speakers: 
  - mpaluch
