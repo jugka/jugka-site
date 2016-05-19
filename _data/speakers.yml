@@ -62,7 +62,7 @@ cbarragan:
     twitter: barraganc
 mpaluch:
     name: Mark Paluch
-    bio: Mark Paluch ist Entwickler, Software-Achtitekt und Agile Coach. Er hat in unterschiedlichen Projekten Erfahrungen mit Clean Architecture gesammelt und möchte dieses Wissen in Form eines Vortrages weitergeben.
+    bio: Mark Paluch ist Software Craftsman, Spring Data Engineer bei Pivotal, arbeitet als Mitglied der CDI 2.0 (JSR365) Expert Group an der nächsten Version der Spec und entwickelt den lettuce Redis Treiber. Er entwickelt seit 1999 Java Server-, Frontend- und Webanwendungen. Sein Fokus liegt auf Software-Architektur, Spring und Redis. In seiner freien Zeit beteiligt er sich als Committer an Open Source Projekten.
     homepage: http://www.paluch.biz/
     twitter: mp911de
 bmartin:
