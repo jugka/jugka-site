@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Lightning Talk - Selbständigkeit mit Java"
-date:   2016-06-22 19:15:00 +0100
+date:   2016-06-22 19:15:00 +0200
 tags: events
 speakers: 
  - ajanus
