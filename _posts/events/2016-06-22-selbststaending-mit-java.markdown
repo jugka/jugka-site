@@ -5,6 +5,9 @@ date:   2016-06-22 19:15:00 +0200
 tags: events
 speakers: 
  - ajanus
+slides:
+    name: PDF-Download
+    url: /assets/slides/selbstaendigkeit_mit_java.pdf
 location: 1und1
 ---
 
