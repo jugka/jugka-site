@@ -2,6 +2,7 @@
 layout: event
 title:  "Wait, what!? Our microservices have actual human users?"
 date:   2016-09-21 19:15:00 +0200
+registration: https://www.xing.com/events/wait-what-our-microservices-have-actual-human-users-1705920
 tags: events
 speakers:
  - stilkov
