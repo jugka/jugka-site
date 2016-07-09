@@ -6,4 +6,4 @@ tags: events
 location: marktluecke
 ---
 
-Im Juli machen wir eine Vortragspause und treffen uns an diesem Abend in Karlsruhe in der Marktlücke zu einem kühlen Bier.
+Im Juli machen wir eine Vortragspause und treffen uns an diesem Abend in der Marktlücke zu einem kühlen Bier.
