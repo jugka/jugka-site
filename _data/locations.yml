@@ -83,4 +83,10 @@ citrix:
   longitude: 8.43175
   name: Citrix - Mobility Apps
   address:  Alter Schlachthof 51
-  postcode: 76131 Karlsruhe
+  postcode: 76131 
+marktluecke:
+  latitude: 49.009034
+  longitude: 8.4030612
+  name: Marktlücke
+  address:  Zähringerstraße 96
+  postcode: 76133 Karlsruhe
