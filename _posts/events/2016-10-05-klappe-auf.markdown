@@ -1,6 +1,7 @@
 ---
 layout: event
 title:  "Klappe auf! Was macht die JVM denn da?"
+registration: https://www.xing.com/events/klappe-jvm-1719113
 date:   2016-10-05 19:15:00 +0100
 tags: events
 speakers: 
