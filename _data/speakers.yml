@@ -359,3 +359,10 @@ steveonjava:
     name: Stephen Chin
     bio: Stephen Chin is the Lead Java Community Manager at the Oracle Technology Network, author of Raspberry Pi with Java, co-author of Pro JavaFX Platform, and JavaOne Community Chair. He has keynoted numerous Java conferences around the world including JavaOne, where he is a 5 time Rock Star Award recipient. Stephen is an avid motorcyclist who has done several Pan-European evangelism tours, interviewing hackers in their natural habitat and posting the videos on http://nighthacking.com/. When he is not traveling, he enjoys teaching kids how to do embedded and robot programming together with his 13 year old daughter.
     twitter: steveonjava
+junterstein:
+    name: Johannes Unterstein
+    bio: Johannes ist Distributed Applications Engineer bei Mesosphere in Hamburg. Früher hat er in Projekten für DAX30-Unternehmen gearbeitet und die Welt der Online-Wahlen modernisiert. Heute arbeitet er an DC/OS, Mesos und Marathon, hält lustige Vorträge und verliert gern beim Tischkickern.
+    twitter: unterstein
+jschad:
+    name: Jörg Schad
+    bio: Jörg ist Distributed Systems Engineer bei Mesosphere in Hamburg. In seinem früheren Leben entwickelte er verteilte und In-Memory-Datenbanken bzw. forschte im Hadoop- und Cloud-Umfeld. Heute arbeitet er an DC/OS, Mesos und Marathon, hält lustige Vorträge und verliert gern beim Tischkickern.
