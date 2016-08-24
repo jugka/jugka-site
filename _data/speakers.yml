@@ -354,3 +354,8 @@ mpriess:
 tfrech:
     name: Tobias Frech
     bio: Tobias Frech ist Geschäftsführer der Frech IT GmbH. Die Frech IT berät Ihre Kunden beim Betrieb Ihrer Java-Anwendungen. Dabei reicht das Themenspektrum im Bereich Performance von der Analyse über Optimierung bist hin zum Redesign, im Bereich Security von Code-Reviews bis zum Review oder Design ganzer Systeme und im Bereich Betrieb von der Optimierung der JVM-Einstellungen, über Garbage Collection Analyse bis hin zur Einführung von Automatisierung im Release- und Konfigurationsmanagement.
+    twitter: TobiasFrech
+steveonjava:
+    name: Stephen Chin
+    bio: Stephen Chin is the Lead Java Community Manager at the Oracle Technology Network, author of Raspberry Pi with Java, co-author of Pro JavaFX Platform, and JavaOne Community Chair. He has keynoted numerous Java conferences around the world including JavaOne, where he is a 5 time Rock Star Award recipient. Stephen is an avid motorcyclist who has done several Pan-European evangelism tours, interviewing hackers in their natural habitat and posting the videos on http://nighthacking.com/. When he is not traveling, he enjoys teaching kids how to do embedded and robot programming together with his 13 year old daughter.
+    twitter: steveonjava
