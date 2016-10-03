@@ -2,7 +2,7 @@
 layout: event
 title:  "Galen-tastisch: Layout-Testen leicht gemacht mit dem Galen Framework"
 date:   2016-12-07 19:15:00 +0100
-registration: tba
+registration: https://www.xing.com/events/lasttests-selenium-layout-testen-1734135
 tags: events
 speakers: 
  - jknopf 
