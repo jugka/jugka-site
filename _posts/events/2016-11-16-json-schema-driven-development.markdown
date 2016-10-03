@@ -18,13 +18,3 @@ auf XSD-Schemas zur Serialisierung setzen, haben einige Probleme zu lösen.
 
 Bei Geoinformationssystemen spielen da besonders die JSON Ausprägungen von Geometry-Objekten eine Role. Um diese zu lösen
 ist ein kleines Framework entstanden. Das von mir in Privateprojekten und von Disy verwendet wird.
-
-Im Vortrag werden folgende Punkte angesprochen:
-
-Warum Schema-Driven überhaupt?
-Warum keine XML-Schemas?
-Beispiel Geometrien rekursiv?
-Warum kein json-schema?
-Wie funktioniert es?
-Ausblick
-Wo findet man es?
