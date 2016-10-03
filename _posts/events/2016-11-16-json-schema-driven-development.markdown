@@ -2,7 +2,7 @@
 layout: event
 title:  "JSON Schema-Driven development in Java mit JSSD"
 date:   2016-11-16 19:15:00 +0100
-registration: tba
+registration: https://www.xing.com/events/doppelvortrag-einfuhrung-kotlin-json-schema-driven-1734122
 tags: events
 speakers: 
  - abartels
