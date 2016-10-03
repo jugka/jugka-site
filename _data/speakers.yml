@@ -367,3 +367,6 @@ junterstein:
 jschad:
     name: Jörg Schad
     bio: Jörg ist Distributed Systems Engineer bei Mesosphere in Hamburg. In seinem früheren Leben entwickelte er verteilte und In-Memory-Datenbanken bzw. forschte im Hadoop- und Cloud-Umfeld. Heute arbeitet er an DC/OS, Mesos und Marathon, hält lustige Vorträge und verliert gern beim Tischkickern.
+jknopf:
+    name: Jonas Knopf
+    bio: Jonas Knopf ist Software-Entwickler bei der diva-e Netpioneer GmbH in Karlsruhe.
