@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Einführung in Kotlin"
-date:   2016-16-11 19:15:00 +0100
+date:   2016-11-16 19:15:00 +0100
 registration: tba
 tags: events
 speakers: 
