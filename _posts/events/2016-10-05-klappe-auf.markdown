@@ -6,6 +6,9 @@ date:   2016-10-05 19:15:00 +0200
 tags: events
 speakers: 
  - tfrech
+slides:
+	name: Slideshare
+	url: https://de.slideshare.net/MiddlewareAdmin/klappe-auf-was-macht-die-jvm-denn-da-ger
 location: netpioneer
 ---
 
