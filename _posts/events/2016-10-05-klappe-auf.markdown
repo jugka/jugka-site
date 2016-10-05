@@ -7,8 +7,8 @@ tags: events
 speakers: 
  - tfrech
 slides:
-	name: Slideshare
-	url: https://de.slideshare.net/MiddlewareAdmin/klappe-auf-was-macht-die-jvm-denn-da-ger
+    name: Slideshare
+    url: http://de.slideshare.net/MiddlewareAdmin/klappe-auf-was-macht-die-jvm-denn-da-ger
 location: netpioneer
 ---
 
