@@ -2,7 +2,7 @@
 layout: event
 title:  "The RetroPi Reloaded - CNC Milled Java Arcade Machine on the Raspberry Pi"
 registration: https://www.xing.com/events/retropi-reloaded-cnc-milled-java-arcade-machine-raspi-1720400
-date:   2016-11-03 19:15:00 +0100
+date:   2016-11-14 19:15:00 +0100
 tags: events
 speakers: 
  - steveonjava
