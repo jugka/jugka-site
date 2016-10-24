@@ -11,4 +11,4 @@ Bis zum 30. Januar 2017 sind die Tickets zum günstigen „Early Bird“-Preis e
 
 Es lohnt sich also [iJUG-Mitglied](http://www.ijug.eu/mitgliedschaft/mitglied-werden.html) zu werden.
 
-[Weitere über das Javaland findet man auf der Webseite](https://www.javaland.eu)
+[Weitere Infos findet man auf der Webseite](https://www.javaland.eu)
