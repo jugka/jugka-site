@@ -1,7 +1,7 @@
 ---
 layout: event
-title:  "The RetroPi Reloaded - CNC Milled Java Arcade Machine on the Raspberry Pi"
-registration: https://www.xing.com/events/retropi-reloaded-cnc-milled-java-arcade-machine-raspi-1720400
+title:  "RetroPi Handheld Raspberry Pi Gaming Console"
+registration: https://www.xing.com/events/1720400
 date:   2016-11-14 19:15:00 +0100
 tags: events
 speakers: 
@@ -9,10 +9,13 @@ speakers:
 location: synyx
 ---
 
-The RetroPi is a custom-designed handheld console using a Raspberry Pi with a pure Java software stack for emulation and graphics.  In this rework of the original RetroPi console, we go broader and bigger!
+In this session I will walk you through how to build your own retro handheld console that is powered by Java, runs on a Raspberry Pi, and is printed on a 3D printer.  Some of the topics that we will cover along the journey include:
 
-While 8-bit consoles like the NES are a lot of fun, the C64 (Commodore 64) was a real hacker’s machine.  And 3D printing is suitable for building a small handheld console, but what if you want to automate prototyping of a full-size arcade console?
+ *  Hacking Java on the Raspberry Pi
+ *  Rigging input devices with Pi4J
+ *  Insane performance tuning on the JVM
+ *  Why your boss (or SO) needs to buy you a 3D printer!
 
-In this talk we update the RetroPi to support C64 applications and emulate the C64 Joystick using the Pi4J library.  Also, we convert the design to use a wood enclosure milled with a CNC Router. CNC Routers are the analog of 3D printers with the ability to remove material with full automation and repeatability. They are also available in many different formats allowing detailed engraving or large format cutting to build things in life size.
+And of course your retro gaming mettle will be put to the test, so make sure to dust off your old 8 and 16 bit consoles to prepare.
 
-This presentation is the most fun you can have while still legitimately “working” and will hopefully inspire you to start hacking the real world with Raspberry Pi and Java.
+This presentation is about the most fun you can have while still legitimately calling this conference “work”. In fact, I will hopefully inspire you to do your own creative “work” leveraging Java and Raspberry Pi to hack the real world.
