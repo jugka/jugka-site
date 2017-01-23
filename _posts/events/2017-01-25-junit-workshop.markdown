@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  "JUnit 5 Workshop - Anmeldung erforderlich!"
+title:  "JUnit 5 Workshop - Anmeldung erforderlich! +++ Wir sind ausgebucht!"
 date:   2017-01-25 18:00:00 +0100
 tags: events
 speakers: 
@@ -9,7 +9,7 @@ speakers:
 location: citrix
 ---
 
-<h3>Anmeldung erforderlich!</h3>
+<h3>Anmeldung erforderlich! +++ Wir sind ausgebucht!</h3>
 Wir haben nur eine limitierte Anzahl Plätze und würde euch deshalb bitten euch hier <a target="_blank" href="https://www.eventbrite.de/e/java-user-group-junit5-workshop-tickets-30162342378">anzumelden</a>.
 
 <h3>Ablauf</h3>
@@ -17,6 +17,13 @@ Wir haben nur eine limitierte Anzahl Plätze und würde euch deshalb bitten euch
     <li>Dies ist ein hands-on workshop, also bringt euren Laptop mit</li>
     <li>Der Workshop dauert ca 3 - 3 1/2 Stunden mit Pausen</li>
     <li>Getränke und Verpflegung werden gestellt</li>
+</ul>
+
+<h3>Vorbereitung</h3>
+<ul>
+    <li>Lauffähiges JDK8 und IDE</li>
+    <li><a target="_blank" href="https://github.com/junit-team/junit5-workshop">Workshop Sourcen</a></li>
+    <li>Optional (wird am Anfang mit allen zusammen gemacht): <a target="_blank" href="https://github.com/junit-team/junit5-workshop#setup">Setup durchführen</a></li>
 </ul>
 
 <h3>Was wird gemacht?</h3>
