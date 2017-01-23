@@ -5,6 +5,11 @@ date:   2017-01-11 19:15:00 +0100
 tags: events
 speakers: 
  - joschi 
+slides:
+    name: HTML
+    url: https://joschi.github.io/jug-talk-dropwizard/jugka-2017-01-11/
+links:
+ - https://github.com/joschi/jug-talk-dropwizard/tree/jugka-2017-01-11
 location: synyx
 ---
 
