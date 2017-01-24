@@ -12,8 +12,6 @@ permalink: content/:title/
 markdown: redcarpet
 timezone: Europe/Berlin
 
-url: jug-ka.de
-
 navigation:
  - title: Home
    url: /index.html
