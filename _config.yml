@@ -1,5 +1,5 @@
 name: JUG Karlsruhe
-description: JUg Karlsruhe
+description: JUG Karlsruhe
 
 gems:
  - jekyll-paginate
@@ -11,8 +11,6 @@ permalink: content/:title/
 
 markdown: redcarpet
 timezone: Europe/Berlin
-
-url: jug-ka.surge.sh
 
 navigation:
  - title: Home
