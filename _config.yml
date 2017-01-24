@@ -12,7 +12,7 @@ permalink: content/:title/
 markdown: redcarpet
 timezone: Europe/Berlin
 
-url: jug-ka.surge.sh
+url: jug-ka.de
 
 navigation:
  - title: Home
