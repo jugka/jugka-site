@@ -2,6 +2,7 @@
 layout: event
 title:  "Lean Microservices with OSGi"
 date:   2017-02-15 19:15:00 +0100
+registration: https://www.xing.com/events/lean-microservices-with-osgi-1779833
 tags: events
 speakers: 
  - cschneider
