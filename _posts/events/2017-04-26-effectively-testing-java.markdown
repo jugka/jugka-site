@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Effectively Testing Java code"
-date:   2017-04-26 19:15:00 +0100
+date:   2017-04-26 19:15:00 +0200
 tags: events
 speakers:
  - aalmiray
