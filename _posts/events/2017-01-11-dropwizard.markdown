@@ -10,6 +10,7 @@ slides:
     url: https://joschi.github.io/jug-talk-dropwizard/jugka-2017-01-11/
 links:
  - https://github.com/joschi/jug-talk-dropwizard/tree/jugka-2017-01-11
+youtube: https://www.youtube.com/watch?v=aTeXiBh69f4
 location: synyx
 ---
 
