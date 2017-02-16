@@ -7,7 +7,7 @@ tags: events
 speakers: 
  - cschneider
 location: netpioneer
- slides:
+slides:
     name: Slideshare
     url: https://www.slideshare.net/ChristianSchneider3/lean-microservices-on-osgi
 links:
