@@ -10,6 +10,7 @@ location: netpioneer
 slides:
     name: Slideshare
     url: https://www.slideshare.net/ChristianSchneider3/lean-microservices-on-osgi
+youtube: https://youtu.be/zIQc5-fwH10
 links:
  - https://github.com/cschneider/osgi-chat
 ---
