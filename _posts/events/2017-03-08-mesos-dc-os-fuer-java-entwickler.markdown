@@ -2,6 +2,7 @@
 layout: event
 title:  "Container orchestration on Mesos - DC/OS für Java-Entwickler"
 date:   2017-03-08 19:15:00 +0100
+registration: https://www.xing.com/events/container-orchestration-on-mesos-dc-os-java-entwickler-1789283
 tags: events
 speakers: 
  - junterstein
