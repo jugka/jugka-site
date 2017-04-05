@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Combinator als funktionales Entwurfsmuster in Java 8"
-date:   2017-05-31 19:15:00 +0100
+date:   2017-05-31 19:15:00 +0200
 tags: events
 speakers: 
  - gtrefs
