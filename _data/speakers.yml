@@ -390,3 +390,7 @@ aalmiray:
     name: Andres Almiray
     bio: Andres is a Java/Groovy developer and a Java Champion with more than 17 years of experience in software design and development. He has been involved in web and desktop application development since the early days of Java. Andres is a true believer in open source and has participated on popular projects like Groovy, Griffon, and DbUnit, as well as starting his own projects (Json-lib, EZMorph, GraphicsBuilder, JideBuilder). Founding member of the Griffon framework and Hackergarten community event.
     twitter: aalmiray
+gtrefs:
+    name: Gregor Trefs
+    bio: Mein erstes Programm war ein in BASIC geschriebenes Text Adventure. Inzwischen bin ich Mitorganisator der Java User Group Mannheim (majug) und schreibe regelmäßig auf sitepoint.com/java. Mein persönliches Code-Highlight in 2016 war mein Beitrag zu Javaslang.
+    twitter: gtrefs
