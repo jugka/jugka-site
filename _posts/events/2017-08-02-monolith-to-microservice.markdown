@@ -2,7 +2,11 @@
 layout: event
 title:  "Vom Monolithen zu Microservices, ein Erfahrungsbericht"
 date:   2017-08-02 19:15:00 +0200
+registration: https://www.xing.com/events/monolithen-microservices-1826030
 tags: events
+speakers:
+ - aweigel
+ - jfels
 location: synyx
 ---
 
