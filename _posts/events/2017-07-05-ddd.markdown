@@ -2,6 +2,7 @@
 layout: event
 title:  "It’s all about the domain, honey - Erfahrungen aus 10 Jahren Domain Driven Design"
 date:   2017-07-05 19:15:00 +0200
+registration: https://www.xing.com/events/it-all-about-the-domain-honey-erfahrungen-ddd-1828458
 tags: events
 speakers: 
  - carolaili
