@@ -12,10 +12,7 @@ location: synyx
 
 Die Migration von Monolithischen Anwendungen hin zu einer Microservice Architektur stellt oftmals eine große Herausforderung dar. In diesem
 Vortrag möchten wir die Erfahrungen eines agil arbeitenden Software
-Teams teilen, welches diese Transformation begleitet hat.Brauche ich
-unbedingt einen dicken Application Server? Gibt es Alternativen zu
-Spring Boot? Und wieviel Overhead brauche für einen produktionsreifen
-Web Services in Java?
+Teams teilen, welches diese Transformation begleitet hat.
 
 Dabei gehen wir darauf ein, wie wir auf die gestiegene Komplexität einer
 verteilten Anwendung reagiert haben. Hierbei spielen sowohl
