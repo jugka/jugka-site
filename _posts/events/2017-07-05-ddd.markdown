@@ -7,6 +7,9 @@ tags: events
 speakers: 
  - carolaili
 location: etecture
+slides:
+    name: HTML
+    url: https://oc.wps.de/index.php/s/2e9LbYszXFE0x9X#pdfviewer
 ---
 
 Beim Bauen von Software werden tolle Technologien, Programmiersprachen und Tools eingesetzt. Das ist gut und richtig. Aber leider wird dabei oft aus den Augen verloren, dass das Entscheidende nicht die Technik, sondern die *Fachlichkeit* ist. Wenn wir in der Software nicht das fachliche Modell abbilden, dann wird sie unseren Anwendern nicht bei Ihrer Arbeit helfen. Davor schützt uns keine Technologie der Welt. Um das zu verhindern, zeigen wir in diesem Vortrag, wie man die Architektur so baut, dass sie die Fachlichkeit darstellt und wie Domain Driven Design (DDD) und Microservices uns dabei helfen können.
