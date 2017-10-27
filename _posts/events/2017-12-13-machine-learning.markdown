@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Machine Learning für Entwickler – Eine Einführung"
-date:   2017-12-13 19:15:00 +0200
+date:   2017-12-13 19:15:00 +0100
 tags: events
 speakers:
  - groth
