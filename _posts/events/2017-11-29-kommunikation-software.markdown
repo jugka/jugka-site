@@ -2,6 +2,7 @@
 layout: event
 title:  "Kommunikation für Softwareentwickler und alle anderen"
 date:   2017-11-29 19:15:00 +0100
+registration: https://www.meetup.com/Java-User-Group-Karlsruhe/events/244567512
 tags: events
 speakers:
  - jschauder

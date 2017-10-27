@@ -2,6 +2,7 @@
 layout: event
 title:  "Machine Learning für Entwickler – Eine Einführung"
 date:   2017-12-13 19:15:00 +0100
+registration: https://www.meetup.com/de-DE/Java-User-Group-Karlsruhe/events/244488775/
 tags: events
 speakers:
  - groth
