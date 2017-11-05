@@ -8,6 +8,7 @@ speakers:
  - aweigel
  - jfels
 location: synyx
+youtube: https://youtu.be/cMNDtYm5Xtw
 ---
 
 Die Migration von Monolithischen Anwendungen hin zu einer Microservice Architektur stellt oftmals eine große Herausforderung dar. In diesem
