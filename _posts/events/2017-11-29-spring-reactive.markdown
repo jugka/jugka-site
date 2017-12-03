@@ -6,6 +6,9 @@ registration: https://www.meetup.com/Java-User-Group-Karlsruhe/events/244567512
 tags: events
 speakers:
  - jschauder
+slides: 
+    name: Online auf schauderhaft.de
+    url: http://blog.schauderhaft.de/spring-data-reactive-talk/talk.html#/
 location: synyx
 ---
 
