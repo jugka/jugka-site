@@ -84,7 +84,7 @@ mkiss:
     bio: Markus Kiss, M. Sc., hat in Karlsruhe und Mannheim Informatik studiert und arbeitet als Senior Softwareentwickler bei der Netpioneer GmbH in Karlsruhe. Er interessiert sich seit mehreren Jahren für Clean Code und saubere Softwarearchitekturen. Code Smells und Antipatterns bringen ihn zwar immer wieder zum Schmunzeln, doch er findet es spannend, wie man mit einfachen Techniken und Praktiken genau dem entgegenwirken kann.
 ogierke:
     name: Oliver Gierke
-    bio: Oliver Gierke ist Leiter des Spring Data Projekts bei Pivotal, früher besser bekannt als SpringSource. Seit über 8 Jahren widmet er sich dem Entwicklen von Java Enterprise Applikationen, Open Source Projekten und ist Mitglied der JPA Expert Group. Seine Arbeitsschwerpunkte liegen im Bereich Softwarearchitektur, Spring und Persistenztechnologien. Er ist regelmäßiger Sprecher auf deutschen und internationalen Konferenzen sowie Autor von Fachartikeln und des ersten Spring Data Buches.
+    bio: Oliver Gierke ist Leiter des Spring Data Projekts bei Pivotal. Seit über 11 Jahren widmet er sich dem Entwickeln von Java Enterprise Applikationen, Open Source Projekten und ist Mitglied der JPA Expert Group. Seine Arbeitsschwerpunkte liegen im Bereich Softwarearchitektur, Domain-Driven Design, REST, Spring und Persistenztechnologien. Er ist regelmäßiger Sprecher auf deutschen und internationalen Konferenzen sowie Autor von Fachartikeln und des ersten Spring Data Buches.
     homepage: http://olivergierke.de/
     twitter: olivergierke
 aschwartz:
