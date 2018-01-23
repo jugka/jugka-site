@@ -96,3 +96,9 @@ etecture:
   name: ETECTURE GmbH
   address:  Bachstraße 43
   postcode: 76185 Karlsruhe
+chrono24:
+  latitude: 49.012614
+  longitude: 8.427035
+  name: Chrono24 GmbH
+  address:  Haid-und-Neu-Straße 18
+  postcode: 76131 Karlsruhe
