@@ -416,3 +416,10 @@ yannc:
 ahager:
     name: Andreas Hager
     bio: Andreas ist leidenschaftlicher Softwareentwickler, seitdem er mit 13 Jahren seinen ersten Rechner erhalten hat. Er hat schon in den verschiedensten Sprachen entwickelt und ist immer wieder zu Java zurückgekommen. Als Head of Backend Development bei Chrono24 kann er seine Vorliebe für Java, Clean Code und TDD täglich ausleben. In seiner Freizeit entwickelt er Computerspiele und Open Source Frameworks.
+mwittum:
+    name: Matthias Wittum
+    bio: Matthias Wittum arbeitet seit vielen Jahren in der Softwareentwicklung, hat unterschiedliche Fachartikel verfasst, ist gelegentlich Speaker auf Konferenzen und kümmert sich aktiv um Wissensvermittlung und -vernetzung bei der 1&1. Aktuell leitet er das 1&1 Source Center, ein Orientierungs- und Weiterentwicklungsprogramm für Software-Entwickler und engagiert sich nebenbei in der non-profit-Initiative Design-Types.
+crehns:
+    name: Christian Rehns
+    bio: Christian Rehns Interessenschwerpunkte liegen in der Software-Architektur, als auch in Softwareentwicklungsprinzipien, Patterns, Wartbarkeit, REST und der agilen Softwareentwicklung. Zu diesen Themen hält er gelegentlich Fachvorträge und Schulungen, schreibt darüber in seinem Blog und betreibt ein Wiki über Design-Prinzipien.
+
