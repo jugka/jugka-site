@@ -6,7 +6,7 @@ registration: https://www.meetup.com/de-DE/Java-User-Group-Karlsruhe/events/2478
 tags: events
 speakers:
  - mwittum
- - crehns
+ - crehn
 location: 1und1
 ---
 
