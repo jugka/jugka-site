@@ -7,6 +7,7 @@ tags: events
 speakers:
  - ogierke
 location: synyx
+youtube: http://youtu.be/RhYtgKqYP-M
 ---
 
 Beim Bauen monolithischer Systeme nutzen Entwicklerteams eine Reihe typischer Muster um die Interaktion verschiedener Systemteile zu implementieren. Behält man diese Interaktionsmuster bei, während man ein System in verschiedene aufteilt, ergeben sich oft große Komplexität und architektonische Nachteile, die oft die ursprüngliche Idee, die hinter der Aufteilung stand, konterkarieren.
