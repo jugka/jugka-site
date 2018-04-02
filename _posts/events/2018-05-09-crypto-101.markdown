@@ -1,0 +1,25 @@
+---
+layout: event
+title:  "Crypto" 101
+date:   2018-04-18 19:15:00 +0200
+tags: events
+speakers:
+ - omilke
+location: synyx
+---
+
+Speziell im DevOps-Umfeld kommt man als Entwickler an Kryptographie
+nicht vorbei. Viele vorgefertigte Abläufe und Konfigurationen benötigen
+kaum detailliertes Wissen. Das wiederum kann Fluch und Segen zugleich
+sein. Ab und an ist dieses Detailwissen dennoch ganz spannend und kann
+dazu beitragen, größere Zusammenhänge zu verstehen. Worin unterscheidet
+sich eigentlich ein Zertifikat von einem Public Key? Was ist eine Cipher
+Suite meines Webservers? Was ist ein MAC?
+
+In diesem Vortrag will ich diese und ähnliche wesentliche
+Begrifflichkeiten näher beleuchten. Hierbei geht es mir nicht darum,
+ganz konkrete Security-Themen in immenser Detailtiefe zu behandeln. Mein
+Fokus liegt auf der Vermittlung einer soliden Grundlage.
+
+Wenn du dir auch schon immer mal vorgenommen hast, dich genauer mit
+diesem Thema zu befassen, dann bist du in diesem Vortrag genau richtig.
