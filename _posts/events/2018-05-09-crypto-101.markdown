@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  "Crypto" 101
+title:  "Crypto 101"
 date:   2018-05-09 19:15:00 +0200
 tags: events
 speakers:
