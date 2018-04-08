@@ -6,6 +6,9 @@ registration: https://www.meetup.com/Java-User-Group-Karlsruhe/events/247093552
 tags: events
 speakers:
  - ahager
+slides:
+     name: Github
+     url: https://github.com/Chrono24/jug-karlsruhe-2018
 location: chrono24
 ---
 
