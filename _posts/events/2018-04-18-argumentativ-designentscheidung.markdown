@@ -7,6 +7,9 @@ tags: events
 speakers:
  - mwittum
  - crehn
+slides:
+     name: PDF
+     url: /assets/slides/Design_Types_argumentativ_zur_besten_Entscheidung_JUGKA_20180418_publish.pdf
 location: 1und1
 ---
 
