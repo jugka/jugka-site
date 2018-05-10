@@ -7,6 +7,9 @@ registration: https://www.meetup.com/de-DE/Java-User-Group-Karlsruhe/events/2499
 speakers:
  - omilke
 location: synyx
+slides:
+    name: Slideshare
+    url: https://speakerdeck.com/omilke/crypto-101
 ---
 
 Speziell im DevOps-Umfeld kommt man als Entwickler an Kryptographie
