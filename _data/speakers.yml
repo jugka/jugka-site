@@ -425,4 +425,7 @@ crehn:
 omilke:
     name: Oliver Milke
     bio: Oliver arbeitet als Software Craftsman bei cloudogu und entwickelt dort am Cloudogu EcoSystem. Seit mehr als 10 Jahren ist Softwareentwicklung sein täglich‘ Brot und mehr als nur ein Beruf. Mit Security und Kryptographie ist er intensiv im Bereich Mobile Online Dienste bei Volkswagen in Berührung gekommen. Neben der Arbeit bloggt er über verschiedene Themen und genießt es, in seinen eigenen Projekten zu coden. Seine Freizeit abseits der Tastatur verbringt er am liebsten im Fitness Studio mit Gewichtheben oder an der frischen Luft mit Freeletics sowie mit Gesellschaftsspielen im Kreise seiner Freunde.
-
+jmader:
+    name: Jochen Mader
+    bio: Jochen Mader ist Lead IT Consultant bei der codecentric AG wo er in den Bereichen Big Data und Agile Software Factory tätig ist. Derzeit beschäftigt er sich hauptsächlich mit Reactive Programming und Stream Processing. Neben seiner Haupttätigkeit ist er regelmäßiger Autor von Fachartikeln und auf verschiedenen Konferenzen als Speaker anzutreffen.
+    twitter: codepitbull
