@@ -21,3 +21,7 @@ navigation:
    url: /speakers
  - title: Kontakt
    url: /contact
+ - title: Impressum
+   url: /imprint
+ - title: Datenschutz
+   url: /privacy
