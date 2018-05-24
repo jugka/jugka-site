@@ -10,6 +10,7 @@ location: synyx
 slides:
     name: Slideshare
     url: https://speakerdeck.com/omilke/crypto-101
+youtube: http://youtu.be/BtNqVQuk8B4
 ---
 
 Speziell im DevOps-Umfeld kommt man als Entwickler an Kryptographie
