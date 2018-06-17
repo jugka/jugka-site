@@ -25,7 +25,7 @@ cschneider:
     name: Christian Schneider
     bio: Christian Schneider ist Open Source Softwarearchitekt bei Talend. Er arbeitet Vollzeit an den Apache-Projekten, welche die Basis des Talend ESB bilden (Camel, CXF, Karaf). In seinen mehr als 15 Jahren Entwicklungserfahrung war er unter anderem für die SOA-Technologie des Stromhandels eines der größten deutschen Entergiekonzerne verantwortlich.
     homepage: http://www.liquid-reality.de/
-joschi: 
+joschi:
     name: Jochen Schalanda
     bio: Jochen Schalanda liebt es Speaker Biographies zu schreiben, weil Jochen Schalanda in diesen über Jochen Schalanda in der dritten Person schreiben kann. Wenn Jochen Schalanda keine Speaker Biographies über Jochen Schalanda schreibt, arbeitet Jochen Schalanda an der Open-Source Log-Management Lösung Graylog und füttert dort den Party Gorilla. In seiner Freizeit arbeitet Jochen Schalanda mit einer Reihe weiterer Personen am Dropwizard Framework.
     twitter: joschi83
@@ -42,20 +42,20 @@ sruppert:
 dschadow:
     name: Dominik Schadow
     bio: Dominik Schadow hat über 10 Jahre Erfahrung in der Java-Entwicklung und arbeitet als Senior Consultant beim IT-Beratungsunternehmen bridgingIT. Er ist spezialisiert auf die Architektur und Entwicklung von Java Enterprise Applikationen, Enterprise Application Integration und die sichere Softwareentwicklung mit Java. Daneben ist er regelmäßiger Speaker auf verschiedenen Konferenzen rund um die Themen Java und sichere Softwareentwicklung, Buchautor und Autor zahlreicher Fachartikel. In seiner Freizeit leitet er das Open-Source-Projekt JCrypTool, mit dem Anwender für die Kryptografie begeistert werden und ihre eigenen Krypto-Plug-ins entwickeln können.
-skoelsch: 
+skoelsch:
     name: Simon Kölsch
     bio: Simon Kölsch arbeitet als Consultant bei der innoQ mit dem Schwerpunkt Web-Architektur und Security. Begeistern kann er sich für Lösungen die über den klassischen "Enterprise-Monolithen" hinaus gehen. In seiner Freizeit druckt er Dinge aus Plastik.
-sschreier: 
+sschreier:
     name: Silvia Schreier
     bio: Silvia Schreier arbeitet als Consultant bei der innoQ Deutschland GmbH im Bereich REST-konforme Webanwendungen und NoSQL-Datenbanken. Sie beschäftigt sich seit 10 Jahren mit funktionalen Programmiersprachen und setzt diese immer häufiger in (polyglotten) Projekten ein.
-pschirmacher: 
+pschirmacher:
     name: Philipp Schirmacher
     bio: Philipp Schirmacher arbeitet als Senior Consultant bei innoQ. Sein Schwerpunkt liegt auf der Entwicklung von Java-Applikationen in agilen Teams. Darüber hinaus interessiert er sich insbesondere für moderne Programmiersprachen wie Clojure und Scala.
-nrauch: 
+nrauch:
     name: Nicole Rauch
     bio: Nicole Rauch ist freiberufliche Softwareentwicklerin und Softwareentwicklungscoach mit umfangreichem Hintergrund in Compilerbau und formalen Verifikationsmethoden. In den letzten Jahren konzentrierte sie sich auf die Sanierung von Legacy Code Applikationen. Unabhängig davon ist die funktionale Programmierung ihre heimliche Liebe. Neben ihrer Entwicklertätigkeit wirkte sie an der Ausrichtung mehrerer selbstorganisierter Konferenzen und an der Initiierung der Softwerkskammer, einer deutschlandweiten User Community zum Thema Software Craftsmanship, sowie ihrer Karlsruher Regionalgruppe mit. In ihrer Freizeit ist sie an der Entwicklung der Softwerkskammer-Webplattform, einem node.js Projekt, beteiligt.
     twitter: NicoleRauch
-hschmidt: 
+hschmidt:
     name: Hubert Schmidt
     bio: Hubert Schmid ist Diplom-Informatiker mit langjähriger Berufserfahrung in der Realisierung hoch-skalierender Internet-Infrastrukturen. Als Softwareentwickler, Softwarearchitekt und Entwicklungsleiter konzipierte, realisierte und verantwortete er Internetdienste mit minütlich mehreren Millionen Nutzern. Seit 2015 berät und unterstützt er freiberuflich Unternehmen in diesem Umfeld.
     homepage: http://www.nosid.org/
@@ -181,7 +181,7 @@ swagner:
     bio: Sebastian Wagner arbeitet freiberuflich als Java und Flex/OpenLaszlo Entwickler. Er hat das Projekt OpenMeetings 2007 gegründet und ist einer der Hauptentwickler des Projektes Apache OpenMeetings, das sich gerade bei der Apache Software Foundation im Incubator befindet. Er hält regelmäßig Vorträge bei der MoodleMoot zum Thema OpenMeetings.
     homepage: http://www.wagner-sebastian.com/
 cmay:
-    name: Christof May 
+    name: Christof May
     bio: Christof May ist freiberuflicher Software-Entwickler, Architekt und Forscher aus Leidenschaft mit den Schwerpunkt Java Enterprise, Web und Cloud Computing.
 dtopic:
     name: Dalibor Topic
@@ -429,3 +429,7 @@ jmader:
     name: Jochen Mader
     bio: Jochen Mader ist Lead IT Consultant bei der codecentric AG wo er in den Bereichen Big Data und Agile Software Factory tätig ist. Derzeit beschäftigt er sich hauptsächlich mit Reactive Programming und Stream Processing. Neben seiner Haupttätigkeit ist er regelmäßiger Autor von Fachartikeln und auf verschiedenen Konferenzen als Speaker anzutreffen.
     twitter: codepitbull
+ckuehn:
+    name: Christian Kühn
+    bio: Christian Kühn ist Senior Systementwickler bei synyx und ist in den Bereichen Softwareentwicklung und Systemadministration tätig. Derzeit beschäftigt er sich in einem Projekt bei Filiadata (DM Drogeriemarkt) im eCommerce-Bereich mit Microservices und DevOps-Themen. Nebenher ist er Mitorganisator beim DevOps Meetup Karlsruhe.
+    twitter: CYxChris
