@@ -7,6 +7,7 @@ registration: https://www.meetup.com/Java-User-Group-Karlsruhe/events/251039199/
 speakers:
  - ewolff
 location: synyx
+youtube: https://www.youtube.com/watch?v=ih6RueXF3Es
 ---
 
 Microservices zielen auf eine weitgehende Entkopplung. Events
