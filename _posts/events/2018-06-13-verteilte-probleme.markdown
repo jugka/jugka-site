@@ -7,6 +7,7 @@ registration: https://www.meetup.com/de-DE/Java-User-Group-Karlsruhe/events/2506
 speakers:
  - jmader
 location: synyx
+youtube: https://www.youtube.com/watch?v=4TRax4yRKVM
 ---
 
 Frameworks und Datenbanken schmücken sich gerne mit Begriffen
