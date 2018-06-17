@@ -19,7 +19,7 @@ Viele Entwickler stellen sich allerdings die Fragen:
 Brauche ich das überhaupt?
 Wie kommt meine App da jetzt eigentlich rein?
 Wie stelle ich sicher, dass die nötigen Abhängigkeiten und Resourcen für
-meine Applikation bereitgestennt werden?
+meine Applikation bereitgestellt werden?
 
 Am Beispiel einer Spring Boot App wollen wir zusammen die schöne neue
 Welt erkunden und hoffentlich viele offene Fragen beantworten.
