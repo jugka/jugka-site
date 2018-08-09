@@ -439,3 +439,7 @@ claube:
 aschubert:
     name: Armin Schubert
     bio: Armin Schubert arbeitet schon viele Jahre als Führungskraft, ScrumMaster und Agile Coach für Teams. Immer wieder konnte er mit Dankbarkeit und Methoden aus der positiven Psychologie Akzente setzen.
+mbecker:
+    name: Marcel Becker
+    bio:
+        Marcel Becker ist Platform Developer bei der 1&1 Mail&Media Development & Technology GmbH und ist seit 2012 Mitarbeiter der 1&1 Gruppe. Seine Hauptaufgaben liegen in der Konzeption und Entwicklung einer Cloud-Native-Platform und des Coachens innerhalb der Organisation. Neben seiner Tätigkeit im Unternehmen beschäftigt er sich seit Jahren mit dem Spring Ökosystem und ist der Maintainer des Open-Source Projekts auf github, das sich mit der Konfiguration und dem Monitoring von Spring Batch Microservices beschäftigt (https://github.com/tuxdevelop/spring-batch-lightmin)
