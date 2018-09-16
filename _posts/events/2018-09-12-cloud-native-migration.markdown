@@ -6,6 +6,9 @@ tags: events
 registration: https://www.meetup.com/de-DE/Java-User-Group-Karlsruhe/events/253651204
 speakers:
  - mbecker
+slides:
+     name: PDF
+     url: /assets/slides/cloud_native_migration_opt.pdf
 location: 1und1
 ---
 
