@@ -3,6 +3,7 @@ layout: event
 title:  "DDD Strategic Design"
 date:   2018-10-24 19:15:00 +0200
 tags: events
+registration: https://www.meetup.com/de-DE/Java-User-Group-Karlsruhe/events/254798989
 speakers:
  - zamora
 location: etecture
