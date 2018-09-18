@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "DDD Strategic Design"
-date:   2018-07-18 19:15:00 +0200
+date:   2018-10-24 19:15:00 +0200
 tags: events
 speakers:
  - zamora
