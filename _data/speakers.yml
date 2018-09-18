@@ -433,7 +433,6 @@ ckuehn:
     name: Christian Kühn
     bio: Christian Kühn ist Senior Systementwickler bei synyx und ist in den Bereichen Softwareentwicklung und Systemadministration tätig. Derzeit beschäftigt er sich in einem Projekt bei Filiadata (DM Drogeriemarkt) im eCommerce-Bereich mit Microservices und DevOps-Themen. Nebenher ist er Mitorganisator beim DevOps Meetup Karlsruhe.
     twitter: CYxChris
-<<<<<<< HEAD
 claube:
     name: Cosima Laube
     bio: Cosima Laube entwickelte lange selbst Software und studierte nebenbei Psychologie. Heute ist sie als Agile Coach spezialisiert auf das ganzheitliche, lösungfokussierte „Debuggen“ von Menschen-Systemen.
@@ -442,8 +441,7 @@ aschubert:
     bio: Armin Schubert arbeitet schon viele Jahre als Führungskraft, ScrumMaster und Agile Coach für Teams. Immer wieder konnte er mit Dankbarkeit und Methoden aus der positiven Psychologie Akzente setzen.
 mbecker:
     name: Marcel Becker
-    bio:
-        Marcel Becker ist Platform Developer bei der 1&1 Mail&Media Development & Technology GmbH und ist seit 2012 Mitarbeiter der 1&1 Gruppe. Seine Hauptaufgaben liegen in der Konzeption und Entwicklung einer Cloud-Native-Platform und des Coachens innerhalb der Organisation. Neben seiner Tätigkeit im Unternehmen beschäftigt er sich seit Jahren mit dem Spring Ökosystem und ist der Maintainer des Open-Source Projekts auf github, das sich mit der Konfiguration und dem Monitoring von Spring Batch Microservices beschäftigt (https://github.com/tuxdevelop/spring-batch-lightmin)
+    bio: Marcel Becker ist Platform Developer bei der 1&1 Mail&Media Development & Technology GmbH und ist seit 2012 Mitarbeiter der 1&1 Gruppe. Seine Hauptaufgaben liegen in der Konzeption und Entwicklung einer Cloud-Native-Platform und des Coachens innerhalb der Organisation. Neben seiner Tätigkeit im Unternehmen beschäftigt er sich seit Jahren mit dem Spring Ökosystem und ist der Maintainer des Open-Source Projekts auf github, das sich mit der Konfiguration und dem Monitoring von Spring Batch Microservices beschäftigt (https://github.com/tuxdevelop/spring-batch-lightmin)
 zamora:
     name: Manuel Zamora-Morschhäuser
     bio: Manuel ist Software-Architekt und Teamlead bei der ETECTURE GmbH und seit 2013 im Unternehmen. Er begleitet Kundenprojekte von der ersten Idee bis zum Roll-Out (und darüberhinaus) und entwirft in enger Zusammenarbeit mit den Fachabteilungen des Kunden und den Entwicklungsteams maßgeschneiderte Softwarelösungen.Außerhalb der Softwareentwicklung verfolgt Manuel seine Passion für Reisen und Street-Photography.
