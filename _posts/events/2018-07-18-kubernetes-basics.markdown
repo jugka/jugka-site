@@ -7,6 +7,7 @@ registration: https://www.meetup.com/de-DE/Java-User-Group-Karlsruhe/events/2518
 speakers:
  - ckuehn
 location: synyx
+youtube: https://youtu.be/BgJfnGrCQDE
 ---
 
 Kubernetes ist eines der bekanntesten und am stärksten wachsenden
