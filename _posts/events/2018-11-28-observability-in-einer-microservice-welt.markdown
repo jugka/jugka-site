@@ -3,7 +3,7 @@ layout: event
 title:  "Observability in einer Microservice Welt"
 date:   2018-11-28 19:15:00 +0100
 tags: events
-registration:
+registration: https://www.meetup.com/de-DE/Java-User-Group-Karlsruhe/events/256273909/
 speakers:
  - aweigel
  - jfels
