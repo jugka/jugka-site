@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Observability in einer Microservice Welt"
-date:   2018-11-18 19:15:00 +0100
+date:   2018-11-28 19:15:00 +0100
 tags: events
 registration:
 speakers:
