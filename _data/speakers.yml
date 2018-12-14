@@ -446,3 +446,7 @@ mbecker:
 zamora:
     name: Manuel Zamora-Morschhäuser
     bio: Manuel ist Software-Architekt und Teamlead bei der ETECTURE GmbH und seit 2013 im Unternehmen. Er begleitet Kundenprojekte von der ersten Idee bis zum Roll-Out (und darüberhinaus) und entwirft in enger Zusammenarbeit mit den Fachabteilungen des Kunden und den Entwicklungsteams maßgeschneiderte Softwarelösungen.Außerhalb der Softwareentwicklung verfolgt Manuel seine Passion für Reisen und Street-Photography.
+jlink:
+    name: Johannes Link
+    bio: Johannes Link beschäftigt sich schon seit Ende des letzten Jahrhunderts mit Extreme Programming und anderen agilen Ansätzen. Ein wesentlicher Schwerpunkt dabei war und ist die testgetriebene Entwicklung. Zu diesem Thema hat er bereits mehrere Bücher geschrieben und lernt dennoch immer noch dazu. Johannes war einer der Köpfe hinter der Konzeption und Umsetzung der JUnit-5-Plattform und ist Haupt-Committer bei jqwik.net.
+    twitter: johanneslink
