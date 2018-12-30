@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Property based testing with Java"
-date:   2019-01-23 19:15:00 +0200
+date:   2019-01-23 19:15:00 +0100
 tags: events
 registration: https://www.meetup.com/de-DE/Java-User-Group-Karlsruhe/events/257212103
 speakers:
