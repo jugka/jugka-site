@@ -7,7 +7,8 @@ registration: https://www.meetup.com/de-DE/Java-User-Group-Karlsruhe/events/2562
 speakers:
  - aweigel
  - jfels
-location: synyx 
+location: synyx
+youtube: https://www.youtube.com/watch?v=hd1EvMfxiW0
 ---
 
 Unsere Migration bei dm-drogerie markt zu einer verteilten Systemarchitektur hat viele Herausforderungen nach sich gezogen. Dabei war der gestiegene Bedarf nach Observability ein Kernthema.
