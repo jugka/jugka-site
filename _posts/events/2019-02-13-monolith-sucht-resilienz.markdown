@@ -3,6 +3,7 @@ layout: event
 title:  "Monolith sucht Resilienz (Softwarearchitektur Speed-Dating)"
 date:   2019-02-13 19:15:00 +0100
 tags: events
+registration: https://www.meetup.com/de-DE/Java-User-Group-Karlsruhe/events/258235935/
 speakers:
  - szoerner
 location: synyx
