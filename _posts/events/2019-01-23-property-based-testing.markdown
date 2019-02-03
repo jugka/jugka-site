@@ -6,6 +6,9 @@ tags: events
 registration: https://www.meetup.com/de-DE/Java-User-Group-Karlsruhe/events/257212103
 speakers:
  - jlink
+slides:
+      name: PDF
+      url: https://johanneslink.net/downloads/PropertyTesting-JUGKA.pdf
 location: chrono24
 ---
 
