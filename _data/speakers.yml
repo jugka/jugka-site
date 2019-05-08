@@ -454,3 +454,7 @@ nfraenkel:
     name: Nicolas Fränkel
     bio:  Developer Advocate with 15+ years experience consulting for many different customers, in a wide range of contexts (such as telecoms, banking, insurances, large retail and public sector). Usually working on Java/Java EE and Spring technologies, but with focused interests like Software Quality, Build Processes and Rich Internet Applications. Currently working for Exoscale. Also double as a teacher in universities and higher education schools, a trainer and triples as a book author.
     twitter: nicolas_frankel
+rdmueller:
+    name: Ralf D. Müller
+    bio: Ralf D. Müller ist ambitionierter Grails-Entwickler und versucht stetig, seine Arbeit weiter zu vereinfachen. Zurzeit beschäftigt er sich insbesondere mit der Verbesserung der ganzheitlichen Dokumentation von Projekten vor allem mithilfe des arc42-Templates.
+    twitter: RalfDMueller
