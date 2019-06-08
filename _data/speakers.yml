@@ -458,3 +458,6 @@ rdmueller:
     name: Ralf D. Müller
     bio: Ralf D. Müller ist ambitionierter Grails-Entwickler und versucht stetig, seine Arbeit weiter zu vereinfachen. Zurzeit beschäftigt er sich insbesondere mit der Verbesserung der ganzheitlichen Dokumentation von Projekten vor allem mithilfe des arc42-Templates.
     twitter: RalfDMueller
+tfritz:
+    name: Tobse Fritz
+    bio: Tobse Fritz ist Software-Entwickler bei ITscope aus Karlsruhe. Dort arbeitet er an einer großen B2B Webanwendung in Java u.a. mit dem Vaadin Framework und Spring. Er interessiert sich sehr für Software Craftsmanship und setzt sich für Clean Code ein. Seit den ersten Alpha Versionen hat er die Entwicklung von Kotlin mitverfolgt. Vor allem durch zahlreiche private Projekte hat er sich immer mehr mit Kotlin beschäftigt. Die Begeisterung für Neues und Kotlin im Speziellen teilt er gerne auf Konferenzen und Meetups.

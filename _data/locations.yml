@@ -108,3 +108,9 @@ chrono24:
   name: Chrono24 GmbH
   address:  Haid-und-Neu-Straße 18
   postcode: 76131 Karlsruhe
+itscope:
+    latitude: 49.003832
+    longitude: 8.420375
+    name: ITscope
+    address: Ludwig-Erhard-Allee 20
+    postcode: 76131 Karlsruhe
