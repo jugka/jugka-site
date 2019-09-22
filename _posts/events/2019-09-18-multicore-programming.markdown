@@ -6,6 +6,9 @@ tags: events
 registration: https://www.meetup.com/de-DE/Java-User-Group-Karlsruhe/events/263458121
 speakers:
  - jhettel
+slides:
+    name: PPTX
+    url: /assets/slides/Hettel_BestPracticesMultiCore_JUG_KA_2019.pptx
 location: chrono24
 ---
 
