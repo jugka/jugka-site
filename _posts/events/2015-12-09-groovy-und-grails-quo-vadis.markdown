@@ -7,7 +7,7 @@ slides:
     name: PDF-Download
     url: /assets/slides/GroovyGrailsQuoVadis-FalkSippach.pdf
 speakers: 
- - sippsack
+ - sippsach
 location: netpioneer
 youtube: https://youtu.be/i08e-L1v33M
 ---
