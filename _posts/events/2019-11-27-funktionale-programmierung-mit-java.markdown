@@ -10,6 +10,8 @@ speakers:
 location: diva-e34
 ---
 
+Gemeinsame Veranstaltung mit der Functional Programmers User Group Karlsruhe: https://www.meetup.com/de-DE/The-Karlsruhe-Functional-Programmers-Meetup-Group/
+
 Funktionale Programmierung ist im Moment in aller Mund. Seit Java 8 und
 Lambdas stehen auch Java-Anwendern einige Werkzeuge zur Verfügung um
 funktionale Anwendungen komfortabler umzusetzen. Darum wollen wir uns mit
