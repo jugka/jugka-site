@@ -3,6 +3,7 @@ layout: event
 title:  "Funktionale	Programmierung	mit	Java"
 date:   2019-11-27 18:30:00 +0100
 tags: events
+registration: https://www.meetup.com/de-DE/Java-User-Group-Karlsruhe/events/265291931
 speakers:
  - gtrefs
  - sippsach
