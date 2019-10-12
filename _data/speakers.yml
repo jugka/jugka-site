@@ -381,9 +381,6 @@ ahanschke:
 abartels:
     name: Andreas Bartels
     bio: Andreas Bartels arbeitet als Softwarearchitekt und Entwickler bei Disy in Karlsruhe.
-nparlog:
-    name: Nicolai Parlog
-    bio: Nicolai ist selbständiger Softwareentwicker, Autor und Trainer. Er lebt in Karlsruhe und bloggt auf <a target="_blank" href="http://codefx.org">codefx.org</a> und <a target="_blank" href="https://sitepoint.com/java">sitepoint.com/java</a>.
 mphilipp:
     name: Marc Philipp
     bio: Marc Philipp arbeitet als Softwareentwickler bei Citrix/GetGo in Karlsruhe. Er ist langjähriger Maintainer von JUnit, Mitinitiator der Crowdfunding-Kampagne "JUnit Lambda" und JUnit's "Keeper of the Green Bar".
@@ -464,3 +461,9 @@ tfritz:
 jhettel:
     name: Prof. Dr. Jörg Hettel
     bio: Jörg Hettel war als Berater bei nationalen und internationalen Unternehmen tätig. Er begleitete zahlreiche Firmen bei der Einführung von objektorientierten Technologien und übernahm als Software-Architekt Projektverantwortung. Seit 2003 ist er Professor an der Hochschule Kaiserslautern am Standort Zweibrücken.
+mfilp:
+    name: Markus Filp
+    bio: Markus Filp ist Softwareentwickler bei der 1&1 Mail & Media Development & Technology GmbH. Seit 2013 ist er dort, zunächst als Werkstudent, an der Konzeption und Entwicklung von Java-Anwendungen im Spring-Umfeld beteiligt. 2018 beendete er sein Studium der Wirtschaftsinformatik an der Hochschule Karlsruhe und entwickelt seitdem u.a. Java-Microservices für die Ausführung von Geschäftsprozessen.
+jbarreto:
+    name: José Angel Monte Barreto
+    bio: José Angel Monte Barreto ist Softwareentwickler bei der 1&1 Mail & Media Development & Technology GmbH. Seit 2010 entwickelt er dort Anwendungen mit Java und Spring. Seine Hauptaufgaben liegen in der Konzeption und der Implementierung von Microservices und Geschäftsprozessen.
