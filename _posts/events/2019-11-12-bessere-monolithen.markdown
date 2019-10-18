@@ -3,6 +3,7 @@ layout: event
 title:  "Bessere Monolithen – modulithische Applikationen mit Spring Boot"
 date:   2019-11-12 18:30:00 +0100
 tags: events
+registration: https://www.meetup.com/de-DE/Java-User-Group-Karlsruhe/events/265779989/
 speakers:
  - ogierke
 location: synyx
