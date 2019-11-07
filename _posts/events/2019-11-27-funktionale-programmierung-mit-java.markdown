@@ -7,7 +7,7 @@ registration: https://www.meetup.com/de-DE/Java-User-Group-Karlsruhe/events/2652
 speakers:
  - gtrefs
  - sippsach
-location: diva-e20
+location: netpioneer
 ---
 
 Gemeinsame Veranstaltung mit der Functional Programmers User Group Karlsruhe: https://www.meetup.com/de-DE/The-Karlsruhe-Functional-Programmers-Meetup-Group/
