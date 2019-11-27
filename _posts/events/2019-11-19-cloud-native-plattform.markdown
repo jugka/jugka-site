@@ -7,6 +7,9 @@ registration: https://www.meetup.com/de-DE/Java-User-Group-Karlsruhe/events/2656
 speakers:
  - mfilp
  - jbarreto
+slides:
+    name: PDF
+    url: /assets/slides/2019-yapp-jug-v13.pdf
 location: 1und1
 ---
 
