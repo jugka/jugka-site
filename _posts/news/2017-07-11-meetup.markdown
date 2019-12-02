@@ -5,8 +5,8 @@ date:   2017-07-11 22:30:00 +0200
 tags: news
 ---
 
-Um neue Besucher zu gewinnen, haben wir uns entschlossen ab September die Veranstaltungen auf Meetup.com zu veröffentlichen und die Anmeldung darüber abzuwickeln. Eine Anmeldung zu einer Veranstaltung ist keine Pflicht, hilft uns aber die Veranstaltung besser zu planen.
+Um neue Besucher zu gewinnen, haben wir uns entschlossen die Veranstaltungen auf Meetup.com zu veröffentlichen und die Anmeldung darüber abzuwickeln. Eine Anmeldung zu einer Veranstaltung ist keine Pflicht, hilft uns aber die Veranstaltung besser zu planen.
 
-Solltet ihr euch für eine Veranstatlung auf Meetup angemeldet haben und könnt dann doch nicht teilnehmen, wäre es nett wenn ihr euch austragt.
+Solltet ihr euch für eine Veranstaltung auf Meetup angemeldet haben und könnt dann doch nicht teilnehmen, wäre es nett wenn ihr euch austragt.
 
 [https://www.meetup.com/de-DE/Java-User-Group-Karlsruhe](https://www.meetup.com/de-DE/Java-User-Group-Karlsruhe/).
