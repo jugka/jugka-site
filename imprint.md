@@ -9,9 +9,9 @@ permalink: /imprint/
 <h4><strong>Angaben gemäß § 5 TMG</strong></h4>
 
 <p>
-    Björn Martin<br>
-    Gerwigstr. 49a<br>
-    76131 Karlsruhe<br>
+    Michael Prieß<br>
+    Karl-Flößer-Straße 10B<br>
+    76189 Karlsruhe<br>
 </p>
 <p>
     <strong>Vertreten durch: </strong><br>
@@ -21,14 +21,12 @@ permalink: /imprint/
 </p>
 <p>
     <strong>Kontakt:</strong><br>
-    Telefon: 0721-8303512<br>
     E-Mail: <a href='mailto:jugkarlsruhe@gmail.com'>jugkarlsruhe@gmail.com</a></br>
 </p>
 
 <h4><strong>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</strong></h4>
 
 <p>
-    Björn Martin<br>
     Michael Prieß<br>
     Rainer Steinegger<br>
     Theo Grip
