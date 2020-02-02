@@ -117,8 +117,7 @@ pfichtner:
     bio: Peter Fichtner schloss 1998 sein Ausbildung als DV-Kaufmann bei der Fiducia IT AG ab und arbeitet seit diesem Zeitpunkt im Bereich Anwendungsentwicklung. Das Spektrum erstreckt sich von der Entwicklung von Bankenanwendungen bis hin zur Erstellung von Frameworks und Frameworkkomponenten. Seit 1999 beschäftigt er sich mit der Programmiersprache Java und verschiedenen Java-basierten Bibliotheken. Mit seinem Wissen im Bereich Test-Driven-Development, Continuous Integration in Verbindung mit agilen Entwicklungsmethoden arbeitet er in verschiedenen Gremien, welche sich um die Themen Test und Modernisierung des Build-Systems als Aufgabe gesetzt haben. Nach seinem Wechsel 2009 in die Architektur ist eine seiner größten Aufgaben die Neuimplementierugn des Business Intelligence Java Frameworks. Nicht nur in den Fiducia-Projekten, sondern auch in einigen seiner privaten Opensource-Projekten, ist Google Guava von Anfang an ein integraler Bestandteil.
 mploed:
     name: Michael Plöd
-    bio: Michael Plöd ist Principal Architect und Partner bei der Senacor Technologies AG und in dieser Rolle überwiegend in Projekten tätig, die die Transformation großer IT-Landschaften anstreben. Michael ist Speaker auf zahlreichen Konferenzen und regelmäßiger Autor diverser Fachartikel zu den Themen Java Persistence, Apache Wicket und Präsentationstechniken.
-    homepage: http://rockingcode.blogspot.com
+    bio: Michael ist Fellow bei INNOQ. Seine aktuellen Interessengebiete sind Microservices, Domain-driven Design, Alternativen zu alt eingewachsenen Softwarearchitekturen, Event Sourcing und Präsentationstechniken für Entwickler und Architekten. Michael ist zudem Autor des Buchs „Hands-on Domain-driven Design - by example“ auf Leanpub.
     twitter: bitboss
 nmaurer:
     name: Norman Maurer
@@ -325,7 +324,7 @@ sschrot:
     bio: POET GmbH
 nparlog:
     name: Nicolai Parlog
-    bio: Nicolai Parlog ist Software-Entwickler bei der Disy Informationssysteme GmbH. Nebenbei bloggt und coded er auch leidenschaftlich gern und ist in diversen Open-Source-Projekten involviert.
+    bio: Nicolai is a thirty-year-old boy, as the narrator would put it (if he’s generous), who has found his passion in software development (mostly Java) and who codes for a living as well as for fun. He also blogs, writes, newsletters, speaks, chats, records, streams, trains, and consults about it, and organizes a conference - not all at the same time, but in prolific fits and starts with high throughput and long latencies. If you want to take the wheel, hire him for in-house trainings on new Java features, migrations to Java 9+, and JUnit 5. His home is at codefx.org.
     homepage: http://blog.codefx.org/about-nicolai-parlog/
     twitter: nipafx
 vdobler:
