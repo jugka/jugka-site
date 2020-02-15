@@ -6,6 +6,9 @@ tags: events
 registration: https://www.meetup.com/de-DE/Java-User-Group-Karlsruhe/events/268197841
 speakers:
  - crehn
+ slides:
+     name: PDF
+     url: /assets/slides/TickTickTickBoom_JUG.pdf
 location: 1und1
 ---
 
