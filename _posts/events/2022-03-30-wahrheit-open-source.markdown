@@ -1,10 +1,13 @@
 ---
 layout: event
 title:  "Die wahre Wahrheit über Open Source!"
-date:   2022-03-31 19:15:00 +0100
+date:   2022-03-30 19:15:00 +0100
 tags: events
+registration: https://www.meetup.com/de-DE/Java-User-Group-Karlsruhe/events/284651885/
 speakers:
- - cgrobmeier
+ - cgrobmeier 
+links:
+ - https://zoom.us/j/98734337563?pwd=ODFncHh0d2tENGltaGpBYkJOakpVUT09
 ---
 
 Was passiert eigentlich, wenn die besten Freunde anrufen und fragen, warum man den gerade das Internet kaputt gemacht hat? 

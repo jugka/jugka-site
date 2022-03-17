@@ -1,10 +1,13 @@
 ---
 layout: event
 title: "Einsatz von Open Source Software in On-Premise Szenarien – Herausforderung Sicherheitslücke"
-date:   2022-03-31 19:15:00 +0100
+date:   2022-03-30 19:15:00 +0100
 tags: events
+registration: https://www.meetup.com/de-DE/Java-User-Group-Karlsruhe/events/284651885/
 speakers:
- - jnoeding
+ - jnoeding 
+links:
+ - https://zoom.us/j/98734337563?pwd=ODFncHh0d2tENGltaGpBYkJOakpVUT09
 ---
 
 Im Gegensatz zu einer in der Cloud verfügbaren und gemanagten Multi-Tenant-Applikation, einem Cloud Service, sieht sich ein Anbieter wie abas (mit ca. 3.000 Kunden in On-Premise Szenarien) beim Einsatz von Open Source Software vor große Herausforderungen gestellt. 
