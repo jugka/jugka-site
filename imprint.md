@@ -10,8 +10,8 @@ permalink: /imprint/
 
 <p>
     Michael Prieß<br>
-    Karl-Flößer-Straße 10B<br>
-    76189 Karlsruhe<br>
+    Karl-Schlageter-Straße 22a<br>
+    76287 Rheinstetten-Forchheim<br>
 </p>
 <p>
     <strong>Vertreten durch: </strong><br>
