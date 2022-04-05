@@ -305,7 +305,7 @@ cvcreanga:
     name: Corneliu Vasile Creanga
 sippsach:
     name: Falk Sippach
-    bio: Falk hat 20 Jahre Erfahrung mit Java und ist bei der OIO - den JavaExperten der Trivadis - als Trainer, Software-Entwickler und - Architekt tätig. Er publiziert regelmäßig in Blogs, Fachartikeln und auf Konferenzen. In seiner Wahlheimat Darmstadt organisiert er mit Anderen die örtliche Java User Group. Falk twittert unter @sippsack.
+    bio: Falk Sippach ist bei der embarc Software Consulting GmbH als Softwarearchitekt, Berater und Trainer stets auf der Suche nach dem Funken Leidenschaft, den er bei seinen Teilnehmern, Kunden und Kollegen entfachen kann. Bereits seit über 15 Jahren unterstützt er in meist agilen Softwareentwicklungsprojekten im Java-Umfeld. Als aktiver Bestandteil der Community (Mitorganisator der JUG Darmstadt) teilt er zudem sein Wissen gern in Artikeln, Blog-Beiträgen, sowie bei Vorträgen auf Konferenzen oder User Group Treffen und unterstützt bei der Organisation diverser Fachveranstaltungen.
     twitter: sippsack
 britter:
     name: Benedikt Ritter
@@ -476,4 +476,6 @@ cgrobmeier:
 jnoeding:
     name: Jürgen Nöding
     bio: Jürgen Nöding hat nach seinem Studium der Geophysik schnell seine Passion in der Welt der ERP Systeme gefunden. Seit 2000 ist er bei der abas Software GmbH (früher abas Software AG) in verschiedenen Rollen tätig. Seit 2013 ist er in verantwortlicher Rolle für den Bereich Entwicklung der abas Software GmbH tätig, derzeit in seiner Funktion als Vice President R&D.
-
+cstein:
+    name: Christian Stein
+    bio: Christian ist ein Open Source Software Entwickler der seit 1998 mit Java programmiert (#movedbyjava) und nun in der Java Platform Group bei Oracle arbeitet (#movingjava). Sein Interesse an automatisierbaren Tests ließ ihn 2017 dem JUnit 5 Team beitreten, bei Apache Maven mitarbeiten und eine Liste von Java Modulen erstellen, die bei Maven Central veröffentlicht wurden

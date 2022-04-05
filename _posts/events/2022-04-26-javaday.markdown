@@ -1,0 +1,77 @@
+---
+layout: event
+title:  "JavaDay"
+date:   2022-04-26 18:00:00 +0200
+registration: https://www.meetup.com/de-DE/Java-User-Group-Karlsruhe/events/285085119
+tags: events
+speakers:
+ - sippsach
+ - nparlog
+ - cstein
+location: disy
+---
+
+![Javaday Logo](/assets/img/javaday/javaday.png)
+
+*Verwendung des JavaDay™ Logos mit Genehmigung von Oracle Corp.*
+
+Nach 2 Jahren wollen wir euch auch wieder in Präsenz begrüßen und haben zusammen mit Nicolai Parlog einen schönen Abend auf die Beine gestellt. Zwischen und während den Vorträgen wird es genug zu trinken geben. Für Pizza oder kleine Snacks wird auch gesorgt sein. Wenn euch 18 Uhr zu früh ist, dann dürft ihr auch gerne etwas später zum zweiten oder dritten Vortrag kommen.
+
+**18:00** Talk 1: Was gibt es Neues bei Java 17 und 18?
+
+**19:00** Pause
+
+**19:15** Talk 2: JDK Tools und wo sie zu finden sind
+
+**19:45** Pause
+
+**20:00** Talk 3: Java Next - von Amber zu Loom, von Panama nach Valhalla
+
+**21:00** Ausklang
+
+## Was gibt es Neues bei Java 17 und 18? (Falk Sippach)
+
+Seit einigen Jahren kommen nun schon halbjährlich neue Java Major-Releases heraus.
+Dieses Vorgehen hat sich etabliert und funktioniert erstaunlich gut.
+Natürlich dürft Ihr nicht den Funktionsumfang von den früheren Versionen (9 und älter) erwarten.
+Dafür bekommt Ihr als Entwickler aber viel regelmäßiger die aktuellen Änderungen mit.
+In den Preview-Phasen kann sogar Feedback gegeben und somit die aktive Weiterentwicklung von Java mitgestaltet werden.
+Alle zwei Jahre erscheinen zudem Long-Term-Support-Versionen, die länger mit Updates und Patches versorgt werden.
+
+Mit Version 17 kam im Herbst 2021 das letzte LTS-Release heraus und mittlerweile wurde bereits Java 18 veröffentlicht.
+Darum wollen wir unter anderem auf die folgenden Features schauen:
+
+* Pattern Matching (Switch Expressions, Type Patterns, Sealed Classes und Records)
+* Text Blocks
+* UTF-8 by Default
+* Simple Web Server
+* Deprecation von Finalize
+* und noch einiges mehr
+
+Ihr bekommt einen Überblick über die neusten Entwicklungen im Java-Umfeld und seht heute schon, was Euch in den nächsten Jahren in der täglichen Arbeit erwarten wird.
+
+## JDK Tools und wo sie zu finden sind (Christian Stein)
+
+Man kann mit den Tools, die das JDK bereitstellt, Java Projekte bauen.
+
+Dieser Vortrag beginnt mit einer Übersicht der im JDK 18 bereitgestellten Tools.
+Dabei werden einige dieser Tools auf Grundlage eines Beispielprojekts Anwendung finden.
+Hierbei wird das ToolProvider SPI zusammen mit "Launch Single-File Source-Code Programs" eingesetzt.
+Die beispielhaften Anwendungen werden dann in eigenständigen Tools zusammengefasst.
+Damit diese gefunden und ausgeführt werden können, wird ein ToolFinder SPI eingeführt.
+Zusätzlich zu den bereits verwendeten Tools werden externe Java Tools eingebunden.
+Der Vortrag schließt mit dem Einbinden aller im JDK 18 bereitgestellten Tools.
+
+Nach einer kurzen Demo von Bach.java, ein Programm das die im Vortrag genannten Techniken umsetzt, startet dann die Fragen- und Antwortenrunde.
+
+## Java Next - von Amber zu Loom, von Panama nach Valhalla (Nicolai Parlog)
+
+Javas vier große Projekte biegen auf die Zielgerade ein: Amber und Panama haben einige Features bereits inkubiert, previewed und sogar finalisiert und Loom und Valhalla stehen kurz davor.
+Gute Gelegenheit, sie sich genauer anzuschauen:
+
+* Project Amber macht die Sprache ausdrucksstärker und bereit, die Probleme von heute und morgen anzugehen
+* Project Panama durchstößt die Landenge, die Java von nativem Code trenn
+* Project Loom ermöglicht einfache, effiziente und strukturierte Concurrency
+* Project Valhalla repariert den Riss in Javas Typsystem und verbessert die Performance
+
+Nach diese Vortrag wisst ihr was in den nächsten Jahren von Java zu erwarten ist.
