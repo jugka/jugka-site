@@ -1,7 +1,7 @@
 name: JUG Karlsruhe
 description: JUG Karlsruhe
 
-gems:
+plugins:
  - jekyll-paginate
  - jekyll_version_plugin
 paginate_path: "blog/page:num/"
