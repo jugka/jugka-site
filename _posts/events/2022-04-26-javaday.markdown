@@ -8,12 +8,10 @@ speakers:
  - sippsach
  - nparlog
  - cstein
-location: disy
+location: disy2
 ---
 
 ![Javaday Logo](/assets/img/javaday/javaday.png)
-
-*Verwendung des JavaDay™ Logos mit Genehmigung von Oracle Corp.*
 
 Nach 2 Jahren wollen wir euch auch wieder in Präsenz begrüßen und haben zusammen mit Nicolai Parlog einen schönen Abend auf die Beine gestellt. Zwischen und während den Vorträgen wird es genug zu trinken geben. Für Pizza oder kleine Snacks wird auch gesorgt sein. Wenn euch 18 Uhr zu früh ist, dann dürft ihr auch gerne etwas später zum zweiten oder dritten Vortrag kommen.
 
@@ -75,3 +73,5 @@ Gute Gelegenheit, sie sich genauer anzuschauen:
 * Project Valhalla repariert den Riss in Javas Typsystem und verbessert die Performance
 
 Nach diese Vortrag wisst ihr was in den nächsten Jahren von Java zu erwarten ist.
+
+*Verwendung des JavaDay™ Logos mit Genehmigung von Oracle Corp.*
