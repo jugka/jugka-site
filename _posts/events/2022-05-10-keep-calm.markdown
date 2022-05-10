@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  "Keeping CALM – Konsistenz in verteilten Systemen leicht gemacht"
+title:  "ABGESAGT: Keeping CALM – Konsistenz in verteilten Systemen leicht gemacht"
 date:   2022-05-10 19:00:00 +0200
 registration: https://www.meetup.com/de-DE/Java-User-Group-Karlsruhe/events/285104281/
 tags: events
