@@ -8,4 +8,5 @@ speakers:
  - sbraun
 location: diva-e34
 ---
-Zehn Jahre nachdem Eric Brewer das CAP-Theorem formulierte, formuliert Joseph Hellerstein das CALM-Theorem und beweist das, was wir eigentlich schon immer alle geahnt haben: Im Falle von Netzwerkpartitionen sind Konsistenz UND Verfügbarkeit unter bestimmten Bedingungen eben doch möglich! Wie das geht, zeige ich euch in diesem Vortrag, und nehme euch mit auf eine Journey vom CAP-Theorem hin zum CALM-Theorem. Ich räume mit gängigen Mythen auf und zeige euch, wie ihr das CALM-Theorem praktisch anwenden könnt. Basierend auf unseren empirischen Erfahrungen aus verschiedenen Studien (Case Studies und Action Research Studies) und unserer laufenden Forschung entwickeln wir Architektur-Empfehlungen und Entwurfsmuster für das Design von datenintensiven, verteilten Anwendungen. Der Vortrag gibt konkrete Hilfestellungen für Architekten/Architektinnen, demonstriert Entwurfsmuster mit laufendem Code und teilt mit den Teilnehmern unsere frei verfügbaren Open-Access-Architektur-Guidelines.
+
+Leider müssen wir den Vortrag krankheitsbedingt heute Abend absagen. Wir werden den Vortrag aber nachholen und einen Ersatztermin suchen.
