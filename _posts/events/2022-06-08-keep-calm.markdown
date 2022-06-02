@@ -1,0 +1,12 @@
+---
+layout: event
+title:  "Keeping CALM – Konsistenz in verteilten Systemen leicht gemacht"
+date:   2022-06-08 19:00:00 +0200
+registration: https://www.meetup.com/de-DE/Java-User-Group-Karlsruhe/events/286311118/
+tags: events
+speakers:
+ - sbraun
+location: diva-e
+---
+
+Zehn Jahre nachdem Eric Brewer das CAP-Theorem formulierte, formuliert Joseph Hellerstein das CALM-Theorem und beweist das, was wir eigentlich schon immer alle geahnt haben: Im Falle von Netzwerkpartitionen sind Konsistenz UND Verfügbarkeit unter bestimmten Bedingungen eben doch möglich! Wie das geht, zeige ich euch in diesem Vortrag, und nehme euch mit auf eine Journey vom CAP-Theorem hin zum CALM-Theorem. Ich räume mit gängigen Mythen auf und zeige euch, wie ihr das CALM-Theorem praktisch anwenden könnt. Basierend auf unseren empirischen Erfahrungen aus verschiedenen Studien (Case Studies und Action Research Studies) und unserer laufenden Forschung entwickeln wir Architektur-Empfehlungen und Entwurfsmuster für das Design von datenintensiven, verteilten Anwendungen. Der Vortrag gibt konkrete Hilfestellungen für Architekten/Architektinnen, demonstriert Entwurfsmuster mit laufendem Code und teilt mit den Teilnehmern unsere frei verfügbaren Open-Access-Architektur-Guidelines.
