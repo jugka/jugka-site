@@ -1,0 +1,11 @@
+---
+layout: event
+title:  "Sommer Edition"
+date:   2022-07-28 19:00:00 +0200
+tags: events
+speakers:
+ - nparlog
+location: disy2
+---
+
+Entspannte JUG Sommeredition mit kühlen Getränken, Grill und vielleicht mit dem einen oder anderen Lightning Talk
