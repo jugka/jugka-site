@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Sommer Edition"
-date:   2022-07-28 19:00:00 +0200
+date:   2022-07-28 18:00:00 +0200
 registration: https://www.meetup.com/de-DE/Java-User-Group-Karlsruhe/events/286989812/
 tags: events
 speakers:
