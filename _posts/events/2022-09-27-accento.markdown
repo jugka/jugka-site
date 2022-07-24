@@ -2,6 +2,7 @@
 layout: event
 title:  "Accento @ JUG"
 date:   2022-09-27 17:45:00 +0200
+registration: https://www.meetup.com/de-DE/java-user-group-karlsruhe/events/287383182/
 tags: events
 speakers:
  - cgotz
