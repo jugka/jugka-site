@@ -1,0 +1,74 @@
+---
+layout: event
+title:  "Accento @ JUG"
+date:   2022-09-27 17:45:00 +0200
+tags: events
+speakers:
+ - cgotz
+ - nparlog
+ - mphilipp
+location: disy2
+---
+
+![Javaday Logo](/assets/img/javaday/javaday.png)
+
+**17:45** Einlass
+**18:00** Von Maven zu Bazel, Piece by Piece
+**19:00** Pause
+**19:15** Data-Oriented Programming in Java
+**19:45** Pause
+**20:00** JUnit 5 wird 5
+**21:00** Ausklang
+
+## Von Maven zu Bazel, Piece by Piece (Carlo Götz)
+
+Wie wir einen 559 Modules Maven Build zuerst in 3 und später in 2163
+Bazel Targets zerlegt haben.
+
+* Warum haben wir das gemacht? (Schnellere Builds.)
+* Wie sind wir vorgegangen? (Code-Generierung.)
+* Welche Probleme haben wir gelöst bzw. umschifft? (Viele.)
+* Welche Lehren können wir für Builds allgemein ableiten? (Ein paar.)
+
+Dieser Talk zeigt, dass eine Build-System-Migration nicht als Big Bang
+ablaufen muss und welche Unterstützung Bazel bietet, um korrekte und
+reproduzierbare Builds zu erstellen.
+
+## Data-Oriented Programming in Java (Nicolai Parlog)
+
+In Data-Oriented Programming (DOP) modelliert man Daten als Daten und
+polymorphes Verhalten mit Pattern Matching. In diesem Vortrag stelle ich
+die vier Prinzipien von DOP vor:
+
+* modelliere die Daten, die ganzen Daten und nichts als die Daten
+* Daten sind unveränderlich
+* validiere an der Systemgrenze
+* mach unerwünschte Zustände nicht-repräsentierbar
+
+Wir werden außerdem erkunden wie man Pattern Matching als sicheren,
+mächtigen und wartbaren Mechanismus für ad-hoc Polymorphie auf solchen
+Daten einsetzt ohne die Typen mit Funktonalität zu überfrachten. Der
+Vortrag endet mit einer Gegenüberstellung zu OOP, damit ihr nicht nur
+lernt wie man DOP einsetzt sondern auch wann (nicht).
+
+## JUnit 5 wird 5 (Marc Philipp)
+
+Seit dem ersten Release von JUnit 5 im Jahr 2017 sind mittlerweile fast
+fünf Jahre vergangen. Das JUnit-Team hat danach jedoch keineswegs die
+Arbeit eingestellt. Im Gegenteil: Seitdem gab es neun weitere Feature-
+Releases. In diesem Vortrag werden wir uns nach einer kurzen Einführung
+in JUnit 5 auf die neuen Features der 5.x Releases konzentrieren. Dies
+sind unter anderem:
+
+* deklarative Test Suites
+* JFR Events
+* neue Extension Points
+* überarbeiteter Support für temporäre Verzeichnisse
+* Test Method/Class Execution Order
+* ein neues XML Reporting-Format.
+
+Selbstverständlich wird auch Zeit für Fragen und Feedback eurerseits
+vorhanden sein. Insofern sollten JUnit 5 Anwender:innen jeglichen
+Erfahrungsstands etwas mitnehmen können.
+
+
