@@ -324,8 +324,8 @@ sschrot:
     bio: POET GmbH
 nparlog:
     name: Nicolai Parlog
-    bio: Nicolai is a thirty-year-old boy, as the narrator would put it (if he’s generous), who has found his passion in software development (mostly Java) and who codes for a living as well as for fun. He also blogs, writes, newsletters, speaks, chats, records, streams, trains, and consults about it, and organizes a conference - not all at the same time, but in prolific fits and starts with high throughput and long latencies. If you want to take the wheel, hire him for in-house trainings on new Java features, migrations to Java 9+, and JUnit 5. His home is at codefx.org.
-    homepage: http://blog.codefx.org/about-nicolai-parlog/
+    bio: Nicolai (aka nipafx) ist ein Java-Enthusiast mit Fokus auf Sprachfeatures und APIs, der leidenschaftlich gerne lernt und lehrt. Das macht er in Blog Posts, Newslettern und Büchern; in Tweets, Videos und Streams; in Demo Repositories und auf Konferenzen - mehr dazu auf www.nipafx.dev. Er ist Java Developer Advocate bei Oracle und Organisator von Accento (www.accento.dev). Davon abgesehen kennt man ihn für seine Frisur.
+    homepage: http://www.nipafx.dev
     twitter: nipafx
 vdobler:
     name: Dr. Volker Dobler
