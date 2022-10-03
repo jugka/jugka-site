@@ -1,5 +1,7 @@
 name: JUG Karlsruhe
 description: JUG Karlsruhe
+baseurl: ""
+url: ""
 
 plugins:
  - jekyll-paginate
@@ -9,7 +11,7 @@ paginate: 5
 
 permalink: content/:title/
 
-markdown: redcarpet
+markdown: kramdown
 timezone: Europe/Berlin
 
 navigation:
