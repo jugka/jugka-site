@@ -486,3 +486,9 @@ sbraun:
 cgotz:
     name: Carlo Götz
     bio: Carlo ist lean VB6 Entwickler. Seitdem er 2000 auf der Microsoft Developer™ Conference über "Developers, Developers, Developers" gehört hat, wusste er genau, dass Developer Synergy Accelerator (SAFe Framework certified) seine Berufung ist. Wie Schienenschweißarbeiten nach DB Ril (826.1020) beschleunigt er Agile Release Trains auf ihre maximale Geschwindigkeit, um somit Builtin Quality und Stakeholder Satisfaction auf ganzer (Bahn)linie sicherzustellen. Dadurch maximiert er nicht nur Development Value Streams, hinsichtlich ihrer KPI, sondern enabled auch On Point Value Delivery durch reduzierte Build Zeiten.
+asteiner:
+  name: Andreas Steiner
+  bio: Andreas Steiner, Development Expert bei SAP SE im SapMachine/SAPJVM Team mit knapp 20 Jahren Erfahrung in Java Performance, Troubleshooting und Kundensupport im SAP Umfeld.
+jbechberger:
+  name: Johannes Bechberger
+  bio: Johannes Bechberger arbeitet im SAP SE im SapMachine/SAPJVM Team und beschäftigt sich aktuell mit Profiling Tools.
