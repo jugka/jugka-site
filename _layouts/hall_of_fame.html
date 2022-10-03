@@ -3,17 +3,17 @@ layout: default
 ---
 
 <h1>Hall of Fame</h1>
-{% assign hallOfFame = page.['hallOfFame'] %}
+{% assign hallOfFame = page['hallOfFame'] %}
 
 <table class="table hover">
 <thead>
 <tr>
 <th>#</th>
 <th>Speaker</th>
-<th>Talks</th> 
+<th>Talks</th>
 </tr>
 </thead>
-<tbody> 
+<tbody>
 
 {% for speaker in hallOfFame %}
 
@@ -25,11 +25,11 @@ layout: default
   <tr>
     <th scope="row">{{ forloop.index }}</th>
     <td><a href="{{ site.baseurl }}/speakers/{{ speakerShortName }}">{{ speakerName }}</a></td>
-    <td>{{ numberOfTalks }}</td> 
+    <td>{{ numberOfTalks }}</td>
   </tr>
 
 {% endfor %}
 </ul>
 
-</tbody> 
+</tbody>
 </table>
