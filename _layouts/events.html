@@ -11,6 +11,6 @@ layout: default
     {% capture year %}{{currentyear}}{% endcapture %}
   {% endif %}
     <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%d.%m.%Y" }} - {{ post.title }}</a>
-    {% if post.['parleys'] != null %}<a href="{{post.['parleys'] }}"><img src="{{ site.baseurl }}/assets/img/icon/parleys.png"/></a>{% endif %}
-    {% if post.['youtube'] != null %}<a href="{{post.['youtube'] }}"><img src="{{ site.baseurl }}/assets/img/icon/youtube.png"/></a>{% endif %}<br>
+    {% if post['parleys'] != null %}<a href="{{post['parleys'] }}"><img src="{{ site.baseurl }}/assets/img/icon/parleys.png"/></a>{% endif %}
+    {% if post['youtube'] != null %}<a href="{{post['youtube'] }}"><img src="{{ site.baseurl }}/assets/img/icon/youtube.png"/></a>{% endif %}<br>
 {% endfor %}
