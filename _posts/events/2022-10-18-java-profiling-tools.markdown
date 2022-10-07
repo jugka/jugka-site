@@ -7,7 +7,7 @@ tags: events
 speakers:
  - asteiner
  - jbechberger
-location: synyx
+location: synyx-glas
 ---
 
 Wenn eine Java Anwendung zu langsam ist, hilft ein Profiler bei der Problemanalyse. Es gibt, besonders seit dem JDK 11, viele Open Source Profiling Tools, die wir in diesem Vortrag vorstellen werden. Konkret stellen wir 5 verschiedene Tools und die dahinterliegende Technologie vor: AsyncProfiler, VisualVM, JMC, Jifa und einen eigenen Prototypen.

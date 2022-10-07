@@ -29,6 +29,12 @@ synyx:
   name: Synyx GmbH & Co. KG
   address: Gartenstraße 67
   postcode: 76135 Karlsruhe
+synyx-glas:
+  latitude: 49.00273170035233
+  longitude: 8.384865129227087
+  name: Synyx GmbH & Co. KG (Gläserne Softwarefabrik)
+  address: Brauerstraße 12
+  postcode: 76135 Karlsruhe
 uni-ka-hs101:
   latitude: 49.013685
   longitude: 8.419475
