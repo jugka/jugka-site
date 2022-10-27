@@ -31,7 +31,7 @@ synyx:
   postcode: 76135 Karlsruhe
 synyx-glas:
   latitude: 49.00273170035233
-  longitude: 8.384865129227087
+  longitude: 8.384865129227087l
   name: Synyx GmbH & Co. KG (Gläserne Softwarefabrik)
   address: Brauerstraße 12
   postcode: 76135 Karlsruhe
@@ -132,3 +132,9 @@ diva-e:
   name: diva-e Karlsruhe
   address: Ludwig-Erhard-Allee 20
   postcode: 76131 Karlsruhe
+etecture-durlach:
+  latitude: 48.99600934714235
+  longitude: 8.466550805715308
+  name: ETECTURE GmbH
+  address: Amalienbadstraße 41 / Gebäude D, 3. Etage
+  postcode: 76227 Karlsruhe
