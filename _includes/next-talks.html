@@ -1,14 +1,12 @@
-<div class="panel panel-default">
-<div class="panel-heading">
-<h3 class="panel-title">Nächste Vorträge</h3>
-</div>
-<div class="panel-body">
-{% for post in site.tags.events reversed %}
-{% if post.date > site.time %}
-<div class="next-talk">
-<a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%d-%m-%Y" }} - {{ post.title }}</a>
-</div>
-{% endif %}
-{% endfor %}
-</div>
+<div class="card bg-light">
+  <div class="card-header">
+    Nächste Vorträge
+  </div>
+  <div class="card-body">
+    {% for post in site.tags.events reversed %}
+    {% if post.date > site.time %}
+    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%d-%m-%Y" }} - {{ post.title }}</a>
+    </div>
+    {% endif %}
+    {% endfor %}
 </div>

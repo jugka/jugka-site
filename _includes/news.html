@@ -1,15 +1,14 @@
-<div class="panel panel-default">
-<div class="panel-heading">
-<h3 class="panel-title">Neuigkeiten</h3>
-</div>
-<div class="panel-body">
-{% for post in site.tags.news offset: 0 limit: 3 %}
-<h4>{{ post.title }}</h4>
-
-<p>{{ post.content }}</p>
-
-<small>Eingetragen am <i>{{ post.date | date: "%d-%m-%Y" }} um {{ post.date | date: "%H:%M" }} Uhr</i></small>
-<hr class="divider">
-{% endfor %}
-</div>
+<div class="card">
+  <div class="card-header">
+    Neuigkeiten
+  </div>
+  <div class="card-body">
+  <div class="card-text">
+    {% for post in site.tags.news offset: 0 limit: 3 %}
+    <h4>{{ post.title }}</h4>
+    <p>{{ post.content }}</p>
+    <small>Eingetragen am <i>{{ post.date | date: "%d-%m-%Y" }} um {{ post.date | date: "%H:%M" }} Uhr</i></small>
+    <hr class="divider">
+    {% endfor %}
+  </div>
 </div>

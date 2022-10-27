@@ -4,9 +4,9 @@ title: Kontakt
 permalink: /contact/
 ---
 
-<h3>Kontakt</h3>
+<h1>Kontakt</h1>
 
-<h4>Organisatoren</h4>
+<h2>Organisatoren</h2>
 
 <p>
     <a href="mailto:jugkarlsruhe@gmail.com">
@@ -15,7 +15,7 @@ permalink: /contact/
     </a>
 </p>
 
-<h4>Social & Infos</h4>
+<h2>Social & Infos</h2>
 
 <p>
     <a href="https://twitter.com/jugka" target="_new">
@@ -48,7 +48,7 @@ permalink: /contact/
     </a>
 </p>
 
-<h4>Aufzeichnungen</h4>
+<h2>Aufzeichnungen</h2>
 
 <p>
     <a href="https://www.parleys.com/channel/karlsruhe-jug" target="_new">
