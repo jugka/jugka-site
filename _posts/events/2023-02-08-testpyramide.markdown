@@ -2,7 +2,7 @@
 layout: event
 title:  "Liebling, ich habe die Testpyramide auf den Kopf gestellt"
 date:   2023-02-08 19:15:00 +0100
-registration: tbd
+registration: https://www.meetup.com/de-DE/java-user-group-karlsruhe/events/290724403/
 tags: events
 speakers:
  - tfritz
