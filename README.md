@@ -1,6 +1,6 @@
 # JUG Jekyll template
 
-Das Template für die Webseite der [JUG Karlsruhe](http://jug-karlsruhe.de).
+Das Template für die Webseite der [JUG Karlsruhe](http://jug-karlsruhe.de)
 
 ## Lokale Entwicklung
 
