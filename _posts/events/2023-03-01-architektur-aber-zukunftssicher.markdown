@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Architektur: bitte nicht zukunftssicher!"
-date:   2023-03-01 19:15:00 +0200
+date:   2023-03-01 19:15:00 +0100
 registration: tbd
 tags: events
 speakers:
