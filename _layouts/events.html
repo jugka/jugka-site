@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-<h1>{{ site.title }}</h1>
+<br>
+<h1>Veranstaltungen</h1>
 
 {% for post in site.tags.events %}
   {% capture currentyear %} Veranstaltungen {{post.date | date: "%Y"}}{% endcapture %}
@@ -13,5 +14,5 @@ layout: default
   {% endif %}
     <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%d.%m.%Y" }} - {{ post.title }}</a>
     {% if post['parleys'] != null %}<a href="{{post['parleys'] }}"><img src="{{ site.baseurl }}/assets/img/icon/parleys.png"/></a>{% endif %}
-    {% if post['youtube'] != null %}<a href="{{post['youtube'] }}"><img src="{{ site.baseurl }}/assets/img/icon/youtube.png"/></a>{% endif %}<br>
+    {% if post['youtube'] != null %}<a href="{{post['youtube'] }}"><img src="{{ site.baseurl }}/assets/img/icon/youtube.png" alt="Youtube Icon"></a>{% endif %}<br>
 {% endfor %}
