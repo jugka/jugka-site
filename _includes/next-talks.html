@@ -5,8 +5,10 @@
   <div class="card-body">
     {% for post in site.tags.events reversed %}
     {% if post.date > site.time %}
+    <p>
     <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%d-%m-%Y" }} - {{ post.title }}</a>
-    </div>
+    </p>
     {% endif %}
     {% endfor %}
+  </div>
 </div>
