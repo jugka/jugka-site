@@ -5,7 +5,7 @@
   <div class="card-body">
   <div class="card-text">
     {% for post in site.tags.news offset: 0 limit: 3 %}
-    <h4>{{ post.title }}</h4>
+    <h2>{{ post.title }}</h2>
     {{ post.content }}
     <small>Eingetragen am <i>{{ post.date | date: "%d-%m-%Y" }} um {{ post.date | date: "%H:%M" }} Uhr</i></small>
     <hr class="divider">
