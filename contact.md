@@ -19,7 +19,7 @@ permalink: /contact/
 
 <p>
     <a href="https://mastodontech.de/@jugka" target="_open" rel="noopener noreferrer">
-        <img src="{{ site.baseurl }}/assets/img/icon/twitter.png" alt="Twitter Icon"/>
+        <img src="{{ site.baseurl }}/assets/img/icon/mastodon.png" alt="Twitter Icon"/>
         Follow us on Mastodon
     </a>
 </p>
@@ -34,7 +34,7 @@ permalink: /contact/
 <h2>Aufzeichnungen</h2>
 
 <p>
-    <a href="https://www.youtube.com/channel/UCYdTF-fn50BRqkTTMOZYXAA" target="_new">
+    <a href="https://www.youtube.com/channel/UCYdTF-fn50BRqkTTMOZYXAA" target="_open" rel="noopener noreferrer">
         <img src="{{ site.baseurl }}/assets/img/icon/youtube.png" alt="Youtube Channel"/>
         Youtube Channel
     </a>

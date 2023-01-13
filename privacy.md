@@ -74,7 +74,7 @@ permalink: /privacy/
     Björn Martin<br>
     Gerwigstr. 49a<br>
     76131 Karlsruhe<br>
-    E-Mail: <a href='mailto:jugkarlsruhe@gmail.com'>jugkarlsruhe@gmail.com</a></br>
+    E-Mail: <a href='mailto:jugkarlsruhe@gmail.com'>jugkarlsruhe@gmail.com</a>
 </p>
 
 <p>
