@@ -47,15 +47,17 @@ layout: default
 {% for link in page.links %}
     <div class="row">
         <div class="col-md-2"><strong>Link:</strong></div>
-        <div class="col-md-6"><a href="{{ link }}">{{ link }}</a></div>
+        <div class="col-md-6"><a href="{{ link }}" target="_blank" rel="noopener noreferrer">{{ link }}</a></div>
     </div>
 {% endfor %}
 {% endif %}
 
 {% if content == "" or content == nil or content == blank %}
+    <br>
     <p>Für diese Veranstaltung gibt es leider keine Beschreibung.</p>
 {% else %}
-    <p>{{ content }}</p>
+    <br>
+    {{ content }}
 {% endif %}
 
 {% include speaker.html %}
