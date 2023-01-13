@@ -2,7 +2,7 @@
 layout: event
 title:  "Architektur: bitte nicht zukunftssicher!"
 date:   2023-03-01 19:15:00 +0100
-registration: tbd
+registration: https://www.meetup.com/de-DE/java-user-group-karlsruhe/events/290924227
 tags: events
 speakers:
  - ewolff
