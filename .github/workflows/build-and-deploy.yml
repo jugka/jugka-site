@@ -39,7 +39,7 @@ jobs:
         gem install jekyll-paginate
         gem install jekyll_version_plugin
     - name: "Build Site"
-      run: bundle exec jekyll build --future true
+      run: jekyll build --future true
       env:
         JEKYLL_PAT: $
     - name: "Deploy to AWS S3"
