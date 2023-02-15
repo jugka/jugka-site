@@ -1,0 +1,47 @@
+name: CI / CD
+
+# Controls when the action will run. 
+on:
+  # Triggers the workflow on push for the main branch
+  push:
+    branches: [ master ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  
+env:
+  AWS_ACCESS_KEY_ID: $
+  AWS_SECRET_ACCESS_KEY: $
+  AWS_DEFAULT_REGION: 'eu-central-1'
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 2.7
+        bundler-cache: true
+    - uses: actions/cache@v2
+      with:
+        path: vendor/bundle
+        key: $-gems-$
+        restore-keys: |
+          $-gems-
+    - name: Install dependencies
+      run: |
+        gem install bundler
+        gem install jekyll
+        bundle config path vendor/bundle
+        bundle install --jobs 4 --retry 3        
+    - name: "Build Site"
+      run: bundle exec jekyll build
+      env:
+        JEKYLL_PAT: $
+    - name: "Deploy to AWS S3"
+      run: aws s3 sync ./_site/ s3://$ --acl public-read --delete --cache-control max-age=604800
+    - name: "Create AWS Cloudfront Invalidation"
+      run: aws cloudfront create-invalidation --distribution-id $ --paths "/*"
