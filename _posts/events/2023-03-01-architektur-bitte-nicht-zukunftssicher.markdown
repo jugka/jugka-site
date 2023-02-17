@@ -10,3 +10,6 @@ location: synyx-glas
 ---
 
 Architektur soll stabil sein! Die Wahl der richtigen Architektur sorgt dafür, dass Software in Zukunft weiterentwickelt werden kann! Was zunächst sinnvoll erscheint, erweist sich oft als erster Schritt hin zu einem Architektur-Fehlschlag. Wenn sich die Anforderungen, das Wissen oder die Technologien ändern, sollte sich die Architektur auch ändern. Wie kann sie dann zukunftssicher sein? Die Präsentation zeigt, wie das Paradoxon aufgelöst werden kann, und keine zukunftssichere Architektur entsteht - aber langfristiger Projekterfolg.
+
+*Wichtiger Hinweis!*
+Von dieser Veranstaltung werden Foto- und/oder Filmaufnahmen (inklusive Ton) angefertigt. Wenn Sie nicht fotografiert oder gefilmt werden möchten, können Sie direkt den/die FotografIn oder den/die Kameramann/-frau ansprechen.
