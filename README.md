@@ -12,5 +12,3 @@ gem install jekyll-paginate
 gem install jekyll_version_plugin
 
 Nach einem Aufruf von `jekyll serve --future --baseurl ''` im Wurzelverzeichnis des Projekts ist die Seite unter [http://localhost:4000](http://localhost:4000) verfügbar.
-
-[ ![Codeship Status for jugka/jugka-site](https://codeship.com/projects/06449d90-2641-0133-63ce-3adb94c90ba9/status?branch=master)](https://codeship.com/projects/97045)
