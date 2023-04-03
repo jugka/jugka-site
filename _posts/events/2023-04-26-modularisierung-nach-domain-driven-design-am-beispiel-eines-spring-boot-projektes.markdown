@@ -2,7 +2,7 @@
 layout: event
 title:  "Modularisierung nach Domain-driven Design am Beispiel eines Spring Boot Projektes"
 date:   2023-04-26 19:15:00 +0200
-registration: tbd
+registration: https://www.meetup.com/de-DE/java-user-group-karlsruhe/events/292670694/
 tags: events
 speakers:
  - pkromeyer
