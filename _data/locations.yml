@@ -132,6 +132,12 @@ diva-e:
   name: diva-e Karlsruhe
   address: Ludwig-Erhard-Allee 20
   postcode: 76131 Karlsruhe
+diva-e-23:
+  latitude: 49.0119235
+  longitude: 8.4278098
+  name: diva-e Karlsruhe
+  address: Rintheimer Str. 23
+  postcode: 76131 Karlsruhe
 etecture-durlach:
   latitude: 48.99600934714235
   longitude: 8.466550805715308
