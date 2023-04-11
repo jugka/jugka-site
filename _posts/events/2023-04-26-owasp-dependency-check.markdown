@@ -6,7 +6,7 @@ registration: https://www.meetup.com/de-DE/java-user-group-karlsruhe/events/2928
 tags: events
 speakers:
  - ajanus
-location: etecture
+ location: etecture-durlach
 ---
 
 Der Vortrag beschreibt ein konkretes Vorgehen, wie im Rahmen einer DevSecOps-Strategie die Sicherheitslücken von Software-Abhängigkeiten (Bibliotheken etc.) einer Anwendung über CI (Continuous Integration) mit Jenkins kontinuierlich überwacht und ggf. Maßnahmen ergriffen werden können. Dabei wird auch grundlegendes Wissen rund um Sicherheitslücken (CPE, CVE etc.) vermittelt.
