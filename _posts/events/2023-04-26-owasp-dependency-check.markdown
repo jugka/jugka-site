@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Sicherheitslücken in Software-Abhängigkeiten mit dem OWASP Dependency Check"
-date:   2023-04-26 19:15:00 +0200
+date:   2023-05-10 19:15:00 +0200
 registration: https://www.meetup.com/de-DE/java-user-group-karlsruhe/events/292829165/
 tags: events
 speakers:
