@@ -28,7 +28,7 @@ permalink: /imprint/
 
 <p>
     Michael Prieß<br>
-    Rainer Steinegger<br>
+    Jochen Binder<br>
     Theo Grip
 </p>
 
