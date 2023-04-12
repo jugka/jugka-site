@@ -14,7 +14,6 @@ permalink: /privacy/
 </p>
 <p>
     <strong>Vertreten durch: </strong><br>
-    Michael Prieß<br>
     Jochen Binder<br>
     Theo Grip
 </p>
