@@ -15,7 +15,7 @@ permalink: /privacy/
 <p>
     <strong>Vertreten durch: </strong><br>
     Michael Prieß<br>
-    Rainer Steinegger<br>
+    Jochen Binder<br>
     Theo Grip
 </p>
 
