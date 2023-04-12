@@ -16,12 +16,12 @@ permalink: /imprint/
 <p>
     <strong>Vertreten durch: </strong><br>
     Michael Prieß<br>
-    Rainer Steinegger<br>
+    Jochen Binder<br>
     Theo Grip
 </p>
 <p>
     <strong>Kontakt:</strong><br>
-    E-Mail: <a href='mailto:jugkarlsruhe@gmail.com'>jugkarlsruhe@gmail.com</a></br>
+    E-Mail: <a href='mailto:jugkarlsruhe@gmail.com'>jugkarlsruhe@gmail.com</a>
 </p>
 
 <strong>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</strong>
