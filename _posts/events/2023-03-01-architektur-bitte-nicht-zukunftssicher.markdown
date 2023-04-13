@@ -6,6 +6,7 @@ registration: https://www.meetup.com/de-DE/java-user-group-karlsruhe/events/2909
 tags: events
 speakers:
  - ewolff
+youtube: https://youtu.be/8vWlF9U9R8Y
 location: synyx-glas
 ---
 
