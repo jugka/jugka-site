@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  "Sicherheitslücken in Software-Abhängigkeiten mit dem OWASP Dependency Check"
+title:  "Sicherheitslücken mit OWASP Dependency Check Plugin im Jenkins überwachen"
 date:   2023-05-10 19:15:00 +0200
 registration: https://www.meetup.com/de-DE/java-user-group-karlsruhe/events/292829165/
 tags: events
