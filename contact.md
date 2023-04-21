@@ -18,7 +18,7 @@ permalink: /contact/
 <h2>Social & Infos</h2>
 
 <p>
-    <a href="https://mastodontech.de/@jugka" target="_open" rel="noopener noreferrer">
+    <a href="https://ijug.social/@jugka" target="_open" rel="noopener noreferrer">
         <img src="{{ site.baseurl }}/assets/img/icon/mastodon.png" alt="Twitter Icon"/>
         Follow us on Mastodon
     </a>
