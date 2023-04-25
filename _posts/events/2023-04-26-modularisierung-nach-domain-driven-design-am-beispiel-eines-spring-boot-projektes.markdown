@@ -11,7 +11,7 @@ location: diva-e-23
 
 Patrick wird uns einen Einblick in die Modularisierung einer Spring Boot Applikation nach Domain-driven Design geben. Nah am Quellcode möchte er die Konzepte von DDD und eine beispielhafte Umsetzung präsentieren.
 
-*ACHTUNG! NEUE LOCATION:* diva-e Rintheimer Str. 23 
+*ACHTUNG! NEUE LOCATION:* diva-e Rintheimer Str. 23 (Eingang B, 2. OG)
 
 *Wichtiger Hinweis!*
 
