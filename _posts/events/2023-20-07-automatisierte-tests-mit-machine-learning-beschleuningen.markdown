@@ -2,7 +2,7 @@
 layout: event
 title:  "Automatisierte Tests mit Machine Learning und verteilter Ausführung beschleunigen"
 date:   2023-07-20 19:15:00 +0200
-registration: tba
+registration: https://www.meetup.com/de-DE/java-user-group-karlsruhe/events/293177419/
 tags: events
 speakers:
 - mphilipp
