@@ -63,3 +63,33 @@ layout: default
 
 {% include speaker.html %}
 {% include map.html %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "{{ page.title }}",
+  "startDate": "{{ page.date | date: "%Y-%m-%d" }}",
+  "endDate": "{{ page.date | date: "%Y-%m-%d" }}",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "location": {
+    "@type": "Place",
+    "name": "{{ location.name }}",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "{{ location.address }}",
+      "postalCode": "{{ location.postcode }}",
+      "addressCountry": "DE"
+    }
+  },
+  "image": [
+    "https://jug-karlsruhe.de/assets/img/banner.jpeg"
+   ],
+  "organizer": {
+    "@type": "Organization",
+    "name": "Java User Group Karlsruhe",
+    "url": "https://jug-karlsruhe.de"
+  }
+}
+</script>

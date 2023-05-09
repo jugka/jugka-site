@@ -9,144 +9,169 @@ diva-e34:
   longitude: 8.423142
   name: diva-e Karlsruhe
   address: Ludwig-Erhard-Allee 34
-  postcode: 76131 Karlsruhe
+  postcode: 76131
+  place: Karlsruhe
 tante-emma:
   latitude: 48.995591
   longitude: 8.402689
   name: Café Tante Emma
   address: Am Stadtgarten 11
-  postcode:  76137 Karlsruhe
+  postcode:  76137
+  place: Karlsruhe
 hs-karlsruhe-m202:
   latitude: 49.016145
   longitude: 8.390573
   name: Hochschule Karlsruhe
   address: Moltkestr. 30
   address2: Gebäude M, Raum M-202 (2.OG)
-  postcode: 76133 Karlsruhe
+  postcode: 76133
+  place: Karlsruhe
 synyx:
   latitude: 49.003930
   longitude: 8.385108
   name: Synyx GmbH & Co. KG
   address: Gartenstraße 67
-  postcode: 76135 Karlsruhe
+  postcode: 76135
+  place: Karlsruhe
 synyx-glas:
   latitude: 49.00273170035233
   longitude: 8.384865129227087
   name: Synyx GmbH & Co. KG (Gläserne Softwarefabrik)
   address: Brauerstraße 12
-  postcode: 76135 Karlsruhe
+  postcode: 76135
+  place: Karlsruhe
 uni-ka-hs101:
   latitude: 49.013685
   longitude: 8.419475
   name: KIT Karlsruhe
   address: Am Fasanengarten 5
   address2: Gebäude 50.34, Raum HS101 (UG)
-  postcode: 76131 Karlsruhe
+  postcode: 76131
+  place: Karlsruhe
 tefabrik:
   latitude: 49.012412
   longitude: 8.425444
   name: Technologie Fabrik Karlsruhe
   address: Haid-und-Neu-Straße 7
-  postcode: 76131 Karlsruhe
+  postcode: 76131
+  place: Karlsruhe
 netpioneer:
   latitude: 49.003832
   longitude: 8.420375
   name: diva-e Karlsruhe
   address: Ludwig-Erhard-Allee 20
-  postcode: 76131 Karlsruhe
+  postcode: 76131
+  place: Karlsruhe
 fiducia:
   latitude: 48.993601
   longitude: 8.448069
   name: Fiducia & GAD IT AG
   address: Fiduciastraße 20
-  postcode: 76227 Karlsruhe
+  postcode: 76227
+  place: Karlsruhe
 ptvag:
   latitude: 49.013071
   longitude: 8.427393
   name: PTV Group
   address: Haid-und-Neu-Straße 15
-  postcode: 76131 Karlsruhe
+  postcode: 76131
+  place: Karlsruhe
 megapart:
   latitude: 49.000975
   longitude: 8.467432
   name: MegaPart GmbH
   address: Zur Gießerei 6
-  postcode: 76227 Karlsruhe
+  postcode: 76227
+  place: Karlsruhe
 poet:
   latitude: 48.997449
   longitude: 8.464596
   name: POET GmbH
   address: An der RaumFabrik 33a
-  postcode: 76227 Karlsruhe
+  postcode: 76227
+  place: Karlsruhe
 disy:
   latitude: 49.004778
   longitude: 8.416159
   name: Disy Informationssysteme GmbH
   address: Ludwig-Erhard-Allee 6
-  postcode: 76131 Karlsruhe
+  postcode: 76131
+  place: Karlsruhe
 disy2:
   latitude: 49.0006475
   longitude: 8.4245764
   name: Disy Informationssysteme GmbH
   address: Zimmerstraße 3
-  postcode: 76137 Karlsruhe
+  postcode: 76137
+  place: Karlsruhe
 1und1:
   latitude: 48.998685
   longitude: 8.378174
   name: 1und1
   address: Ernst-Frey-Str. 10
-  postcode: 76135 Karlsruhe
+  postcode: 76135
+  place: Karlsruhe
 citrix:
   latitude: 49.00574
   longitude: 8.43175
   name: LogMeIn (ehemals Citrix)
   address:  Alter Schlachthof 51
-  postcode: 76131 Karlsruhe
+  postcode: 76131
+  place: Karlsruhe
 marktluecke:
   latitude: 49.009034
   longitude: 8.4030612
   name: Marktlücke
   address:  Zähringerstraße 96
-  postcode: 76133 Karlsruhe
+  postcode: 76133
+  place: Karlsruhe
 etecture:
   latitude: 49.012690
   longitude: 8.366946
   name: ETECTURE GmbH
   address:  Bachstraße 43
-  postcode: 76185 Karlsruhe
+  postcode: 76185
+  place: Karlsruhe
 chrono24:
   latitude: 49.012614
   longitude: 8.427035
   name: Chrono24 GmbH
   address:  Haid-und-Neu-Straße 18
-  postcode: 76131 Karlsruhe
+  postcode: 76131
+  place: Karlsruhe
 itscope:
     latitude: 49.003832
     longitude: 8.420375
     name: ITscope
     address: Ludwig-Erhard-Allee 20
-    postcode: 76131 Karlsruhe
+    postcode: 76131
+    place: Karlsruhe
 diva-e:
   latitude: 49.003832
   longitude: 8.420375
   name: diva-e Karlsruhe
   address: Ludwig-Erhard-Allee 20
-  postcode: 76131 Karlsruhe
+  postcode: 76131
+  place: Karlsruhe
 diva-e-23:
   latitude: 49.0113929124782
   longitude: 8.427336243697429
   name: diva-e Karlsruhe (Eingang B, 2. OG)
   address: Rintheimer Str. 23
-  postcode: 76131 Karlsruhe
+  postcode: 76131
+  place: Karlsruhe
 etecture-durlach:
   latitude: 48.99600934714235
   longitude: 8.466550805715308
   name: ETECTURE GmbH
-  address: Amalienbadstraße 41 / Gebäude D, 3. Etage
-  postcode: 76227 Karlsruhe
+  address: Amalienbadstraße 41
+  address2: Gebäude D, 3. Etage
+  postcode: 76227
+  place: Karlsruhe
 itscope-durlacher:
     latitude: 49.006924295054034
     longitude: 8.432405203693616
     name: ITscope
     address: Durlacher Allee 73
-    postcode: 76131 Karlsruhe
+    postcode: 76131
+    place: Karlsruhe
