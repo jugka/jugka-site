@@ -7,6 +7,9 @@ tags: events
 speakers:
  - ajanus
 location: etecture-durlach
+slides:
+    name: PDF
+    url: /assets/slides/2023-05-10-DevSecOps_JUG-KA.pdf
 ---
 
 Der Vortrag beschreibt ein konkretes Vorgehen, wie im Rahmen einer DevSecOps-Strategie die Sicherheitslücken von Software-Abhängigkeiten (Bibliotheken etc.) einer Anwendung über CI (Continuous Integration) mit Jenkins kontinuierlich überwacht und ggf. Maßnahmen ergriffen werden können. Dabei wird auch grundlegendes Wissen rund um Sicherheitslücken (CPE, CVE etc.) vermittelt.
