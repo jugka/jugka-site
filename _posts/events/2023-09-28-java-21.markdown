@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Java 21 ist da"
-date:   2023-09-28 19:15:00 +0200
+date:   2023-09-19 19:15:00 +0200
 registration: tba
 tags: events
 speakers:
