@@ -6,6 +6,6 @@ tags: news
 ---
 
 Diesen Herbst (24./25.10.2023) steht in Karlsruhe wieder die Entwicklerkonferenz Accento powered by disy an.
-Schaut euch doch mal das Programm an: [https://2023.accento.dev/talks/]
+Schaut euch doch mal das Programm an: [Accento.dev Talks](https://2023.accento.dev/talks/)
 
-Wir von der JUG Karlsruhe haben die Möglichkeit an rabattierte Tickets zu kommen. Bei Interesse, könnt Ihr euch gerne bei uns via  [mailto:jugkarlsruhe@gmail.com] melden oder uns bei einem der nächsten Meetups ansprechen.
+Wir von der JUG Karlsruhe haben die Möglichkeit an rabattierte Tickets zu kommen. Bei Interesse, könnt Ihr euch gerne bei uns via  (jugkarlsruhe@gmail.com)[mailto:jugkarlsruhe@gmail.com] melden oder uns bei einem der nächsten Meetups ansprechen.
