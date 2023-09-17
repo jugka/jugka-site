@@ -2,7 +2,7 @@
 layout: event
 title:  "Architekturexplizite Java-Applikationen mit jMolecules"
 date:   2023-10-25 19:15:00 +0200
-registration: tba
+registration: https://www.meetup.com/de-DE/java-user-group-karlsruhe/events/296169813
 tags: events
 speakers:
  - ogierke
