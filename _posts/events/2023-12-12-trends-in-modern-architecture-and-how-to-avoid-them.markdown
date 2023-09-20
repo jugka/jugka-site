@@ -2,7 +2,7 @@
 layout: event
 title:  "Trends in modern software architecture ...and how to avoid them"
 date:   2023-12-12 19:15:00 +0100
-registration: tbd
+registration: https://www.meetup.com/de-DE/java-user-group-karlsruhe/events/296236433/
 tags: events
 speakers:
  - smueller
