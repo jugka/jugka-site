@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Trends in modern software architecture ...and how to avoid them"
-date:   2023-12-12 19:15:00 +0200
+date:   2023-12-12 19:15:00 +0100
 registration: tbd
 tags: events
 speakers:
