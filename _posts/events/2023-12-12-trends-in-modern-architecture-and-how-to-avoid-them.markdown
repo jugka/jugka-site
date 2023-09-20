@@ -19,8 +19,6 @@ Beispielen möchte dieser Vortrag diverse Patterns, Methoden und
 Technologien beleuchten... und wie (und wieso) man diese am besten
 vermeidet.
 
-Wichtig: Die Teilnahme am zweiten Teil (Event Storming) ist nur vor Ort möglich.
-
 *Wichtiger Hinweis!*
 
 Auf der Veranstaltung werden Film- und Tonaufnahmen sowie Fotos gemacht, mit deren auch späteren Verwendung Sie sich durch den Besuch der Veranstaltung einverstanden erklären. Wenn Sie nicht fotografiert oder gefilmt werden möchten, können Sie direkt den/die FotografIn oder den/die Kameramann/-frau ansprechen.
