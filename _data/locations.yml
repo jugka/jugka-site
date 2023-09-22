@@ -175,3 +175,10 @@ itscope-durlacher:
     address: Durlacher Allee 73
     postcode: 76131
     place: Karlsruhe
+abas:
+  latitude: 49.004786783268656
+  longitude: 8.384846123292249
+  name: abas
+  address: Gartenstraße 67
+  postcode: 76135
+  place: Karlsruhe

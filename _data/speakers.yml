@@ -491,13 +491,10 @@ asteiner:
   bio: Andreas Steiner, Development Expert bei SAP SE im SapMachine/SAPJVM Team mit knapp 20 Jahren Erfahrung in Java Performance, Troubleshooting und Kundensupport im SAP Umfeld.
 jbechberger:
   name: Johannes Bechberger
-  bio: Johannes Bechberger arbeitet im SAP SE im SapMachine/SAPJVM Team und beschäftigt sich aktuell mit Profiling Tools.
+  bio: Johannes Bechberger is a JVM developer working on profilers and their underlying technology in the SapMachine team at SAP. This includes improvements to async-profiler and its ecosystem, a website to view the different JFR event types, and improvements to the FirefoxProfiler, making it usable in the Java world. He started at SAP in 2022 after two years of research studies at the KIT in the field of Java security analyses. His work today is comprised of many open-source contributions and his blog, where he writes regularly on in-depth profiling and debugging topics, and of working on his JEP Candidate 435 to add a new profiling API to the OpenJDK.
 cenglert:
   name: Chris Englert
   bio: Ist in seiner Rolle als Solution Architect bei ETECTURE und kann das Coden nicht lassen. :)
-pkromeyer:
-  name: Patrick Kromeyer
-  bio: Patrick Kromeyer ist Softwareentwickler bei der diva-e in Karlsruhe. Clean Code, Architektur, Domain-driven Design, Kotlin und TypeScript sind seine favorisierten Themengebiete.
 pkromeyer:
   name: Patrick Kromeyer
   bio: Patrick Kromeyer ist Softwareentwickler bei der diva-e in Karlsruhe. Clean Code, Architektur, Domain-driven Design, Kotlin und TypeScript sind seine favorisierten Themengebiete.
