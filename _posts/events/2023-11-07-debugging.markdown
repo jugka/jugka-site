@@ -2,8 +2,7 @@
 layout: event
 title:  "Debugging Unveiled: Exploring Debugger Internals to Make You a Better Developer"
 date:   2023-11-07 19:15:00 +0200
-
-[//]: # (registration: https://www.meetup.com/de-DE/java-user-group-karlsruhe/events/293109079/)
+registration: https://www.meetup.com/java-user-group-karlsruhe/events/296579956/
 tags: events
 speakers:
  - jbechberger
