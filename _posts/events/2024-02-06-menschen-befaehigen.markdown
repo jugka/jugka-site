@@ -9,15 +9,7 @@ speakers:
 location: diva-e-23
 ---
 
-"Projekte, an denen wir mitwirken oder die wir auch verantworten, brauchen fähige Leute, um am Ende ein Ergebnis zu erzielen, das unsere Kunden zufriedenstellt.
-
-Gut, wenn wir auf Menschen auf Mid- oder Seniorlevel zugreifen können. Schlecht ist jedoch, dass wir in einer Zeit leben, die viel zu wenig gut ausgebildete und erfahrene Entwickler für unsere Projekte bietet.
-
-Gleichzeitig gibt es eine Menge Quereinsteiger, potenziell fähige Menschen, die nur darauf warten, sich zu beweisen – aber wir nehmen sie nicht in Projekte rein, weil sie ja „nichts von dem können, was wir brauchen“.
-
-Um das Gegenteil zu beweisen, stelle ich euch meine Erfahrungen vor, die ich in den letzten Jahren gesammelt habe. Wie identifiziere ich gute Quereinsteiger?
-
-Wie unterscheide ich die Leute mit Potential von denen, die es nicht haben? Und wie entfessle ich ihr Potenzial? Wie mache ich sie fit für ihr erstes IT-Projekt? Und welche Risiken liegen auf diesem Weg?
+"Projekte, an denen wir mitwirken oder die wir auch verantworten, brauchen fähige Leute, um am Ende ein Ergebnis zu erzielen, das unsere Kunden zufriedenstellt. Gut, wenn wir auf Menschen auf Mid- oder Seniorlevel zugreifen können. Schlecht ist jedoch, dass wir in einer Zeit leben, die viel zu wenig gut ausgebildete und erfahrene Entwickler für unsere Projekte bietet. Gleichzeitig gibt es eine Menge Quereinsteiger, potenziell fähige Menschen, die nur darauf warten, sich zu beweisen – aber wir nehmen sie nicht in Projekte rein, weil sie ja „nichts von dem können, was wir brauchen“. Um das Gegenteil zu beweisen, stelle ich euch meine Erfahrungen vor, die ich in den letzten Jahren gesammelt habe. Wie identifiziere ich gute Quereinsteiger? Wie unterscheide ich die Leute mit Potential von denen, die es nicht haben? Und wie entfessle ich ihr Potenzial? Wie mache ich sie fit für ihr erstes IT-Projekt? Und welche Risiken liegen auf diesem Weg?
 
 *Wichtiger Hinweis!*
 
