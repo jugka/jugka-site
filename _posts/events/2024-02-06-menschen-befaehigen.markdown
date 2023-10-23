@@ -2,7 +2,7 @@
 layout: event
 title:  "Menschen befähigen - Wie finden Quereinsteiger den Weg in ihr erstes Projekt?"
 date:   2024-02-06 19:15:00 +0100
-registration: tbd
+registration: tba
 tags: events
 speakers:
  - amonschau
