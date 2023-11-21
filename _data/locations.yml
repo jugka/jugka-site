@@ -182,3 +182,10 @@ abas:
   address: Gartenstraße 67
   postcode: 76135
   place: Karlsruhe
+dm:
+  latitude: 49.0030365759852
+  longitude: 8.45552866134271
+  name: dm-dialogicum
+  address: Am dm-Platz 1
+  postcode: 76227
+  place: Karlsruhe
