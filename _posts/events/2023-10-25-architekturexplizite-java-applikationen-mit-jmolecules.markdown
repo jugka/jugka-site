@@ -6,6 +6,7 @@ registration: https://www.meetup.com/de-DE/java-user-group-karlsruhe/events/2961
 tags: events
 speakers:
  - ogierke
+youtube: https://youtu.be/u2dY9LzFRM4
 location: synyx-glas
 ---
 
