@@ -1,0 +1,15 @@
+{% for post in site.tags.events reversed %}
+    {% if post.date > site.time %}
+    <script type="speculationrules">
+    {
+      "prerender": [
+        {
+          "source": "list",
+          "urls": ["{{ post.url }}"]
+        }
+      ]
+    }
+    </script>
+    {% break %}
+    {% endif %}
+{% endfor %}
