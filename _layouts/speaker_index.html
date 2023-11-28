@@ -19,6 +19,12 @@ layout: default
 <a href="https://twitter.com/{{ speaker.twitter }}" target="_new">@{{ speaker.twitter }}</a>
 </p>
 {% endif %}
+{% if speaker.mastodon %}
+<p>
+<a href="https://{{ speaker.mastodon.host }}/@{{ speaker.mastodon.handle }}" target="_blank" rel="noopener noreferrer"><img src="{{ site.baseurl }}/assets/img/icon/mastodon.png" alt="@{{ speaker.mastodon.handle }}@{{ speaker.mastodon.host }}"/></a>
+<a href="https://{{ speaker.mastodon.host }}/@{{ speaker.mastodon.handle }}" target="_blank" rel="noopener noreferrer">@{{ speaker.mastodon.handle }}@{{ speaker.mastodon.host }}</a>
+</p>
+{% endif %}
 
 {% assign index = true %}
 
