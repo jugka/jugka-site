@@ -1,12 +1,13 @@
 ---
 layout: event
-title:  "Hybrid-Domain Driven Design und Eventstorming/eine praktische Einführung"
+title:  "Domain Driven Design und Eventstorming - eine praktische Einführung"
 date:   2023-05-24 19:15:00 +0200
 registration: https://www.meetup.com/de-DE/java-user-group-karlsruhe/events/293109079/
 tags: events
 speakers:
  - sbelger
  - smueller
+youtube: https://youtu.be/oWbEj00K79k
 location: synyx-glas
 ---
 
