@@ -3,6 +3,9 @@ ewolff:
     bio: Eberhard Wolff ist Fellow bei INNOQ und arbeitet seit mehr als fünfzehn Jahren als Architekt und Berater, oft an der Schnittstelle zwischen Business und Technologie. Er ist Autor zahlreicher Artikel und Bücher, u.a. zu Continuous Delivery und Microservices und trägt regelmäßig als Sprecher auf internationalen Konferenz vor. Sein technologischer Schwerpunkt sind moderne Architektur- und Entwicklungsansätze wie Cloud, Continuous Delivery, DevOps und Microservices.
     homepage: https://ewolff.com
     twitter: ewolff
+    mastodon:
+        handle: ewolff
+        host: mastodon.social
 anierbeck:
     name: Achim Nierbeck
     bio: Achim Nierbeck ist Senior Consultant bei der codecentric AG in Karlsruhe. Er hat 15 Jahre Erfahrung im Java-Enterprise- Umfeld. In seiner Freizeit beschäftigt sich der Apache Member unter anderem mit dem OSGi Server Apache Karaf (Comitter und PMC seit 2011), bzw. dem OSGi Web-Container Pax Web.
@@ -17,6 +20,9 @@ jarrasz:
     name: Joachim Arrasz
     bio:  Joachim Arrasz ist als Software- und Systemarchitekt in Karlsruhe bei der synyx GmbH & Co. KG als Leiter der CodeClinic tätig. Darüber hinaus twittert (@arrasz) und bloggt er gerne (http://blog.synyx.de/)
     twitter: arrasz
+    mastodon:
+        handle: arrasz
+        host: mastodon.social
 cmennerich:
     name: Christian Mennerich
     bio: Christian Mennerich hat Diplom-Informatik studiert, einer seiner Schwerpunkte lag auf Theorie und Implementation von Datenbanksystemen. Er arbeitet als Entwickler bei der synyx GmbH & Co. KG in Karlsruhe, wo er sich unter anderem mit NoSQL beschäftigt.
@@ -73,6 +79,9 @@ bmartin:
     name: Björn Martin
     bio: Björn Martin ist seit über 20 Jahren als Entwickler, Architekt und Manager in der IT-Branche aktiv. Mittlerweile bei der synyx angekommen, war er auch mal Co-Organisator der JUG Karlsruhe.
     twitter: bjrnmrtn
+    mastodon:
+        handle: bjrnmrtn
+        host: mastodon.social
 nbyl:
     name: Nicolas Byl
     bio: Nicolas Byl studierte Medizinische Informatik an der Hochschule Heilbronn und Universität Heidelberg. Während des Studiums sammelte er erste Erfahrungen im Umfeld von Java-basierten Webportalen. Seit 2012 arbeitet bei der Netpioneer GmbH in Karlsruhe. Dort arbeitet er an Individualsoftware-Projekten im Bereich JEE und Spring. Dabei versucht er seinen Kollegen und Kunden die Vorzüge von Clean Code und TDD nahe zu bringen.
@@ -356,6 +365,9 @@ mpriess:
     name: Michael Prieß
     bio: Michael Prieß ist Software-Entwickler bei der diva-e Netpioneer Gmbh in Karlsruhe und einer der Organisatoren der Java User Group Karlsruhe.
     twitter: mpriess
+    mastodon:
+        handle: mpriess
+        host: karlsruhe.social
 tfrech:
     name: Tobias Frech
     bio: Tobias Frech ist Geschäftsführer der Frech IT GmbH. Die Frech IT berät Ihre Kunden beim Betrieb Ihrer Java-Anwendungen. Dabei reicht das Themenspektrum im Bereich Performance von der Analyse über Optimierung bist hin zum Redesign, im Bereich Security von Code-Reviews bis zum Review oder Design ganzer Systeme und im Bereich Betrieb von der Optimierung der JVM-Einstellungen, über Garbage Collection Analyse bis hin zur Einführung von Automatisierung im Release- und Konfigurationsmanagement.
