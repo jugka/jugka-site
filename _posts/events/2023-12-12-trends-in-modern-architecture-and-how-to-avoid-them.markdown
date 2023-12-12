@@ -19,8 +19,7 @@ Beispielen möchte dieser Vortrag diverse Patterns, Methoden und
 Technologien beleuchten... und wie (und wieso) man diese am besten
 vermeidet.
 
-*Livestream:*
-https://www.youtube.com/@SynyxDe/live
+[Zum Livestream](https://www.youtube.com/@SynyxDe/live)
 
 *Wichtiger Hinweis!*
 
