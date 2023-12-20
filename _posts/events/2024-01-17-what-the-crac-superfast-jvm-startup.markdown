@@ -2,7 +2,7 @@
 layout: event
 title:  "What the CRaC - Superfast JVM startup"
 date:   2024-01-17 19:15:00 +0100
-registration: tbd
+registration: https://www.meetup.com/de-DE/java-user-group-karlsruhe/events/298050613/
 tags: events
 speakers:
  - ggrunwald
