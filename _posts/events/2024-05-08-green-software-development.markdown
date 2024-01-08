@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Green Software Development – Lasst uns Verantwortung übernehmen!"
-date:   2024-03-06 19:15:00 +0100
+date:   2024-05-08 19:15:00 +0100
 registration: tba
 tags: events
 speakers:
@@ -21,7 +21,7 @@ Wir, Nadine Müller und Johanna Mergler sind Software Developer bei der diva-e N
 
 Wir sind beide sehr interessiert an Green Software Development und haben zu diesem Thema auch schon interne Vorträge gehalten. Wir wollen ein Bewusstsein dafür schaffen, wie groß der Einfluss digitaler Technologien auf die Umwelt ist. Uns ist vor allem aber wichtig herauszufinden und zu zeigen, welchen Impact jeder von uns in der täglichen Arbeit hier hat und wie leicht das tatsächlich umzusetzen ist.
 
-Im Alltag sind wir beide im Projektgeschäft tätig und versuchen dort diese Aspekte auch einzubringen. 
+Im Alltag sind wir beide im Projektgeschäft tätig und versuchen dort diese Aspekte auch einzubringen.
 
 *Wichtiger Hinweis!*
 
