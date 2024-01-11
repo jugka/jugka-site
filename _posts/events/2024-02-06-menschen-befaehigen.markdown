@@ -2,7 +2,7 @@
 layout: event
 title:  "Menschen befähigen - Wie finden Quereinsteiger den Weg in ihr erstes Projekt?"
 date:   2024-02-06 19:15:00 +0100
-registration: tba
+registration: https://www.meetup.com/de-DE/java-user-group-karlsruhe/events/298492873/
 tags: events
 speakers:
  - amonschau
