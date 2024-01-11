@@ -6,6 +6,7 @@ registration: tba
 tags: events
 speakers:
  - amonschau
+ - afischbach
 location: diva-e-23
 ---
 
