@@ -6,6 +6,7 @@ registration: https://www.meetup.com/de-DE/java-user-group-karlsruhe/events/2962
 tags: events
 speakers:
  - smueller
+youtube: https://youtu.be/D51_ACLSuqM
 location: synyx-glas
 ---
 
@@ -18,8 +19,6 @@ Beispiele für solche Architekturmuster. Anhand von praktischen
 Beispielen möchte dieser Vortrag diverse Patterns, Methoden und
 Technologien beleuchten... und wie (und wieso) man diese am besten
 vermeidet.
-
-[Zum Livestream](https://www.youtube.com/@SynyxDe/live)
 
 *Wichtiger Hinweis!*
 
