@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Erfahrungsbericht: Continuous Deployment des dm Shops"
-date:   2024-03-06 19:15:00 +0100
+date:   2024-03-20 19:15:00 +0100
 registration: tba
 tags: events
 speakers:
