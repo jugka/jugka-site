@@ -2,7 +2,7 @@
 layout: event
 title:  "Green Software Development – Lasst uns Verantwortung übernehmen!"
 date:   2024-05-08 19:15:00 +0100
-registration: tba
+registration: https://www.meetup.com/de-DE/java-user-group-karlsruhe/events/298550692/
 tags: events
 speakers:
  - jmergler
