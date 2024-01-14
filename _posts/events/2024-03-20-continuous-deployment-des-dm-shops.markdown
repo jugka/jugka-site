@@ -2,7 +2,7 @@
 layout: event
 title:  "Erfahrungsbericht: Continuous Deployment des dm Shops"
 date:   2024-03-20 19:15:00 +0100
-registration: tba
+registration: https://www.meetup.com/de-DE/java-user-group-karlsruhe/events/298550143/
 tags: events
 speakers:
  - jfels
