@@ -10,11 +10,11 @@ speakers:
 location: diva-e-23
 ---
 
-## Vortrag 1: Menschen befähigen - Wie finden Quereinsteiger den Weg in ihr erstes Projekt? (Andreas Monschau)
+### Vortrag 1: Menschen befähigen - Wie finden Quereinsteiger den Weg in ihr erstes Projekt? (Andreas Monschau)
 
 "Projekte, an denen wir mitwirken oder die wir auch verantworten, brauchen fähige Leute, um am Ende ein Ergebnis zu erzielen, das unsere Kunden zufriedenstellt. Gut, wenn wir auf Menschen auf Mid- oder Seniorlevel zugreifen können. Schlecht ist jedoch, dass wir in einer Zeit leben, die viel zu wenig gut ausgebildete und erfahrene Entwickler für unsere Projekte bietet. Gleichzeitig gibt es eine Menge Quereinsteiger, potenziell fähige Menschen, die nur darauf warten, sich zu beweisen – aber wir nehmen sie nicht in Projekte rein, weil sie ja „nichts von dem können, was wir brauchen“. Um das Gegenteil zu beweisen, stelle ich euch meine Erfahrungen vor, die ich in den letzten Jahren gesammelt habe. Wie identifiziere ich gute Quereinsteiger? Wie unterscheide ich die Leute mit Potential von denen, die es nicht haben? Und wie entfessle ich ihr Potenzial? Wie mache ich sie fit für ihr erstes IT-Projekt? Und welche Risiken liegen auf diesem Weg?
 
-## Vortrag 2: Vom Tellerwäscher zum Nerd – Wie finden Quereinsteiger den Start in eine digitale Karriere? (Alexander Fischbach)
+### Vortrag 2: Vom Tellerwäscher zum Nerd – Wie finden Quereinsteiger den Start in eine digitale Karriere? (Alexander Fischbach)
 
 Der Fachkräftemangel macht’s möglich: Es finden immer mehr Menschen ohne ‚klassische‘ Informatische Ausbildung den Weg in die Digitalbranche.
 Doch wird das gut gelingen?
