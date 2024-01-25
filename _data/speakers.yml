@@ -123,7 +123,7 @@ karrasz:
     bio: Katja Arrasz-Schepanski ist Marketing- und Kommunikationsmanagerin bei der synyx GmbH & Co. KG. Sie ist für die Organisation der Devoxx4kids in Deutschland zuständig.
 pfichtner:
     name: Peter Fichtner
-    bio: Peter Fichtner schloss 1998 sein Ausbildung als DV-Kaufmann bei der Fiducia IT AG ab und arbeitet seit diesem Zeitpunkt im Bereich Anwendungsentwicklung. Das Spektrum erstreckt sich von der Entwicklung von Bankenanwendungen bis hin zur Erstellung von Frameworks und Frameworkkomponenten. Seit 1999 beschäftigt er sich mit der Programmiersprache Java und verschiedenen Java-basierten Bibliotheken. Mit seinem Wissen im Bereich Test-Driven-Development, Continuous Integration in Verbindung mit agilen Entwicklungsmethoden arbeitet er in verschiedenen Gremien, welche sich um die Themen Test und Modernisierung des Build-Systems als Aufgabe gesetzt haben. Nach seinem Wechsel 2009 in die Architektur ist eine seiner größten Aufgaben die Neuimplementierugn des Business Intelligence Java Frameworks. Nicht nur in den Fiducia-Projekten, sondern auch in einigen seiner privaten Opensource-Projekten, ist Google Guava von Anfang an ein integraler Bestandteil.
+    bio: Peter Fichtner greift auf über zwei Jahrzehnte Erfahrung als Architekt, Designer und Entwickler für verschiedene Themen im Java- Umfeld zurück. Er ist seit 1995 bei der Atruvia AG tätig und fokussiert dort die Themen Test-Driven-Development (TDD), Continuous Integration (CI), Clean Code (CC) sowie agile Entwicklungspraktiken. Als Coach für agiles Softwareengineering (ASE) unterstützt Peter Fichtner seit nunmehr zehn Jahren Teams mit Coachings, Workshops und Schulungen.
 mploed:
     name: Michael Plöd
     bio: Michael ist Fellow bei INNOQ. Seine aktuellen Interessengebiete sind Microservices, Domain-driven Design, Alternativen zu alt eingewachsenen Softwarearchitekturen, Event Sourcing und Präsentationstechniken für Entwickler und Architekten. Michael ist zudem Autor des Buchs „Hands-on Domain-driven Design - by example“ auf Leanpub.
@@ -534,3 +534,9 @@ jmergler:
 afischbach:
   name: Alexander Fischbach
   bio: Alexander Fischbach ist "Head of diva-e Campus" bei der diva-e NEXT GmbH in Karlsruhe.
+rstrassner:
+    name: Ralf Straßner
+    bio: Ralf Straßner ist seit 2011 bei der Atruvia AG und hat über 10 Jahre Erfahrung in diversen großen und kleinen Projekten und Produkten gesammelt, beispielsweise als Java-Entwickler im SEPA-Zahlungsverkehr oder als Tec-Lead und zeitweise Scrum Master für ein internes UI-Framework auf Basis von Vue.js. Seit 2013 ist Ralf Straßner als ASE-Coach im Unternehmen aktiv und unterstützt Teams bei den Herausforderungen des Projektalltages, um Produkte mit einer guten inneren und äußeren Qualität umzusetzen. Dabei setzt er seit zwei Jahren vor allem auf Technical Agile Coaching nach der Samman-Methode.
+mbuenger:
+    name: Matthias Bünger
+    bio: Matthias ist (Java-)Softwareentwickler (aktuell mehr Architektur und Teamlead als Coden) mit einer Vorliebe für Java und Testen. In seiner Freizeit geht er gerne laufen, auf Konzerte, ins Kino oder spielt Karten und Gesellschaftsspiele, insb. wenn man im Team zusammenspielen muss.
