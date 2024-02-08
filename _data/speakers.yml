@@ -540,3 +540,6 @@ rstrassner:
 mbuenger:
     name: Matthias Bünger
     bio: Matthias ist (Java-)Softwareentwickler (aktuell mehr Architektur und Teamlead als Coden) mit einer Vorliebe für Java und Testen. In seiner Freizeit geht er gerne laufen, auf Konzerte, ins Kino oder spielt Karten und Gesellschaftsspiele, insb. wenn man im Team zusammenspielen muss.
+tzoeller:
+    name: Tim Zöller
+    bio: Tim arbeitet seit 2008 mit der JVM, angefangen bei Desktopapplikationen, über Java EE bis hin zu Spring Boot – am liebsten schreibt er jedoch Applikationen mit Clojure. Er ist Gründer der lambdaschmiede GmbH aus Freiburg.
