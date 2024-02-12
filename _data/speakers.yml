@@ -543,3 +543,6 @@ mbuenger:
 tzoeller:
     name: Tim Zöller
     bio: Tim arbeitet seit 2008 mit der JVM, angefangen bei Desktopapplikationen, über Java EE bis hin zu Spring Boot – am liebsten schreibt er jedoch Applikationen mit Clojure. Er ist Gründer der lambdaschmiede GmbH aus Freiburg.
+jhappe:
+    name: Jens Happe
+    bio: Jens Happe arbeitet bei Chrono24 als Head of Software Engineering.
