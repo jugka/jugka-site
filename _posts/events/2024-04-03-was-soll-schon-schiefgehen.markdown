@@ -7,6 +7,7 @@ speakers:
 - pfichtner
 - rstrassner
 tags: events
+location: synyx-glas
 ---
 
 Ist das Streben nach einem bestimmten Testmodell sinnvoll? Und ist damit schon beantwortet, was und wie wir testen wollen?
