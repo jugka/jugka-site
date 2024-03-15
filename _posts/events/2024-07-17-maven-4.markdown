@@ -6,6 +6,7 @@ registration: tba
 tags: events
 speakers:
 - mbuenger
+location: synyx-glas
 ---
 
 All you need to know about Maven 4
