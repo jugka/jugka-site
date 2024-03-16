@@ -13,13 +13,3 @@ All you need to know about Maven 4
 
 Maven is more than 20 years old, and it's last major version (Maven 3) was released in 2010. Since then Maven got several great updates, but the Maven team also realized that Maven can't evolve further without huge changes which have the capability to break the whole ecosystem if done wrong. But after years of intensive planning and coding the release of Maven 4 is closer than ever before!
 In this talk I'll speak about the motivation and challenges the team had while developing Maven 4 and of course about its new features and improvements.
-
-*Wichtiger Hinweis!*
-
-Auf der Veranstaltung werden Film- und Tonaufnahmen sowie Fotos gemacht, mit deren auch späteren Verwendung Sie sich durch den Besuch der Veranstaltung einverstanden erklären. Wenn Sie nicht fotografiert oder gefilmt werden möchten, können Sie direkt den/die FotografIn oder den/die Kameramann/-frau ansprechen.
-
-Die Aufnahmen können im Internet, auf Social Media Kanälen sowie in Rundfunk-, TV-, und Printmedien (auch Büchern) veröffentlicht werden.
-
-Die Verarbeitung erfolgt aufgrund des berechtigten Interesses der Verantwortlichen, die von ihr organisierte Veranstaltung bildlich zu dokumentieren und einer größeren Öffentlichkeit positiv darüber zu berichten
-
-Eine Veranstaltung des iJUG e.V., organisiert durch die JUG Karlsruhe.
