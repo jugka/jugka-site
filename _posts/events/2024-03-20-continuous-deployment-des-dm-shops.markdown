@@ -6,6 +6,7 @@ registration: https://www.meetup.com/de-DE/java-user-group-karlsruhe/events/2985
 tags: events
 speakers:
  - jfels
+ - mkannegiesser
 location: dm
 ---
 
