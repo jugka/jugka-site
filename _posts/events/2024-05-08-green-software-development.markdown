@@ -22,13 +22,3 @@ Wir, Nadine Müller und Johanna Mergler sind Software Developer bei der diva-e N
 Wir sind beide sehr interessiert an Green Software Development und haben zu diesem Thema auch schon interne Vorträge gehalten. Wir wollen ein Bewusstsein dafür schaffen, wie groß der Einfluss digitaler Technologien auf die Umwelt ist. Uns ist vor allem aber wichtig herauszufinden und zu zeigen, welchen Impact jeder von uns in der täglichen Arbeit hier hat und wie leicht das tatsächlich umzusetzen ist.
 
 Im Alltag sind wir beide im Projektgeschäft tätig und versuchen dort diese Aspekte auch einzubringen.
-
-*Wichtiger Hinweis!*
-
-Auf der Veranstaltung werden Film- und Tonaufnahmen sowie Fotos gemacht, mit deren auch späteren Verwendung Sie sich durch den Besuch der Veranstaltung einverstanden erklären. Wenn Sie nicht fotografiert oder gefilmt werden möchten, können Sie direkt den/die FotografIn oder den/die Kameramann/-frau ansprechen.
-
-Die Aufnahmen können im Internet, auf Social Media Kanälen sowie in Rundfunk-, TV-, und Printmedien (auch Büchern) veröffentlicht werden.
-
-Die Verarbeitung erfolgt aufgrund des berechtigten Interesses der Verantwortlichen, die von ihr organisierte Veranstaltung bildlich zu dokumentieren und einer größeren Öffentlichkeit positiv darüber zu berichten
-
-Eine Veranstaltung des iJUG e.V., organisiert durch die JUG Karlsruhe.
