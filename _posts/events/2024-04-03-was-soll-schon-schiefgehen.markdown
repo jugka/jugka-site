@@ -2,7 +2,7 @@
 layout: event
 title:  "Risikobewusste und modulare Testdurchführung? Ach, was soll schon schiefgehen!"
 date:   2024-04-03 19:15:00 +0200
-registration: tba
+registration: https://www.meetup.com/de-DE/java-user-group-karlsruhe/events/299829139/
 speakers:
 - pfichtner
 - rstrassner
