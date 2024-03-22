@@ -2,7 +2,7 @@
 layout: event
 title:  "Embrace the func - Funktionale Programmierung mit Java"
 date:   2024-06-12 19:15:00 +0200
-registration: tba
+registration: https://www.meetup.com/de-DE/java-user-group-karlsruhe/events/299957650/
 tags: events
 speakers:
 - tzoeller
