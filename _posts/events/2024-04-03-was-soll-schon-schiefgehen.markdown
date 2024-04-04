@@ -7,6 +7,9 @@ speakers:
 - pfichtner
 - rstrassner
 tags: events
+slides:
+     name: PDF
+     url: assets/slides/2024-04-03-Risikobewusste_und_modulare_Testduchführung.pdf
 location: synyx-glas
 ---
 
