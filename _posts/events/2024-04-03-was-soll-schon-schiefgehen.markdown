@@ -9,7 +9,7 @@ speakers:
 tags: events
 slides:
      name: PDF
-     url: assets/slides/2024-04-03-Risikobewusste_und_modulare_Testduchfuehrung.pdf
+     url: /assets/slides/2024-04-03-Risikobewusste_und_modulare_Testduchfuehrung.pdf
 location: synyx-glas
 ---
 
