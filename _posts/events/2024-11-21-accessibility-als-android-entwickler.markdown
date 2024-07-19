@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Apps für alle: Accessibility als Android Entwickler"
-date:   2024-11-21 19:15:00 +0200
+date:   2024-11-21 19:15:00 +0100
 registration: tba
 tags: events
 speakers:
