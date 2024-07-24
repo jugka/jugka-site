@@ -2,11 +2,11 @@
 layout: event
 title:  "Vom Bytecode-Henne-Ei-Problem zur neuen Java Class-File API"
 date:   2024-08-28 19:15:00 +0200
-registration: tba
+registration: synyx-glas
 tags: events
 speakers:
 - bweidig
-location: tba
+location: https://www.meetup.com/java-user-group-karlsruhe/events/302427396/
 ---
 
 Bytecode-Manipulation hat eine lange Tradition im Java-Ökosystem.
