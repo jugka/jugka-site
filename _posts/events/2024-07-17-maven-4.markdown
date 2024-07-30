@@ -11,6 +11,7 @@ slides:
 speakers:
 - mbuenger
 location: synyx-glas
+youtube: https://youtu.be/2vTmuyh0TsE
 ---
 
 All you need to know about Maven 4
