@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Single Server, Global Reach: Running a Worldwide Marketplace on Bare Metal in a Cloud-Dominated World"
-date:   2024-09-18 19:15:00 +0200
+date:   2024-09-11 19:15:00 +0200
 registration: https://www.meetup.com/de-DE/java-user-group-karlsruhe/events/299957765/
 tags: events
 speakers:
