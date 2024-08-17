@@ -2,7 +2,7 @@
 layout: event
 title:  "Apps für alle: Accessibility als Android Entwickler"
 date:   2024-11-21 19:15:00 +0100
-registration: tba
+registration: https://www.meetup.com/de-DE/java-user-group-karlsruhe/events/302887486 
 tags: events
 speakers:
 - gmaier
