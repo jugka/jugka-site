@@ -555,3 +555,8 @@ gmaier:
 bweidig:
     name: Ben Weidig
     bio: Ben Weidig ist Softwareentwickler mit den Schwerpunkten Web- und Mobile-Entwicklung. Regelmäßig veröffentlicht er Artikel zu verschiedenen IT-Themen, wobei Java oftmals im Mittelpunkt steht. Im Jahr 2023 erschien sein Buch "A Functional Approach to Java" beim O'Reilly Verlag.
+    homepage: https://belief-driven-design.com/
+    twitter: mcarth
+    mastodon:
+        handle: mcarth
+        host: techhub.social
