@@ -560,3 +560,9 @@ bweidig:
     mastodon:
         handle: mcarth
         host: techhub.social
+alexthurow:
+    name: Alexander Thurow
+    bio: Alexander Thurow arbeitet als Softwareentwickler bei der ACTICO GmbH.
+    mastodon:
+        handle: alexthurow
+        host: mstdn.social
