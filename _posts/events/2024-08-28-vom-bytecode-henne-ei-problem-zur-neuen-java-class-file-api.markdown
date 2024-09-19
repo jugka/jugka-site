@@ -3,6 +3,12 @@ layout: event
 title:  "Vom Bytecode-Henne-Ei-Problem zur neuen Java Class-File API"
 date:   2024-08-28 19:15:00 +0200
 registration: https://www.meetup.com/java-user-group-karlsruhe/events/302427396/
+youtube: https://youtu.be/3hrW-vGB204
+slides: 
+    name: Web-Version
+    url: https://bytecode-chicken-egg.netlify.app/
+links:
+- https://belief-driven-design.com/talks/bytecode-henne-ei-problem-ca733/
 tags: events
 speakers:
 - bweidig
