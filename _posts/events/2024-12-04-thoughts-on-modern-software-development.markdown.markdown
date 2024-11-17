@@ -5,7 +5,7 @@ date:   2024-12-04 19:15:00 +0100
 registration: tba
 tags: events
 speakers: alexthurow
-location: tba
+location: synyx-glas
 ---
 
 “Wenn jemand eine Reise tut, so kann er was erzählen. Drum nähme ich den Stock und Hut und tät das Reisen wählen.” (Matthias Claudius, 1740-1815)
