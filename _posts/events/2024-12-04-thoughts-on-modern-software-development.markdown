@@ -2,7 +2,7 @@
 layout: event
 title:  "Thoughts on (Modern?) Software Development"
 date:   2024-12-04 19:15:00 +0100
-registration: https://www.meetup.com/de-DE/java-user-group-karlsruhe/events/304617403/?slug=java-user-group-karlsruhe
+registration: https://www.meetup.com/de-DE/java-user-group-karlsruhe/events/304617403/
 tags: events
 speakers: alexthurow
 location: synyx-glas
