@@ -566,3 +566,6 @@ alexthurow:
     mastodon:
         handle: alexthurow
         host: mstdn.social
+wchristian:
+    name: Christian Wrobel
+    bio: Ich bin Lead Architekt und Teamleiter bei der EnBW, wo ich mehrere internationale DevOps-Teams in ihrem täglichen Arbeitsablauf unterstütze. Mein Fokus liegt auf der Entwicklung von Softwarearchitekturen, wobei ich Teams u.a. bei der Durchführung von Quality-Stormings, Event-Stormings sowie Trade-Off-Analysen unterstütze. Im Software Engineering liegen meine Schwerpunkte im Bereich verteilter, eventgetriebener cloud-native Lösungen.
