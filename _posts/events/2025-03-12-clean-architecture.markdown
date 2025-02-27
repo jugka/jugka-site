@@ -6,7 +6,7 @@ registration:
 tags: events
 speakers:
 - wchristian
-location: tba
+location: synyx-glas
 ---
 
 In der heutigen Zeit haben sich Prinzipien wie Clean Code, Test-Driven 
