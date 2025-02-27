@@ -2,7 +2,7 @@
 layout: event
 title:  "Clean Architecture"
 date:   2025-03-12 19:15:00 +0100
-registration: 
+registration: https://www.meetup.com/java-user-group-karlsruhe/events/306433488/
 tags: events
 speakers:
 - wchristian
