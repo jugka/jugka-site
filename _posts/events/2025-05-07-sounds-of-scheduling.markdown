@@ -2,7 +2,7 @@
 layout: event
 title:  "Sound of Scheduling: Writing Schedulers in Java with eBPF"
 date:   2025-05-07 19:15:00 +0200
-registration: tba
+registration: https://www.meetup.com/java-user-group-karlsruhe/events/306433578/
 tags: events
 speakers:
 - jbechberger
