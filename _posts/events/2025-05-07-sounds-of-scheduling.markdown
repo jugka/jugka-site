@@ -6,7 +6,7 @@ registration: tba
 tags: events
 speakers:
 - jbechberger
-location: tba
+location: disy2
 ---
 
 eBPF is transforming Linux system capabilities, enabling the extension of the Linux kernel with custom process schedulers, firewalls, and more. Thanks to Java's recent advancements in native integration and a bit of compiler magic, we can now create these extensions directly in Java — and that's exactly what this talk is all about.
