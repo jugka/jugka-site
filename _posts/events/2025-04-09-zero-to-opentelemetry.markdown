@@ -2,7 +2,7 @@
 layout: event
 title:  "Zero to OpenTelemetry"
 date:   2025-04-09 19:15:00 +0200
-registration: tba
+registration: https://www.meetup.com/java-user-group-karlsruhe/events/306433548/
 tags: events
 speakers:
 - mmichele
