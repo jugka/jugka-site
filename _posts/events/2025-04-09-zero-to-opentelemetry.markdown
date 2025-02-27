@@ -6,7 +6,7 @@ registration: tba
 tags: events
 speakers:
 - mmichele
-location: tba
+location: synyx-glas
 ---
 
 In this talk, Michele will tell you what you need to know to start your Observability journey with OpenTelemetry with JVM-based applications on Kubernetes, (Virtual) machines and other platforms.
