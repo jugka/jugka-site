@@ -5,7 +5,7 @@ date:   2025-05-07 19:15:00 +0200
 registration: https://www.meetup.com/java-user-group-karlsruhe/events/306433578/
 tags: events
 speakers:
-- jbechberger
+- dkiefer
 location: disy2
 ---
 
