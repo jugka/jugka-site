@@ -572,3 +572,6 @@ wchristian:
 mmichele:
     name: Michele Mancioppi
     bio: ...
+dkiefer:
+    name: David Kiefer
+    bio: David Kiefer is a bachelor student in computer science at KIT. In his free time, he plays CTFs with KITCTF and has recently gotten interested in custom schedulers with sched_ext.
