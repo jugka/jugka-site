@@ -6,6 +6,7 @@ registration: https://www.meetup.com/java-user-group-karlsruhe/events/306433578/
 tags: events
 speakers:
 - dkiefer
+- jbechberger
 location: disy2
 ---
 
