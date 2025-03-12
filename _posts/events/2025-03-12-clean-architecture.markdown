@@ -9,6 +9,8 @@ speakers:
 location: synyx-glas
 ---
 
+Livestream: https://www.youtube.com/live/DY08vL2cF_E
+
 In der heutigen Zeit haben sich Prinzipien wie Clean Code, Test-Driven 
 Development und Automatisierungen durch CI/CD bereits etabliert. 
 Viele Teams haben zudem Erfahrungen mit fachlichen Schnittstellen gesammelt, 
