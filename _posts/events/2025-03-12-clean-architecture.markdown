@@ -6,6 +6,9 @@ registration: https://www.meetup.com/java-user-group-karlsruhe/events/306433488/
 tags: events
 speakers:
 - wchristian
+slides:
+     name: PDF
+     url: /assets/slides/clean-architecture.pdf
 location: synyx-glas
 ---
 
