@@ -9,6 +9,7 @@ speakers:
 slides:
      name: PDF
      url: /assets/slides/clean-architecture.pdf
+youtube: https://youtu.be/7f6eQ_cZha0
 location: synyx-glas
 ---
 
