@@ -7,6 +7,7 @@ registration: https://www.meetup.com/de-DE/Java-User-Group-Karlsruhe/events/2669
 speakers:
  - cmennerich
  - fmeseck
+youtube: https://youtu.be/FAA31oVBrBI
 location: synyx
 ---
 

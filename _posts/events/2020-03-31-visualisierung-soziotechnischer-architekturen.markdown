@@ -6,6 +6,7 @@ tags: events
 registration: https://www.meetup.com/de-DE/Java-User-Group-Karlsruhe/events/268395182
 speakers:
  - mploed
+youtube: https://youtu.be/miu8KcSrkps
 links:
  - https://innoq.zoom.us/j/819366191
 ---

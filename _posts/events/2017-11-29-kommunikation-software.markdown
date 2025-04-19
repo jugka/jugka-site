@@ -9,6 +9,7 @@ speakers:
 slides: 
     name: Online auf schauderhaft.de
     url: http://blog.schauderhaft.de/communication-talk/talk.html#/
+youtube: https://youtu.be/tB0yuVb2GgE
 location: synyx
 ---
 
