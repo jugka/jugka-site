@@ -6,6 +6,7 @@ tags: events
 registration: https://www.meetup.com/de-DE/Java-User-Group-Karlsruhe/events/258501099/
 speakers:
  - ewolff
+youtube: https://youtu.be/LZ85nnyAxsw
 location: synyx
 ---
 

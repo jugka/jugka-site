@@ -7,7 +7,10 @@ tags: events
 speakers:
 - mmichele
 location: synyx-glas
-youtube: https://www.youtube.com/@SynyxDe/live
+youtube: https://youtu.be/c6_3of2Y9e8
+links:
+- https://opentelemetry.io/
+- https://www.dash0.com/
 ---
 
 In this talk, Michele will tell you what you need to know to start your Observability journey with OpenTelemetry with JVM-based applications on Kubernetes, (Virtual) machines and other platforms.

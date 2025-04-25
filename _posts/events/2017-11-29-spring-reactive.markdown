@@ -9,6 +9,7 @@ speakers:
 slides: 
     name: Online auf schauderhaft.de
     url: http://blog.schauderhaft.de/spring-data-reactive-talk/talk.html#/
+youtube: https://youtu.be/x4JB-Ggc2fE
 location: synyx
 ---
 

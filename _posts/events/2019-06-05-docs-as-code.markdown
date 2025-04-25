@@ -6,6 +6,7 @@ registration: https://www.meetup.com/de-DE/Java-User-Group-Karlsruhe/events/2612
 tags: events
 speakers:
  - rdmueller
+youtube: https://youtu.be/SZMkWAFtrz0
 location: synyx
 ---
 

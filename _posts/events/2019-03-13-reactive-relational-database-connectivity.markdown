@@ -6,6 +6,7 @@ tags: events
 registration: https://www.meetup.com/de-DE/Java-User-Group-Karlsruhe/events/258235982/
 speakers:
  - mpaluch
+youtube: https://youtu.be/xioEiUbp6oE
 location: synyx
 ---
 

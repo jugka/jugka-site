@@ -6,8 +6,7 @@ tags: events
 registration: https://www.meetup.com/de-DE/Java-User-Group-Karlsruhe/events/268395182
 speakers:
  - mploed
-links:
- - https://innoq.zoom.us/j/819366191
+youtube: https://youtu.be/miu8KcSrkps
 ---
 
 **Aus Rücksicht auf die aktuelle Lage (Coronavirus / COVID-19) wird der Vortrag gestreamt. Den Link zum Meeting findet Ihr oben.**
