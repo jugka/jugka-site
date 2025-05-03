@@ -6,7 +6,7 @@ registration: tbd
 tags: events
 speakers:
 - szoerner
-location: diva-e34
+location: diva-e-23
 ---
 
 Mit Architekturbewertungen ist es möglich, Schwächen und Potenziale von Softwarelösungen herauszuarbeiten, Entscheidungen abzusichern und Verbesserungsmaßnahmen zu bewerten. Klassische Analyseansätze aus diesem Umfeld wie ATAM sind fundiert, kommen aber gerade in beweglichen Softwarevorhaben etwas schwergewichtig, mitunter fast zeremoniell daher. 
