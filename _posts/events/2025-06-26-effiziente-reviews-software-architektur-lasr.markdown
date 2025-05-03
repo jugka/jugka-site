@@ -2,7 +2,7 @@
 layout: event
 title:  "Die Softwarearchitektur eures Systems in Eigenregie bewerten"
 date:   2025-06-26 19:15:00 +0200
-registration: tbd
+registration: https://www.meetup.com/java-user-group-karlsruhe/events/307624816/
 tags: events
 speakers:
 - szoerner
