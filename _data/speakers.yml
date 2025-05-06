@@ -581,3 +581,6 @@ afranke:
 dsogl:
     name: Daniel Sogl
     bio: I studied Business Informatics at DHBW Stuttgart, specializing in web development with Angular and React, and developed a strong interest in AI-assisted coding. After gaining experience in consulting in the automotive and pharmaceutical sectors and serving as Lead Developer of a mobile broker app, I now work as a Software Architect at Thinktecture AG. I also train and consult, helping developers apply the latest Angular advancements and AI-powered tools for sustainable enterprise solutions. Sharing knowledge is my passion.
+mhalbritter:
+    name: Moritz Halbritter
+    bio: Software engineer, working at @Broadcom on the Spring Boot team. Team lead of Spring Initializr and start.spring.io.
