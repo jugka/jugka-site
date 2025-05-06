@@ -578,3 +578,6 @@ dkiefer:
 afranke:
     name: Arnold Franke
     bio: Seit 12 Jahren ist Arnold Franke für synyx als Software Ingenieur, Berater und Architekt in Projekten verschiedener Branchen unterwegs. Seine Motivation Mit nachhaltigen Lösungen geringer Komplexität echten Mehrwert für Menschen zu schaffen. Dabei hilft das grundlegende Interesse und langjährige Erfahrung in allen Aspekten der Software Architektur wie Team Strukturen, DDD, Event-Driven Design uvm. Diese Erfahrung, gesammelt mit verteilten und monolithischen Systemen in der Cloud und auf Blech, teilt er gerne in Artikeln für Publikationen wie dem Java Magazin und gelegentlichen Talks.
+dsogl:
+    name: Daniel Sogl
+    bio: I studied Business Informatics at DHBW Stuttgart, specializing in web development with Angular and React, and developed a strong interest in AI-assisted coding. After gaining experience in consulting in the automotive and pharmaceutical sectors and serving as Lead Developer of a mobile broker app, I now work as a Software Architect at Thinktecture AG. I also train and consult, helping developers apply the latest Angular advancements and AI-powered tools for sustainable enterprise solutions. Sharing knowledge is my passion.
