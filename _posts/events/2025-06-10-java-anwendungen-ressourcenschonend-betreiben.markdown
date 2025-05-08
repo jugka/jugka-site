@@ -9,7 +9,7 @@ speakers:
 location: tba
 ---
 
-Gemeinsam mit dem Green-Software-Development-Meetup widmen wir diesen Abend dem Thema klimafreundlicher und ressourcenschonende Java-Anwendungen.
+Gemeinsam mit dem **Green-Software-Development-Meetup** widmen wir diesen Abend dem Thema **klimafreundlicher und ressourcenschonende Java-Anwendungen**.
 
 Genauer, wie wir die Performance von Sprint Boot Anwendungen optimieren können.
 
@@ -17,8 +17,8 @@ Die These – 99% aller Spring Boot Anwendungen werden nicht optimal deployt. Es
 
 Die Frage ist nur: Wann nimmt man was? Was sind die Vorteile, was die Nachteile? Und lohnt sich der ganze Aufwand überhaupt?
 
-*Agenda*
+**Agenda**
 
-18:00 Einlass & Networking
-18:30 Vortrag mit einer kleinen Pause zwischendurch
-21:00 Ende & Networking
+- 18:00 Einlass & Networking
+- 18:30 Vortrag mit einer kleinen Pause zwischendurch
+- 21:00 Ende & Networking
