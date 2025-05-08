@@ -6,7 +6,7 @@ registration: https://www.meetup.com/green-software-development-karlsruhe/events
 tags: events
 speakers:
 - mhalbritter
-location: tba
+location: bluehands
 ---
 
 Gemeinsam mit dem **Green-Software-Development-Meetup** widmen wir diesen Abend dem Thema **klimafreundlicher und ressourcenschonende Java-Anwendungen**.
