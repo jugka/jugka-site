@@ -189,3 +189,10 @@ dm:
   address: Am dm-Platz 1
   postcode: 76227
   place: Karlsruhe
+bluehands:
+  latitude: 49.0087003
+  longitude: 8.3955221
+  name: bluehands GmbH & Communication KG
+  address: Waldstr. 63
+  postcode: 76133
+  place: Karlsruhe
