@@ -7,6 +7,9 @@ tags: events
 speakers:
 - dkiefer
 - jbechberger
+slides:
+     name: PDF
+     url: /assets/slides/jugka25_scheduling.pdf
 location: disy2
 ---
 
