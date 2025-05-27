@@ -1,0 +1,20 @@
+---
+layout: event
+title:  "JavaDay"
+date:   2025-09-17 15:45:00 +0200
+registration: tba
+tags: events
+location: disy2
+---
+
+Am 16.10.2025 ist es wieder soweit: Der JavaDay bringt euch spannende Insights und geballtes Know-how aus der Welt von Java!
+
+Themen des Abends:
+
+- Java 25 – Was bringt das Jubiläums-Release?
+- Gatherer – Deine eigenen Stream-Operationen!
+- Java Tricks – Tipps & Kniffe für den Alltag
+
+Dieses Mal starten wir etwas früher als gewohnt, aber zu viel wollen wir noch nicht verraten...
+
+Freut euch auf mehrere spannende Vorträge von drei Java Champions sowie ein exklusives Q&A mit einem Überraschungsgast, den wir bald offiziell ankündigen!
