@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "JavaDay"
-date:   2025-09-17 15:45:00 +0200
+date:   2025-10-16 15:45:00 +0200
 registration: tba
 tags: events
 location: disy2
