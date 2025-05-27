@@ -2,7 +2,7 @@
 layout: event
 title:  "Der Microservice Trade-Off"
 date:   2025-07-23 19:15:00 +0200
-registration: tba
+registration: https://www.meetup.com/java-user-group-karlsruhe/events/308089818/
 tags: events
 speakers:
 - afranke
