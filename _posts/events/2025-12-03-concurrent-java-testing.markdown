@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Eine neue Möglichkteit zum Test von concurrent, multi-threaded Java"
-date:   2025-12-03 19:15:00 +0200
+date:   2025-12-03 19:15:00 +0100
 registration: tba
 tags: events
 speakers:
