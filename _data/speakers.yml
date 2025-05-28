@@ -584,3 +584,6 @@ dsogl:
 mhalbritter:
     name: Moritz Halbritter
     bio: Software engineer, working at @Broadcom on the Spring Boot team. Team lead of Spring Initializr and start.spring.io.
+tkrieger:
+    name: Thomas Krieger
+    bio: Thomas Krieger ist als selbständiger Software Entwickler im Java Umfeld tätig. Aus seinem Interesse an komplexen Fragestellungen und Tests hat er VMLens ein Open-Source Werkzeug zum Test von multi-threaded Java geschrieben.
