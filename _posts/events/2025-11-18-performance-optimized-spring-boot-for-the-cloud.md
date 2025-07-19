@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Performance Optimized Spring Boot for the Cloud"
-date:   2025-12-03 19:15:00 +0100
+date:   2025-11-18 19:15:00 +0100
 registration: tba
 tags: events
 speakers:
