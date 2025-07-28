@@ -10,6 +10,10 @@ anierbeck:
     name: Achim Nierbeck
     bio: Achim Nierbeck ist Senior Consultant bei der codecentric AG in Karlsruhe. Er hat 15 Jahre Erfahrung im Java-Enterprise- Umfeld. In seiner Freizeit beschäftigt sich der Apache Member unter anderem mit dem OSGi Server Apache Karaf (Comitter und PMC seit 2011), bzw. dem OSGi Web-Container Pax Web.
     homepage: http://notizblog.nierbeck.de/
+abien:
+    name: Adam Bien
+    bio: Developer (Architect), Consultant, Trainer, Podcaster (https://airhacks.fm), and Java (Champion) enthusiast Adam Bien (https://adambien.blog) has been using Java since JDK 1.0 and JavaScript since LiveScript and still enjoys writing code. Adam regularly organises Java / Web / Cloud / Architectures online live workshops https://airhacks.live and a monthly Q&A live streaming show: https://airhacks.tv.
+    homepage: https://adam-bien.com
 areelsen:
     name: Alexander Reelsen
     bio: Alexander Reelsen ist Software Engineer bei elasticsearch. Nach mehreren Jahren im Bereich der JVM basierten Webentwicklung mit Fokus auf leicht zu wartenden und zu entwickelnden Frameworks wie dem Play Framework oder Dropwizard liegt sein Fokus aktuell im Bereich Information Retrieval.
