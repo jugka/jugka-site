@@ -5,16 +5,99 @@ date:   2025-10-16 15:45:00 +0200
 registration: tba
 tags: events
 location: disy2
+speakers:
+- abien
+- nparlog
+- khmarbaise
+- mphilipp
+- jbechberger
 ---
 
 Am 16.10.2025 ist es wieder soweit: Der JavaDay bringt euch spannende Insights und geballtes Know-how aus der Welt von Java!
 
-Themen des Abends:
+## Ablauf
+- 1545 Einlass
+- 1600 Vortrag 1: Java 25 - Better Language, Better APIs, Better Runtime mit Nicolai Parlog
+- 1700 Snacks
+- 1730 Vortrag 2: Gatherer mit Karl Heinz Mairbaise
+- 1830 Essen & Lightning Talks mit Johannes Bechberger und Marc Philipp
+- 1930 Vortrag 3: Java Tricks – Tipps & Kniffe für den Alltag mit Adam Bien
+- 2030 Remote Q&A mit Brian Goetz
+- 2100 Snacks
 
-- Java 25 – Was bringt das Jubiläums-Release?
-- Gatherer – Deine eigenen Stream-Operationen!
-- Java Tricks – Tipps & Kniffe für den Alltag
+## Vorträge
 
-Dieses Mal starten wir etwas früher als gewohnt, aber zu viel wollen wir noch nicht verraten...
+### Java 25 - Better Language, Better APIs, Better Runtime mit Nicolai Parlog
 
-Freut euch auf mehrere spannende Vorträge von drei Java Champions, weiteren Lightning Talks sowie ein Q&A mit einem Überraschungsgast, den wir bald offiziell ankündigen!
+Java 25 ist nächste Release mit Langzeitunterstützung und seit dem 
+letzten ist jede Menge passiert:
+
+* von Unnamed Patterns und flexibleren Konstruktoren zu Modulimporten
+* von der Foreign Function & Memory API zu Strema Gatherers und der 
+Class-File API
+* von einer einfacheren Main-Methode zum direkten Start von Quellcode
+* von Markdown in JavaDoc zu quantenresistenter Verschlüsselung
+* von schnelleren Starts zu verbesserter Garbage Collection
+
+Ob neu, verbessert oder finalisiert - es gibt jede Menge Features in der 
+Sprache, der Standardbibliothek und der Laufzeit zu besprechen. Also 
+machen wir genau das!
+
+### Stream Gatherer mit Karl Heinz Mairbaise
+
+Als Teil der JEPs 461(JDK 22), 473(JDK 23) und JEP 485
+in OpenJDK 24, ist nun eine interessante Erweiterung der Stream API 
+final integriert worden. Die sogenannten Stream-Gatherers.
+
+Die Stream-Gatherer erweitern die Stream API, um funktionalitäten, wo 
+bisher einige Limitierungen existierten, die zwar lösbar sind, aber 
+nicht notwendigerweise zu einfachem und Maintainbaren Code führten.
+
+Der Vortrag gibt einen detaillierten Einblick in die Idee und Anwendung 
+von Stream Gatherern. Welches Problem lösen Stream Gatherer? Wie 
+unterscheiden sich Stream Gatherer von Collectoren? Welche Möglichkeiten 
+bieten Stream Gatherer. Anhand von Beispielen werden die verschiedenen 
+Nutzungsaspekte veranschaulicht.
+
+Wie kann zum Beispiel eine flexiblere distinctBy-Funktion erstellt 
+werden? Ein indizierter Stream? Ein gleitendes Fenster auf den 
+Streamdaten? Die Erstellung von Gruppen auf den Streamdaten und vieles mehr.
+
+Lernziele:
+* Integration und Differenzierung von Collectors.
+* Einsatzmöglichkeiten von Stream Gatherern.
+* Verstehen, wie Stream Gatherer funktionieren.
+* Vorstellung einiger Beispielimplementierungen.
+* Vergleich mit anderen Lösungen.
+
+### Real World Lean Java Practices, Patterns, Hacks, and Workarounds mit Adam Bien
+
+Many projects still rely on assumptions from the 1990s and the JDK 1.X, such as extensive decoupling, obligatory abstractions and prioritising data objects over business logic.
+This session focuses on practical, no-nonsense design and simple code. We will explore lean Java practices and patterns that eliminate unnecessary complexity and increase productivity, including the use of LLMs.
+
+Starting with backend monoliths and microservices, we will look at how to structure and organise them, before moving on to testing, decoupling, abstractions, data-oriented programming, automation using pure Java, and the effect of LLM assistants on design and code structure. Your questions and scenarios are not only welcome — they're essential!
+
+### Lightning Talk: Java 25’s neuer CPU-Time Profiler mit Johannes Bechberger
+
+Wenn deine Java-Anwendung langsam ist, solltest du einen Java-Profiler 
+einsetzen. Vor JDK 25 erlaubte der eingebaute Java-Profiler allerdings 
+nur Profiling basierend auf der Ausführungszeit, nicht auf der CPU-Zeit, 
+und das ist nicht dasselbe. Eine Methode, die auf I/O blockiert, und 
+eine, die rechenintensiv arbeitet, können gleich aussehen … es sei denn, 
+du nutzt CPU-time profiling, das dir zeigt, was deine CPU wirklich 
+auslastet.
+
+In diesem kurzen Talk stelle ich dir den neuen CPU-time Profiler in JDK 
+25 (JEP 509) vor. Du erfährst, warum traditionelle JFR-Execution-Time-
+Profile in die Irre führen können, wie CPU-time sampling unter der Haube 
+funktioniert und wie du deine Anwendung jetzt präziser profilen kannst, 
+ohne auf unsichere oder externe Tools angewiesen zu sein.
+
+Egal, ob dir Performance wichtig ist oder du einfach die Durchsatz-
+Bottlenecks deiner App besser verstehen willst; dieser Talk vermittelt 
+dir die Grundlagen des Profilings und zeigt, warum es mit JDK 25 
+einfacher ist als je zuvor.
+
+## Lightning Talk: JUnit 6.0 mit Marc Philipp
+
+Dank des Sovereign Tech Fund hatte ich dieses und letztes Jahr die  Gelegenheit, Vollzeit an JUnit zu arbeiten. In diesem Lightning Talk werde ich von meine Erfahrungen berichten und in aller Kürze die  wichtigsten Neuerungen vorstellen. Dazu zählen unter anderem Open Test Reporting, parametrisierte Testklassen und Discovery Issues.
