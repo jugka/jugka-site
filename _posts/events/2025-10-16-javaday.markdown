@@ -25,8 +25,6 @@ Am 16.10.2025 ist es wieder soweit: Der JavaDay bringt euch spannende Insights u
 - 2030 Remote Q&A mit Brian Goetz
 - 2100 Snacks
 
-## Vorträge
-
 ### Java 25 - Better Language, Better APIs, Better Runtime mit Nicolai Parlog
 
 Java 25 ist nächste Release mit Langzeitunterstützung und seit dem 
@@ -98,6 +96,6 @@ Bottlenecks deiner App besser verstehen willst; dieser Talk vermittelt
 dir die Grundlagen des Profilings und zeigt, warum es mit JDK 25 
 einfacher ist als je zuvor.
 
-## Lightning Talk: JUnit 6.0 mit Marc Philipp
+### Lightning Talk: JUnit 6.0 mit Marc Philipp
 
-Dank des Sovereign Tech Fund hatte ich dieses und letztes Jahr die  Gelegenheit, Vollzeit an JUnit zu arbeiten. In diesem Lightning Talk werde ich von meine Erfahrungen berichten und in aller Kürze die  wichtigsten Neuerungen vorstellen. Dazu zählen unter anderem Open Test Reporting, parametrisierte Testklassen und Discovery Issues.
+Dank des Sovereign Tech Fund hatte ich dieses und letztes Jahr die  Gelegenheit, Vollzeit an JUnit zu arbeiten. In diesem Lightning Talk werde ich von meine Erfahrungen berichten und in aller Kürze die wichtigsten Neuerungen vorstellen. Dazu zählen unter anderem Open Test Reporting, parametrisierte Testklassen und Discovery Issues.
