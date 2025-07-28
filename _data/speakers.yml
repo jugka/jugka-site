@@ -14,6 +14,9 @@ abien:
     name: Adam Bien
     bio: Developer (Architect), Consultant, Trainer, Podcaster (https://airhacks.fm), and Java (Champion) enthusiast Adam Bien (https://adambien.blog) has been using Java since JDK 1.0 and JavaScript since LiveScript and still enjoys writing code. Adam regularly organises Java / Web / Cloud / Architectures online live workshops https://airhacks.live and a monthly Q&A live streaming show: https://airhacks.tv.
     homepage: https://adam-bien.com
+khmarbaise:
+    name: Karl Heinz Marbaise
+    bio: Karl Heinz Marbaise arbeitet als Freiberuflicher DevOps/Entwickler im Java Umfeld. Das beinhaltet Entwicklung in verschiedensten Bereichen (Spring Boot, JUnit Jupiter, Testcontainers). Dazu gehörtg auch die Erstellung von Werkzeugen z.B. in Java oder Go. Im Bereich des Build- und Konfigurationsmanagements (Maven, Jenkins, Nexus, Git) führt er seit Jahren Schulungen durch. In seiner Freizeit arbeitet er an verschiedenen Open-Source-Projekten, u.a. am Apache Maven Projekt. Er hält Vorträge zu verschiedenen Themen auf unterschiedlichen Veranstaltungen.
 areelsen:
     name: Alexander Reelsen
     bio: Alexander Reelsen ist Software Engineer bei elasticsearch. Nach mehreren Jahren im Bereich der JVM basierten Webentwicklung mit Fokus auf leicht zu wartenden und zu entwickelnden Frameworks wie dem Play Framework oder Dropwizard liegt sein Fokus aktuell im Bereich Information Retrieval.
