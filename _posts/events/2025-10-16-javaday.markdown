@@ -2,7 +2,7 @@
 layout: event
 title:  "JavaDay"
 date:   2025-10-16 15:45:00 +0200
-registration: tba
+registration: https://www.meetup.com/java-user-group-karlsruhe/events/310239937/
 tags: events
 location: disy2
 speakers:
