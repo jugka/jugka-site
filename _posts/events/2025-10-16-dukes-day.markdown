@@ -25,6 +25,10 @@ Am 16.10.2025 ist es wieder soweit: Der Duke's Day bringt euch spannende Insight
 - 2030 Remote Q&A mit Brian Goetz
 - 2100 Snacks
 
+### Remote Q&A mit Brian Goetz
+
+Du hast Fragen zur Weiterentwicklung von Java? Ob zur Feature-Auswahl, ihrem Design, Tradeoffs, dem sechsmonatigen Release-Zyklus oder anderen Details - Brian Goetz, Java Language Architect bei Oracle, beantwortet sie in diesem Q&A.
+
 ### Java 25 - Better Language, Better APIs, Better Runtime mit Nicolai Parlog
 
 Java 25 ist nächste Release mit Langzeitunterstützung und seit dem 
