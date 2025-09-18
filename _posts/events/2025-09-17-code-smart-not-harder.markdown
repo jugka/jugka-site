@@ -4,6 +4,7 @@ title:  "Code smarter, not harder: How AI Coding Tools Boost Your Productivity"
 date:   2025-09-17 19:15:00 +0200
 registration: https://www.meetup.com/java-user-group-karlsruhe/events/310143101/
 tags: events
+youtube: https://www.youtube.com/watch?v=FD4gW2uD00I
 speakers:
 - dsogl
 location: diva-e-23
