@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  "JavaDay"
+title:  "Duke's Day: Java 25 Release Party"
 date:   2025-10-16 15:45:00 +0200
 registration: https://www.meetup.com/java-user-group-karlsruhe/events/310239937/
 tags: events
