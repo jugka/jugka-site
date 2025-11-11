@@ -2,7 +2,7 @@
 layout: event
 title:  "Performance Optimized Spring Boot for the Cloud"
 date:   2025-11-18 19:15:00 +0100
-registration: tba
+registration: https://www.meetup.com/de-DE/java-user-group-karlsruhe/events/311966098/
 tags: events
 speakers:
 - fpietzko
