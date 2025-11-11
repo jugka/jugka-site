@@ -1,0 +1,10 @@
+---
+layout: news
+title:  "Javaland 2026"
+date:   2025-11-11 08:00:00 +0200
+tags: news
+---
+
+Das Programm der JavaLand 2026 vom 10. bis 12. März im Europa-Park ist da!
+
+https://meine.doag.org/events/javaland/2026/agenda/#eventDay.all
