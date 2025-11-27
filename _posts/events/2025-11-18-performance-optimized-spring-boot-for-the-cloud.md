@@ -6,7 +6,10 @@ registration: https://www.meetup.com/de-DE/java-user-group-karlsruhe/events/3119
 tags: events
 speakers:
 - fpietzko
-location: tba
+location: synyx-glas
+youtube: https://youtu.be/aKxnNalxgJo
+links:
+- https://github.com/frederikpietzko/cloudnativespring
 ---
 
 In the era of cloud-native applications, optimizing performance, scalability, and observability is crucial for delivering robust and efficient services. This session will explore best practices for optimizing Spring Boot applications specifically for cloud environments. We will delve into key strategies for enhancing performance, including efficient resource management and asynchronous processing.
