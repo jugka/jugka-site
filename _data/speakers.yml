@@ -340,7 +340,7 @@ sschrot:
     bio: POET GmbH
 nparlog:
     name: Nicolai Parlog
-    bio: Nicolai (aka nipafx) ist ein Java-Enthusiast mit Fokus auf Sprachfeatures und APIs, der leidenschaftlich gerne lernt und lehrt. Das macht er in Blog Posts, Newslettern und Büchern; in Tweets, Videos und Streams; in Demo Repositories und auf Konferenzen - mehr dazu auf www.nipafx.dev. Er ist Java Developer Advocate bei Oracle und Organisator von Accento (www.accento.dev). Davon abgesehen kennt man ihn für seine Frisur.
+    bio: Nicolai (aka nipafx) ist Java-Enthusiast mit Fokus auf Sprachfeatures, APIs und Weiterentwicklungen der Runtime, der leidenschaftlich gerne lernt und lehrt. Das macht er hauptsächlich auf Konferenzen und in seinem zweiwöchentlichen Inside Java Newscast, aber auch gelegentlich in Podcasts, Live Streams, Artikeln oder Büchern - mehr dazu auf [nipafx.dev]. Er ist Java Developer Advocate bei Oracle; ansonsten kennt man ihn für seine Frisur.
     homepage: http://www.nipafx.dev
     twitter: nipafx
 vdobler:
@@ -591,12 +591,10 @@ dsogl:
 mhalbritter:
     name: Moritz Halbritter
     bio: Software engineer, working at @Broadcom on the Spring Boot team. Team lead of Spring Initializr and start.spring.io.
-tkrieger:
-    name: Thomas Krieger
-    bio: Thomas Krieger ist als selbständiger Software Entwickler im Java Umfeld tätig. Aus seinem Interesse an komplexen Fragestellungen und Tests hat er VMLens ein Open-Source Werkzeug zum Test von multi-threaded Java geschrieben.
-tkrieger:
-    name: Thomas Krieger
-    bio: Thomas Krieger ist als selbständiger Software Entwickler im Java Umfeld tätig. Aus seinem Interesse an komplexen Fragestellungen und Tests hat er VMLens ein Open-Source Werkzeug zum Test von multi-threaded Java geschrieben.
 fpietzko:
     name: Frederik Pietzko
     bio: Frederik started programming in 8th grade, starting out programming Lego Mindstorms and later learning Java and Python for personal Projects. 15 years later Frederik is a Fullstack-Developer with 7 years of professional experience - 3 of those in Kotlin, developing cloud native applications for multiple big customers in the automotive, logistics and energy sector. During this time he experimented with a lot of different languages and frameworks, developing a broad understanding of the Software development landscape. 3 years ago he fell in love with Kotlin and has been using it as his primary language since. In his free time he likes to explore programming langues and frameworks, meet and chat to other software enthusiasts and play with my cats.
+tkrieger:
+  name: Thomas Krieger
+  homepage: https://github.com/vmlens/vmlens
+  bio: Thomas Krieger ist als selbständiger Software Entwickler im Java Umfeld tätig. Aus seinem Interesse an komplexen Fragestellungen und Tests hat er VMLens ein Open-Source Werkzeug zum Test von multi-threaded Java geschrieben.
