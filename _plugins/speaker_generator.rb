@@ -1,3 +1,5 @@
+require 'set'
+
 module Jekyll
 
   # The SpeakerIndex class creates a speaker page for the specified speaker.
@@ -49,15 +51,21 @@ module Jekyll
     def write_speaker_indexes
 
       if self.layouts.key? 'speaker_index'
-        dir = self.config['speaker_dir'] || 'speakers'        
+        dir = self.config['speaker_dir'] || 'speakers'
+
+        # Sammle alle eindeutigen Speaker
+        speakers = Set.new
         self.posts.docs.each do |post|
           post_speakers = post.data["speakers"]
           if String.try_convert(post_speakers)
-               post_speakers = [ post_speakers ]
+            post_speakers = [ post_speakers ]
           end
-          post_speakers.each do |speaker|
-            self.write_speaker_index(File.join(dir, speaker.downcase.gsub(' ', '-')), speaker)
-          end unless post_speakers.nil?
+          speakers.merge(post_speakers) unless post_speakers.nil?
+        end
+
+        # Schreibe nur einmal pro Speaker
+        speakers.each do |speaker|
+          self.write_speaker_index(File.join(dir, speaker.downcase.gsub(' ', '-')), speaker)
         end
       # Throw an exception if the layout couldn't be found.
       else
