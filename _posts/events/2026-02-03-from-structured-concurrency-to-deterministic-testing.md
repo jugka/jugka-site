@@ -2,7 +2,7 @@
 layout: event
 title:  "Structured Concurrency + Deterministic Unit Tests for Multithreaded Java"
 date:   2026-02-03 19:15:00 +0100
-registration: tba
+registration: https://www.meetup.com/de-DE/java-user-group-karlsruhe/events/312885869/
 tags: events
 speakers:
   - nparlog
