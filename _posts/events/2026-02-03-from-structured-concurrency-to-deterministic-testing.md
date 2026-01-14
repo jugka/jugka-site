@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Structured Concurrency + Deterministic Unit Tests for Multithreaded Java"
-date:   2026-03-02 19:15:00 +0100
+date:   2026-02-03 19:15:00 +0100
 registration: tba
 tags: events
 speakers:
