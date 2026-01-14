@@ -25,13 +25,10 @@ let's put it into action and explore how to:
 After this presentation you'll be ready to put the structured
 concurrency API into action in your project.
 
-## Talk 2: Eine neue Möglichkteit zum Test von concurrent, multi-threaded Java
+## Talk 2: Deterministic Unit Tests for Multithreaded Java with VMLens
 
-Stell dir vor es gäbe keine automatischen Unit Tests: Kein JUnit, kein TestNG.
+Testing multithreaded Java is hard because it is non-deterministic.
 
-Das ist der aktuelle Stand bei concurrent, multi-threaded Java. Bis jetzt. VMLens ermöglicht es concurrent Java zu testen.
-
-Ich will zeigen, dass:
-a) Ein 20 Jähriger Java Specification Request, JSR-133, das Testen von concurrent , multi-threaded Java ermöglicht.
-b) Durch Test Driven Design das Entwickeln von concurrent, multi-threaded einfacher wird.
-Stell ich auf etwas Theorie und viele praktische Beispiele ein.
+By systematically iterating over all thread interleavings, we can turn concurrency testing into a deterministic process.
+This talk introduces VMLens, an open-source tool that automates this approach and enables deterministic unit testing for multithreaded Java applications.
+After this talk you will be able to test if your classes are thread safe or not.
