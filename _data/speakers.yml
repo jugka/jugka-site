@@ -598,3 +598,12 @@ tkrieger:
   name: Thomas Krieger
   homepage: https://github.com/vmlens/vmlens
   bio: Thomas Krieger works as a freelance software developer in the Java environment. His interest in complex issues and testing led him to write VMLens, an open-source tool for testing multi-threaded Java.
+ngolovko:
+  name: Nikita Golovko
+  bio: Dr. Nikita Golovko is a seasoned Solution Architect with over 16 years of experience in designing scalable, secure, and cost-effective software architectures for industrial and business-critical systems. With a strong academic background and research in machine learning, he bridges the gap between advanced AI technologies and real-world applications on the shop floor. Nikita has led full project lifecycles—from requirements and architecture design to deployment—ensuring compliance with security and industry standards. He is known for translating business needs into robust architectures and aligning cross-functional teams. Passionate about innovation and sustainability, he focuses on applying AI, IoT, and edge computing to drive continuous improvement in industrial environments.
+dbaier:
+    name: Dieter Baier
+    bio: Dieter Baier is an experienced IT consultant at envite with extensive expertise in agile software development and architecture. His core competencies include application development, particularly focusing on system integration based on modern architectures like Clean Architecture, DDD, and the creation of clear, easily accessible architecture documentation.
+lweinbrecht:
+    name: Luc Weinbrecht
+    bio: Meet Luc Weinbrecht, Green BPM Consultant at envite. As a distinguished Camunda Champion, he dives into the realm of cutting-edge software architecture within the Camunda framework. With boundless enthusiasm, Luc pioneers novel solutions for business monitoring and takes a serious stance in crafting strategies to significantly reduce the carbon impact of business processes. Join him on the exciting journey towards a greener, more efficient future.
