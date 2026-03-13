@@ -2,11 +2,11 @@
 layout: event
 title:  "arcAI42: Extending arc42 for AI Systems"
 date:   2026-04-09 18:15:00 +0100
-registration: tba
+registration: https://www.meetup.com/de-de/java-user-group-karlsruhe/events/313771253/
 tags: events
 speakers:
   - ngolovko
-location: tba
+location: diva-e-23
 ---
 
 arc42 has given us a precise and disciplined way to document software architecture — but AI systems behave fundamentally differently. They don’t stay static. They learn, drift, depend heavily on data quality, and make probabilistic decisions. Yet today, we still document them as if they were ordinary code components. And that’s where things break.
