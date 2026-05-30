@@ -2,7 +2,7 @@
 layout: event
 title:  "Optional Misuse, Stream Abuse: Die größten Java-8-Irrtümer – und wie man sie vermeidet"
 date:   2026-07-22 19:15:00 +0200
-registration: tba
+registration: https://www.meetup.com/java-user-group-karlsruhe/events/315022537/
 tags: events
 speakers:
   - pfichtner
