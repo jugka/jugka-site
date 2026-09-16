@@ -160,6 +160,13 @@ diva-e-23:
   address: Rintheimer Str. 23
   postcode: 76131
   place: Karlsruhe
+1000-satellites-karlsruhe-malzwerk:
+  latitude: 49.0113929124782
+  longitude: 8.427336243697429
+  name: 1000 Satellites / diva-e
+  address: Rintheimer Str. 23
+  postcode: 76131
+  place: Karlsruhe
 etecture-durlach:
   latitude: 48.99600934714235
   longitude: 8.466550805715308
