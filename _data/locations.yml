@@ -196,6 +196,14 @@ dm:
   address: Am dm-Platz 1
   postcode: 76227
   place: Karlsruhe
+sap-wdf05:
+  latitude: 49.2926227
+  longitude: 8.6394555
+  name: SAP SE
+  address: Dietmar-Hopp-Allee 20
+  address2: Building WDF05, Room S3
+  postcode: 69190
+  place: Walldorf
 bluehands:
   latitude: 49.0087003
   longitude: 8.3955221
