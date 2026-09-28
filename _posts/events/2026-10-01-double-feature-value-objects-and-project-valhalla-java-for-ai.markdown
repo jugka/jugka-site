@@ -2,6 +2,7 @@
 layout: event
 title:  "Double Feature: Value Objects and Project Valhalla + Java for AI"
 date:   2026-10-01 18:30:00 +0200
+registration: https://www.meetup.com/java-user-group-karlsruhe/events/316698731/
 tags: events
 location: sap-wdf05
 speakers:

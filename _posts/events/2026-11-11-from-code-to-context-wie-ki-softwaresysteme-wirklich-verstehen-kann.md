@@ -1,13 +1,19 @@
 ---
 layout: event
 title:  "From Code to Context – Wie KI Softwaresysteme wirklich verstehen kann"
-date:   2026-11-11 19:15:00 +0100
-registration: tba
+date:   2026-11-11 18:30:00 +0200
+registration: https://www.meetup.com/java-user-group-karlsruhe/events/316709983/
 tags: events
 speakers:
   - apritzkau
 location: 1000-satellites-karlsruhe-malzwerk
 ---
+
+## Ablauf
+
+Einlass: 18:30 Uhr
+Beginn: 19:15 Uhr
+Ende: ca. 22:00 Uhr
 
 Moderne KI kann heute große Codebasen analysieren, Abhängigkeiten sichtbar machen und bei Migrationen oder Refactorings unterstützen. Doch der Quellcode erzählt nur einen Teil der Geschichte: Er zeigt, was ein System tut – aber nur selten, warum es genau so entstanden ist.
 
