@@ -2,6 +2,7 @@
 layout: event
 title:  "You Are Running the Wrong Tests First"
 date:   2026-10-28 19:15:00 +0100
+registration: https://www.meetup.com/java-user-group-karlsruhe/events/316976002/
 tags: events
 speakers:
   - jbechberger
