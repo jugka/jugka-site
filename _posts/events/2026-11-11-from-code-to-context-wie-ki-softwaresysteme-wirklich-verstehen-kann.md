@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "From Code to Context – Wie KI Softwaresysteme wirklich verstehen kann"
-date:   2026-11-11 18:30:00 +0200
+date:   2026-11-11 18:30:00 +0100
 registration: https://www.meetup.com/java-user-group-karlsruhe/events/316709983/
 tags: events
 speakers:
