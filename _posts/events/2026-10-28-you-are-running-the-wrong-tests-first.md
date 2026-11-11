@@ -7,7 +7,7 @@ tags: events
 speakers:
   - jbechberger
 location: synyx-glas
-livestream: https://www.youtube.com/@SynyxDe/live
+youtube: https://youtu.be/xq_-sSkoiz8
 ---
 
 Having lots of tests is great, but it also takes a long time to run them on every change. While this gives us confidence, it also slows down feedback loops, sometimes dramatically. But what if we could fail faster?
