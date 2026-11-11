@@ -5,7 +5,7 @@ date:   2026-11-11 18:30:00 +0100
 registration: https://www.meetup.com/java-user-group-karlsruhe/events/316709983/
 tags: events
 speakers:
-  - apritzkau
+  - mmancino
 location: 1000-satellites-karlsruhe-malzwerk
 ---
 
