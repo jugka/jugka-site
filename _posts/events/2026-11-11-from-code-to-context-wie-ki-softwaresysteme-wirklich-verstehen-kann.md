@@ -7,6 +7,7 @@ tags: events
 speakers:
   - mmancino
 location: 1000-satellites-karlsruhe-malzwerk
+livestream: https://www.youtube.com/live/kPnhpKZrT-c
 ---
 
 ## Ablauf
