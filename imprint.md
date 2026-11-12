@@ -27,7 +27,6 @@ permalink: /imprint/
 <p>
     Michael Prieß<br>
     Jochen Binder<br>
-    Theo Grip
 </p>
 
 <strong>Haftungsausschluss: </strong>
