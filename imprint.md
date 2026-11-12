@@ -16,7 +16,6 @@ permalink: /imprint/
 <p>
     <strong>Vertreten durch: </strong><br>
     Jochen Binder<br>
-    Theo Grip
 </p>
 <p>
     <strong>Kontakt:</strong><br>
