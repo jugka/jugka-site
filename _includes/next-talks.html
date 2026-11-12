@@ -3,12 +3,15 @@
     Nächste Vorträge
   </div>
   <div class="card-body">
-    {% for post in site.tags.events reversed %}
-    {% if post.date > site.time %}
+    {% assign upcoming_talks = site.tags.events | where_exp: "post", "post.date > site.time" %}
+    {% if upcoming_talks.size > 0 %}
+    {% for post in upcoming_talks reversed %}
     <p>
     <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%d-%m-%Y" }} - {{ post.title }}</a>
     </p>
-    {% endif %}
     {% endfor %}
+    {% else %}
+    <p>Aktuell sind keine weiteren Vorträge geplant. Sobald neue Termine feststehen, findest du sie hier.</p>
+    {% endif %}
   </div>
 </div>
